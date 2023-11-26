@@ -4,4 +4,10 @@
 
 # Schaltplan
 
-![Schaltplan](Relaisplatine_I2C.svg)
+Die Relias werden über eine separate Spannung versorgt.
+
+![Schaltplan](doc/Relaisplatine_I2C.svg)
+
+# Bestückungsplan
+
+![Bestückungsplan](doc/Relaisplatine_I2C.kicad_pcb_F.svg)
