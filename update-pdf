@@ -1,0 +1,73 @@
+#!/bin/bash
+
+export THEME="Harald"
+
+export OUTPUT_DIRECTORY=doc
+
+
+my_exit(){
+    if [ "$1" != "0" ]
+    then    
+        shift 1
+        echo "ERROR $@. Abbruch"
+        exit 1
+    fi
+
+}
+
+
+if [ ! -e ${OUTPUT_DIRECTORY} ]
+then
+    mkdir ${OUTPUT_DIRECTORY}
+else 
+    if [ ! -d ${OUTPUT_DIRECTORY} ]
+    then
+        my_exit 1 "[${OUTPUT_DIRECTORY}] ist kein Verzeichnis"
+    fi
+fi
+
+
+
+
+update-sch-pdf() {
+    git diff-index --quiet HEAD "$@"
+    if [ $? -ne 0 ] 
+    then
+        kicad-cli sch export pdf  "$@" -o "$OUTPUT_DIRECTORY" 
+        set -x
+        kicad-cli sch export svg --exclude-drawing-sheet  "$@" -o "${OUTPUT_DIRECTORY}" 
+    fi
+}
+export -f update-sch-pdf
+
+update-pcb-pdf() {
+    git diff-index --quiet HEAD "$@"
+    if [ $? -ne 0 ] 
+    then
+        kicad-cli pcb export pdf -l "B.Cu,B.Mask,B.Silkscreen,B.Courtyard,Edge.Cuts" "$@" --theme "$THEME" -o "${OUTPUT_DIRECTORY}/$@_B_Cu.pdf" 
+        kicad-cli pcb export pdf -l "F.Cu,F.Courtyard,Edge.Cuts" "$@" --theme "$THEME" -o "${OUTPUT_DIRECTORY}/$@_F_Cu.pdf" 
+        kicad-cli pcb export pdf -l "F.Mask,F.Silkscreen,F.Courtyard,Edge.Cuts"      "$@" --theme "$THEME" -o "${OUTPUT_DIRECTORY}/$@_F.pdf" 
+        
+        if [ -x /usr/bin/pdftk ]
+        then
+            pdftk "${OUTPUT_DIRECTORY}/$@_B_Cu.pdf" "${OUTPUT_DIRECTORY}/$@_F_Cu.pdf" "${OUTPUT_DIRECTORY}/$@_F.pdf" cat output "${OUTPUT_DIRECTORY}/$@.pdf"
+        fi
+
+        kicad-cli pcb export svg -l "F.Mask,F.Silkscreen,F.Courtyard,Edge.Cuts" --page-size-mode 2     "$@" --theme "$THEME" -o "${OUTPUT_DIRECTORY}/$@_F.svg" 
+
+        # okular "${OUTPUT_DIRECTORY}/$@.pdf"
+    fi
+}
+export -f update-pcb-pdf
+
+
+case "$1" in
+
+    pcb)
+        find . -maxdepth 1 \( -name "*.kicad_pcb" -and -not -iname "_*.kicad_pcb" \) -exec /bin/bash -c 'update-pcb-pdf "$0"' {} \;
+        ;;
+
+    sch)
+        find . -maxdepth 1 \( -name "*.kicad_sch" -and -not -iname "_*.kicad_sch" \) -exec /bin/bash -c 'update-sch-pdf "$0"' {} \;
+        ;;
+esac
