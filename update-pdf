@@ -12,8 +12,8 @@ my_exit(){
         echo "ERROR $@. Abbruch"
         exit 1
     fi
-
 }
+export -f my_exit
 
 
 if [ ! -e ${OUTPUT_DIRECTORY} ]
@@ -26,36 +26,73 @@ else
     fi
 fi
 
-
-
-
 update-sch-pdf() {
+    echo "# ################################################# #"
+    echo "# Update schematic pdf und svg                      #"
+    echo "# ################################################# #"
+
     git diff-index --quiet HEAD "$@"
-    if [ $? -ne 0 ] 
+    if [ $? -ne 0 ] || [ ! -f "$OUTPUT_DIRECTORY/$*.pdf" ]
     then
-        kicad-cli sch export pdf  "$@" -o "$OUTPUT_DIRECTORY" 
-        set -x
+        echo "==> sch export pdf"
+        kicad-cli sch export pdf  "$@" -o "$OUTPUT_DIRECTORY/$@.pdf" 
+        my_exit $? "Kann [$OUTPUT_DIRECTORY/$@.pdf] nicht erzeugen."
+        echo "<== done"
+        echo ""
+
+        echo "==> sch export svg"
         kicad-cli sch export svg --exclude-drawing-sheet  "$@" -o "${OUTPUT_DIRECTORY}" 
+        my_exit $? "Kann [$OUTPUT_DIRECTORY/$(basename $@ .kicad_sch).svg] nicht erzeugen."
+        echo "<== done"
+        echo ""
+    else
+        echo "==  kein Update notwendig"
+        echo ""
     fi
 }
 export -f update-sch-pdf
 
 update-pcb-pdf() {
+    echo "# ################################################# #"
+    echo "# Update pcb pdf und svg                      #"
+    echo "# ################################################# #"
+    
     git diff-index --quiet HEAD "$@"
-    if [ $? -ne 0 ] 
+    if [ $? -ne 0 ] || [ ! -f "${OUTPUT_DIRECTORY}/$@_B_Cu.pdf" ]
     then
+        echo "==> pcb export pdf Rückseite"
         kicad-cli pcb export pdf -l "B.Cu,B.Mask,B.Silkscreen,B.Courtyard,Edge.Cuts" "$@" --theme "$THEME" -o "${OUTPUT_DIRECTORY}/$@_B_Cu.pdf" 
+        my_exit $? "Kann [${OUTPUT_DIRECTORY}/$@_B_Cu.pdf] nicht erzeugen."
+        echo "<== done"
+        echo ""
+
+        echo "==> pcb export pdf Vorderseite"
         kicad-cli pcb export pdf -l "F.Cu,F.Courtyard,Edge.Cuts" "$@" --theme "$THEME" -o "${OUTPUT_DIRECTORY}/$@_F_Cu.pdf" 
+        my_exit $? "Kann [${OUTPUT_DIRECTORY}/$@_F_Cu.pdf] nicht erzeugen."
+        echo "<== done"
+        echo ""
+
+        echo "==> pcb export pdf Bestückungsseite"
         kicad-cli pcb export pdf -l "F.Mask,F.Silkscreen,F.Courtyard,Edge.Cuts"      "$@" --theme "$THEME" -o "${OUTPUT_DIRECTORY}/$@_F.pdf" 
-        
+        my_exit $? "Kann [${OUTPUT_DIRECTORY}/$@_F.pdf] nicht erzeugen."
+        echo "<== done"
+        echo ""
+
         if [ -x /usr/bin/pdftk ]
         then
             pdftk "${OUTPUT_DIRECTORY}/$@_B_Cu.pdf" "${OUTPUT_DIRECTORY}/$@_F_Cu.pdf" "${OUTPUT_DIRECTORY}/$@_F.pdf" cat output "${OUTPUT_DIRECTORY}/$@.pdf"
         fi
-
+        
+        echo "==> pcb export svg Bestückungsseite"
         kicad-cli pcb export svg -l "F.Mask,F.Silkscreen,F.Courtyard,Edge.Cuts" --page-size-mode 2     "$@" --theme "$THEME" -o "${OUTPUT_DIRECTORY}/$@_F.svg" 
+        my_exit $? "Kann [${OUTPUT_DIRECTORY}/$@_F.svg] nicht erzeugen."
+        echo ""
+        echo "<== done"
+        echo ""
 
-        # okular "${OUTPUT_DIRECTORY}/$@.pdf"
+    else
+        echo "==  kein Update notwendig"
+        echo ""
     fi
 }
 export -f update-pcb-pdf
