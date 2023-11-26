@@ -63,8 +63,8 @@
       39,
       40
     ],
-    "visible_layers": "ffcffff_ffffffff",
-    "zone_display_mode": 0
+    "visible_layers": "ffcfffd_7ffffffe",
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "Relaisplatine_I2C.kicad_prl",
