@@ -28,7 +28,7 @@ fi
 
 update-sch-pdf() {
     echo "# ################################################# #"
-    echo "# Update schematic pdf und svg                      #"
+    echo "# Update schematic pdf und svg und erzuge ein png   #"
     echo "# ################################################# #"
 
     git diff-index --quiet HEAD "$@"
@@ -41,10 +41,24 @@ update-sch-pdf() {
         echo ""
 
         echo "==> sch export svg"
-        kicad-cli sch export svg --exclude-drawing-sheet  "$@" -o "${OUTPUT_DIRECTORY}" 
+        echo "$@"
+        kicad-cli sch export svg --exclude-drawing-sheet --black-and-white "$@" -o "${OUTPUT_DIRECTORY}" 
         my_exit $? "Kann [$OUTPUT_DIRECTORY/$(basename $@ .kicad_sch).svg] nicht erzeugen."
         echo "<== done"
         echo ""
+        
+        echo "==> sch convert und trim zu png"
+        SVG_FILE=$(basename "$@" .kicad_sch)
+        convert -density 288 "${OUTPUT_DIRECTORY}/${SVG_FILE}.svg" tmp.png
+        my_exit $? "Kann [$OUTPUT_DIRECTORY/${SVG_FILE}] nicht in ein PNG konvertieren."
+        
+        convert -trim tmp.png "${OUTPUT_DIRECTORY}/${SVG_FILE}".png 
+        my_exit $? "Kann [$OUTPUT_DIRECTORY/${SVG_FILE}] nicht trimmen."
+        
+        rm tmp.png
+        
+        echo "<== done"
+        
     else
         echo "==  kein Update notwendig"
         echo ""

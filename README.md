@@ -6,7 +6,7 @@
 
 Die Relias werden über eine separate Spannung versorgt.
 
-![Schaltplan](doc/Relaisplatine_I2C.svg)
+![Schaltplan](doc/Relaisplatine_I2C.png)
 
 # Bestückungsplan
 
