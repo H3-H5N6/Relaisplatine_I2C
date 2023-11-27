@@ -98,7 +98,10 @@ update-pcb-pdf() {
         fi
         
         echo "==> pcb export svg Bestückungsseite"
-        kicad-cli pcb export svg -l "F.Mask,F.Silkscreen,F.Courtyard,Edge.Cuts" --exclude-drawing-sheet --page-size-mode 2     "$@" --theme "$THEME" -o "${OUTPUT_DIRECTORY}/$@_F.svg" 
+        kicad-cli pcb export svg -l "F.Mask,F.Silkscreen,F.Courtyard,Edge.Cuts" \
+            --exclude-drawing-sheet \
+            --page-size-mode 2 \
+            "$@" --theme "$THEME" -o "${OUTPUT_DIRECTORY}/$@_F.svg" 
         my_exit $? "Kann [${OUTPUT_DIRECTORY}/$@_F.svg] nicht erzeugen."
         echo ""
         echo "<== done"
