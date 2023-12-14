@@ -377,7 +377,7 @@ endobj
 <<
 /S /JavaScript
 /Type /Action
-/JS (var aParams = [ { cName: 'Referenzbezeichner = R8', cReturn: null }, { cName: 'Wert = 1k', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
+/JS (var aParams = [ { cName: 'Referenzbezeichner = R8', cReturn: null }, { cName: 'Wert = 10k', cReturn: null }, { cName: 'Quelle = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
 >>
 /Subtype /Link
 /Type /Annot
@@ -457,7 +457,7 @@ endobj
 <<
 /S /JavaScript
 /Type /Action
-/JS (var aParams = [ { cName: 'Referenzbezeichner = R6', cReturn: null }, { cName: 'Wert = 1k', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
+/JS (var aParams = [ { cName: 'Referenzbezeichner = R6', cReturn: null }, { cName: 'Wert = 10k', cReturn: null }, { cName: 'Quelle = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
 >>
 /Subtype /Link
 /Type /Annot
@@ -505,7 +505,7 @@ endobj
 <<
 /S /JavaScript
 /Type /Action
-/JS (var aParams = [ { cName: 'Referenzbezeichner = R1', cReturn: null }, { cName: 'Wert = 1k', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
+/JS (var aParams = [ { cName: 'Referenzbezeichner = R1', cReturn: null }, { cName: 'Wert = 10k', cReturn: null }, { cName: 'Quelle = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
 >>
 /Subtype /Link
 /Type /Annot
@@ -521,7 +521,7 @@ endobj
 <<
 /S /JavaScript
 /Type /Action
-/JS (var aParams = [ { cName: 'Referenzbezeichner = R2', cReturn: null }, { cName: 'Wert = 1k', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
+/JS (var aParams = [ { cName: 'Referenzbezeichner = R2', cReturn: null }, { cName: 'Wert = 10k', cReturn: null }, { cName: 'Quelle = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
 >>
 /Subtype /Link
 /Type /Annot
@@ -745,7 +745,7 @@ endobj
 <<
 /S /JavaScript
 /Type /Action
-/JS (var aParams = [ { cName: 'Referenzbezeichner = R3', cReturn: null }, { cName: 'Wert = 1k', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
+/JS (var aParams = [ { cName: 'Referenzbezeichner = R3', cReturn: null }, { cName: 'Wert = 10k', cReturn: null }, { cName: 'Quelle = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
 >>
 /Subtype /Link
 /Type /Annot
@@ -905,7 +905,7 @@ endobj
 <<
 /S /JavaScript
 /Type /Action
-/JS (var aParams = [ { cName: 'Referenzbezeichner = R5', cReturn: null }, { cName: 'Wert = 1k', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
+/JS (var aParams = [ { cName: 'Referenzbezeichner = R5', cReturn: null }, { cName: 'Wert = 10k', cReturn: null }, { cName: 'Quelle = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
 >>
 /Subtype /Link
 /Type /Annot
@@ -1001,7 +1001,7 @@ endobj
 <<
 /S /JavaScript
 /Type /Action
-/JS (var aParams = [ { cName: 'Referenzbezeichner = R7', cReturn: null }, { cName: 'Wert = 1k', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
+/JS (var aParams = [ { cName: 'Referenzbezeichner = R7', cReturn: null }, { cName: 'Wert = 10k', cReturn: null }, { cName: 'Quelle = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
 >>
 /Subtype /Link
 /Type /Annot
@@ -1193,7 +1193,7 @@ endobj
 <<
 /S /JavaScript
 /Type /Action
-/JS (var aParams = [ { cName: 'Referenzbezeichner = R4', cReturn: null }, { cName: 'Wert = 1k', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
+/JS (var aParams = [ { cName: 'Referenzbezeichner = R4', cReturn: null }, { cName: 'Wert = 10k', cReturn: null }, { cName: 'Quelle = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
 >>
 /Subtype /Link
 /Type /Annot
@@ -1369,12 +1369,12 @@ endobj
 <<
 /S /JavaScript
 /Type /Action
-/JS (var aParams = [ { cName: 'Referenzbezeichner = D10', cReturn: null }, { cName: 'Wert = Relais', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Light emitting diode', cReturn: null }, { cName: 'ki_keywords = LED diode', cReturn: null }, { cName: 'Footprint = LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = LED SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = LED handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
+/JS (var aParams = [ { cName: 'Referenzbezeichner = D10', cReturn: null }, { cName: 'Wert = Power Relais', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Light emitting diode', cReturn: null }, { cName: 'ki_keywords = LED diode', cReturn: null }, { cName: 'Footprint = LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = LED SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = LED handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
 >>
 /Subtype /Link
 /Type /Annot
 /Border [16 16 0]
-/Rect [229.726 174.174 244.324 187.842]
+/Rect [229.726 166.818 244.324 195.198]
 >>
 endobj
 
@@ -1961,7 +1961,7 @@ endobj
 <<
 /S /JavaScript
 /Type /Action
-/JS (var aParams = [ { cName: 'Referenzbezeichner = R8', cReturn: null }, { cName: 'Wert = 1k', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
+/JS (var aParams = [ { cName: 'Referenzbezeichner = R8', cReturn: null }, { cName: 'Wert = 10k', cReturn: null }, { cName: 'Quelle = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
 >>
 /Subtype /Link
 /Type /Annot
@@ -2041,7 +2041,7 @@ endobj
 <<
 /S /JavaScript
 /Type /Action
-/JS (var aParams = [ { cName: 'Referenzbezeichner = R6', cReturn: null }, { cName: 'Wert = 1k', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
+/JS (var aParams = [ { cName: 'Referenzbezeichner = R6', cReturn: null }, { cName: 'Wert = 10k', cReturn: null }, { cName: 'Quelle = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
 >>
 /Subtype /Link
 /Type /Annot
@@ -2089,7 +2089,7 @@ endobj
 <<
 /S /JavaScript
 /Type /Action
-/JS (var aParams = [ { cName: 'Referenzbezeichner = R1', cReturn: null }, { cName: 'Wert = 1k', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
+/JS (var aParams = [ { cName: 'Referenzbezeichner = R1', cReturn: null }, { cName: 'Wert = 10k', cReturn: null }, { cName: 'Quelle = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
 >>
 /Subtype /Link
 /Type /Annot
@@ -2105,7 +2105,7 @@ endobj
 <<
 /S /JavaScript
 /Type /Action
-/JS (var aParams = [ { cName: 'Referenzbezeichner = R2', cReturn: null }, { cName: 'Wert = 1k', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
+/JS (var aParams = [ { cName: 'Referenzbezeichner = R2', cReturn: null }, { cName: 'Wert = 10k', cReturn: null }, { cName: 'Quelle = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
 >>
 /Subtype /Link
 /Type /Annot
@@ -2329,7 +2329,7 @@ endobj
 <<
 /S /JavaScript
 /Type /Action
-/JS (var aParams = [ { cName: 'Referenzbezeichner = R3', cReturn: null }, { cName: 'Wert = 1k', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
+/JS (var aParams = [ { cName: 'Referenzbezeichner = R3', cReturn: null }, { cName: 'Wert = 10k', cReturn: null }, { cName: 'Quelle = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
 >>
 /Subtype /Link
 /Type /Annot
@@ -2489,7 +2489,7 @@ endobj
 <<
 /S /JavaScript
 /Type /Action
-/JS (var aParams = [ { cName: 'Referenzbezeichner = R5', cReturn: null }, { cName: 'Wert = 1k', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
+/JS (var aParams = [ { cName: 'Referenzbezeichner = R5', cReturn: null }, { cName: 'Wert = 10k', cReturn: null }, { cName: 'Quelle = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
 >>
 /Subtype /Link
 /Type /Annot
@@ -2585,7 +2585,7 @@ endobj
 <<
 /S /JavaScript
 /Type /Action
-/JS (var aParams = [ { cName: 'Referenzbezeichner = R7', cReturn: null }, { cName: 'Wert = 1k', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
+/JS (var aParams = [ { cName: 'Referenzbezeichner = R7', cReturn: null }, { cName: 'Wert = 10k', cReturn: null }, { cName: 'Quelle = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
 >>
 /Subtype /Link
 /Type /Annot
@@ -2777,7 +2777,7 @@ endobj
 <<
 /S /JavaScript
 /Type /Action
-/JS (var aParams = [ { cName: 'Referenzbezeichner = R4', cReturn: null }, { cName: 'Wert = 1k', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
+/JS (var aParams = [ { cName: 'Referenzbezeichner = R4', cReturn: null }, { cName: 'Wert = 10k', cReturn: null }, { cName: 'Quelle = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
 >>
 /Subtype /Link
 /Type /Annot
@@ -2953,12 +2953,12 @@ endobj
 <<
 /S /JavaScript
 /Type /Action
-/JS (var aParams = [ { cName: 'Referenzbezeichner = D10', cReturn: null }, { cName: 'Wert = Relais', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Light emitting diode', cReturn: null }, { cName: 'ki_keywords = LED diode', cReturn: null }, { cName: 'Footprint = LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = LED SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = LED handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
+/JS (var aParams = [ { cName: 'Referenzbezeichner = D10', cReturn: null }, { cName: 'Wert = Power Relais', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Light emitting diode', cReturn: null }, { cName: 'ki_keywords = LED diode', cReturn: null }, { cName: 'Footprint = LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = LED SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = LED handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
 >>
 /Subtype /Link
 /Type /Annot
 /Border [16 16 0]
-/Rect [229.726 174.174 244.324 187.842]
+/Rect [229.726 166.818 244.324 195.198]
 >>
 endobj
 
@@ -3130,7 +3130,7 @@ endobj
 
 <<
 /Filter /FlateDecode
-/Length 49640
+/Length 50023
 >>
 stream
 x⁄ÃΩ[Ø%=íˆﬁø¢G0ÊSíAfÜ …sÅ5Ç`Oè˝>.ÀÜÑ⁄3ˆh`˛ıŒ‰%πbE6¶œ9µ€’urÌH2"d2ôqŸ~€∂öøm◊ÎœÔØoÈ€ø?ˇˇ_˙/ﬂ˛Èˇ¸Ì_€-Zæ˝∑ﬂÖﬂ~∑˝f©≠≠πÒÁı˚‹®∑mìCÍñŒ÷L∂,øïo≤´ñﬂéoØÖí‰∑ÙÌ«ÔÃéZ~”'d‹ı#¥Û„wˇ€˘ Â˚fzvrë´ïyı„æí“Æ•øÍîüÏU æ}{}õWª…o˚∑\∑S |^_mÁöm?Ø4_4Û∑∆ﬂ}_ø∫⁄¸~_ŸvµµÓª∏üm^á˛⁄oÉóq˘˝€'•ÃN LRfê2ìî§ÃN Ï§Ã$e)3IôA Ï§Ã_í29)Iô@ DR&ê29)ìì2ëî	§L$e)ìì2}I ÕIπëîHπëîHπ9)7'ÂFRn ÂFRn ÂÊ§‹>'Â\ON˚ßu…Tiz@∆]?B;_!$óöõé€Œ^^"÷4sX=€˛q!õt§Ó≠…∂ßÛØºoi;ÔnH’ì∑—˝7sàl◊øxóhn›-ÔR;≈Ë{ó√~ìét˛v›rÔÈîπ6@ä6ö˚.Ÿé“ëﬁÆ§¥ü=Bœí≤ù“w7rKpﬂuK9€]öò}/mM˛ÜFaîˆjW€0J˚IÛ[u∫¨{q⁄ﬁSù£6Fd7#;ê#•4G≠ﬂu$=Œ÷†›#ùø$•#ü#†(·âS/]àtM≠ª¶6WÀS„´˜9*ã√{ún)Óq∫%Ω«Ë‚∂ê[[∑uç˛:˛¯(i:≤µ'\_Ω÷ınó4ö∑zŸëÈ∂]‹hn´Õ∏˙~^kæË÷Ô◊ËÏpˇºÓ´Œ∫∂mkÙ„~≥F?ûøÌÍ˚Í˛~Û7Ów¸_´ÏÀæ∞”sZ^Zøır_ÔÁl<æ©n{=«Ô‹m‘k˛™éΩHª:˘>W¿ãn˝nz˝ªÓü◊C/˜ı…—ŸÓ∫ˇº·Ïw∂ﬂØæCˇ„˜õøqø„ˇ'Í•êΩ≤óJˆR…^*ŸK%{©d/ïÏ•íΩT≤óJˆR»^ õÏEI/Jz1“ãë^åÙb§#ΩÈ≈H/Fz1“ãí^ÙMz1öGFÛ®–<*4è
@@ -3204,101 +3204,98 @@ aç™◊ﬂ)≤jìÜT´ˆcÿcZïUCÓ”™tDj"•’£«P´	dÙÿ+åŸpÑm-À®ê¥™¢1∂AN‰˛∆XK…‘KD:›{ÃQ•ª∆
 ¬.™\ªtHÂ±¶œ…'ÙË±F’Ú+xÓ=÷ÙŸﬁfPà†∆QõsT≤1ÕïŸnÜÒırùk‰∫c®Ål,ˇÖ†&sÀPÈ5Ÿ1§ÚéÍ¥‰⁄chq®èΩ»öï»z˘
 ]J˘X!“/¨"«ﬁJœﬁ œEª˘w’c¨QŸ5j˙kT’ÆÎª‘üGEÛ”(»ÿEïR+FsTÀ˝â0Ë
 #2vs%=ÄbçåÅ6°#cØ5
-HEX£“k-v=÷®2qÓêF—ºÄúª®ˆÊO‰¥Iò£Z#CÙà£LÿÕ9ZãC@huÑΩÇMˇ*sª\)π>>∑”Á]8œ’Æç√mAÁˆÆ“ÙW⁄ß>†i◊8˚“(˙úÇ“µåµæ⁄Lﬂ†'DÄ([˚+ñÔ‹>Í£%?°|Á w¶áÚù)îÔLÂ;S(ﬂπ=îÔ‹B˘ŒÌ°|Á wnÂ;∑Pæs{(ﬂπÖÚù[(ﬂπQ˘ŒÌ°|Á wnÂ;∑PæsÂ;7*ﬂπ=îÔ‹B˘ŒÌ°|Á wn°|ÁFÂ;∑áÚù[(ﬂπÖÚùïÔäQprY¿,8âvBX;ı’VÇrC_èA	OGÂ1(·π’E,`–‹j¯:71‡~IË§à~,√ﬁ¢Oh¸Êí}kÓëª•ç>:`„$‹Sylùécoà@IQ«ı(∫Öb°€C±–äÖn≈B∑P,t{(∫Öb°[(∫Q±–Ì°XËäÖnø†/å~ÿSWø˛–‡©´û∫<uı¡SWÉßÆ>xÍj‘’O]û∫˙‡©´¡SW<u5xÍj‘UÚ‘’O]û∫˙‡©´¡SWÉßÆíßÆ>xÍj‘’O]û∫<uï<uı¡SWÉßÆO]%O]†´ñ_Nıàm}?Ì$Œ˜li´w9dèµµ¥nΩ?†Í´í=}–”‡°ßz<ÙÙ¡COÉáû=%=}–”‡°ßü/a¸Ó(À||8 ≤~5 2> Úˇ´Ómñu◊ï-°˛}ä’ÑFmÏ¸ëÏn@É≈·™VQƒùT—‚È±ıceé‘ﬁ€Û≥◊âEÏàsñr ©ñ¨ORf—≥,i«¸….±î≥ZòeY%#ÀÚ(á,À.Yñáç!À≤ÀFñeGb≥,-∫öwËkyŸ»≤Ù-zŸ»≤Ù÷{Ÿxü>ÀrºÅZäYñº`ñ%Ì1À≤ÀÏ€ﬁBüB´6]]Ç}R%_¶}æHË~;˙és˝(ﬂ£Ô‡ß‹íë{@∂»=‡jU…Ü‹≤yÓŸê{¿‘(nŸ"˜Äl»= [‰êπdCÓŸ<˜Älë{@6‰ê-r»Ü‹≤EÓŸê{@∂»= r¯Z5{^.“ç3w^)«(∆Å‚x:4X !'Î¨æéïÊãeÉ¿bGŸ∞ÿì3…U#{íß!1-eGÂd∆ÍÏ®ßúÏBÔ»O¨§º≈ö(Î	RúÏÎbÖ∞≠°l0"XÀbìO#À7„iÙi<ÕÈÒ—«b9ƒ”tŸà¸µºlDëíO”e#"ÂêÑxö.—-á$ƒ”tŸàîë5∆”tô≠„i∫Ã∂„i∫ÃZ„i∫ÃæâO”eˆ≠∆xöY9ˇ}ù‹ÃªOìJ°áj<¬Ònåü‹À¨.a·d•ñT\èìüªØÂe√Ô[Ù23Õ;ÎΩÃ¸d∏ﬁˆ2[+∆(tôm1∆;tôµ>∆NÿﬁÓ®cÜÌÌ˛]LáìŸrÒ!Nf{{XˇM{Èª”ﬁ˙t⁄K·£Jìi/Öi/M¶Ω¶Ω4ôˆRòˆ“d⁄Ka⁄Kìi/Öi/M¶Ω¶Ω4ôˆRòˆ“d⁄Ka⁄Kìi/Öi/M¶Ω¶Ω4ôˆf=¥Ü3[´q_+uª∆Á“ﬂ≥ùùlÑS˘Ú≤öÂ{»À¨]Á}fø≠ä‰˚è≥ÙHáÄN84pËÑC@áÄL8$p»ÑC@áÄL8$p»ÑC@áÄôpH‡ê	áÄ	2·ê¿! 	88d¬! ÅC@áÄ áÄ	9ﬂ2·‡ê¿! ÅC@&8$pà„ê¿! ÅC@&8t¬!†ÅC@'8d¬! ÅC@&8$pp»ÑC@áÄL8$p»ÑC@áÄL8$p»ÑC`6û"áÄ áÄ	2·ê¿! 	8$pp»ÑC@áÄL8$pH‡‡ê	áÄôpH‡ê	áÄôpH‡ê	áÄôpH‡∞vı|˝ÒÆÆ˛r#mù∆`€´u∆7|iNø[n§|;ﬁE_tÜxôƒªHàwëIºãÑxôƒªHàwëIºãÑxôƒªHàwëIºãÑx	Ò.Ò.2âwëÔ"ìx	Ò.‚]‚]dÔ"!ﬁE&Ò.‚]$ƒªƒª»$ﬁEBºãÑxÅx±— ï≤“D≤ú3´%Nbºú.ÚƒÀ.=.Ü≈J'Ä∏h/sëLbf$ƒÃ»$fFBÃåLbf$ƒÃHàôàôëIÃåÑòôƒÃHàôë3#3#ìò±—0ÌÕπò'Ωb~%Ø≤ÌŸ/#!^F&Ò2‚ed/#!^F&Ò2‚e$ƒÀƒÀ»$^FBºå¸ñÒ2Ú˝xô«ªR	ªRôÏJ%ÏJe≤+ï∞+ï…ÆT¬ÆT&ªR	ªRôÏJ%ÏJe≤+ï∞+ï∞+ÿï dW*aW*ì]©Ñ]©Ñ]©¿ÆT&ªR	ªRôÏJ%ÏJ%ÏJv•2ŸïJÿïJÿï
-ÏJMç>cÖ}ã»$^FCºåL‚e$ƒÀ»$^&¨Fe≤ï∞ï∞ï∞ï∞ï∞ïW£ø⁄ÅøhΩCùÆøªáÕˇÌÁáÕÀ^Ô†–ÛB›r‡Y(“))WWñ#Cêùµ∂zkÉfÓõnîïZı÷_À…ŒZ9ù1æE/+µË§<=££˙@Y©UÔ≥–≠\≈ÿj9ŸYÎåX9µÔÀh—À\≠¥\÷{ôi1-£óÎ”R.ít÷7ôyÁipwÉÃº’¥å^fz»◊r2”€ÆE/˚£‰‰„ËÔ~Âz©¬Ë«cŸ"8&÷µ^Faj5âµd•V≥‘º/êïZıb[t2cWZ÷ÙëgÈürºÕﬂﬁéÊÁ€Q€QûlG9lGy≤Â∞Â…vî√vî'€Q€QûlG9lGy≤Â∞Â∞eÿéÚd; a; ìÌ(áÌ(áÌ(√vî'€Q€QûlG9lG9lG∂£<Ÿérÿérÿé2lG9§_∞Mø(?˛Ï”/úÃáπÕO#Û
-ûl\8l\x≤q·∞q·…∆Ö√∆Ö√∆Öa„¬ìçáçºq˘g]Ñ˘ΩàA}|f∏ã'~q∏ã√Ö_~q∏ã·¬/û\¯≈·¬/û\¯≈·¬/~1\¯≈ìø8\¯≈ìø8\¯≈ìø8\¯≈ìø8\¯≈Ó¬Øv©·à	l}bn!2sm†≥»À¨wQ°ìôÎ2}¢ìô∑…ä∂VΩxqõ\∆h£ﬁ…≈é.
-qØ⁄„%ë.±HÚ‰¬IçXµÁ…Âï6±Zö'a⁄hƒä:O.’¥â“¥€àD'3=‰ZÙ2”€G$˛ÚÃ ˛˛˝KÈif √˝K<πâ√ÕJ<πiV+D°√˝K<πâ√˝K<πâ√˝K<πâ√˝K<πâ√˝K<πâ√˝K<πâ·˛%Ü˚óÿ›øƒì˚ó8‹øƒì˚ó8‹ø‰k5ôπ©KŒÅZUf˙EGv  Løú7÷˘^)íRc?˜-|,yÙâìô∑Ìn{Ú≤r€”VV-˛N('+ÔäŒk¬}ã^Vjïß…ñØ©¬ÀÃ{wo¡Àl-·Í/Æ5˜M9ôµ\ØU& Ï[8ØE'xUVFU*≠´Âef¸∫ΩÃˆéµﬁÀJ≠Tâç∆[∞[√æM/sc¡ÙåóYÀm/{ô}cƒ¸ñ+V˙ﬁä5?]±RX±“d≈Ja≈Ja≈J∞b•∞b%X±“d≈Ja≈Jì+Ö+Ö+¡äï&+V
-+Vö¨X)¨Xi≤b•∞b•…äï¬ä’◊⁄S√◊s\J.Ÿ,#WœR˛}Ôê¸~v#?æC≤eí›(!oQ&Ÿç≥Z·I»nîIv£ÑÏFôd7J»nîIv£ÑÏFôd7J»nîIv£ÑÏFôd7
-d7
-d7äÀnîIv£ÜÏFôd7J»nîIv£ÜÏ∆Ûj¸∫yŸ¯Ω—≈⁄Âe∂˛nU…xèÁô˛˛uŸxèG˚·∑¥À∆/í∑‹À∆oºØÂecΩ‡[Ù≤±ˆ÷{ŸóÈ/\√å∑–Àn≈‰d∂5ªFÛ2kyÌ—ﬂñnYæK∑,è”√ôØLËñ%–-ÀÑnY›≤LËñ%–-ÀÑnY›≤LËñ%–-ÀÑnY›≤LËñ%–-ÀÑnY›≤LËñ%–-ÀÑnY›≤LËñg=‰“äjÚQ ‡ıµRÕìL∫z"Âı≈™Ö2ìπkj˝é‹[˚wù?ÎÛ(í„SÁOZ¢ÛßÀÏù—˘ck5é©}¬ΩµÓ≠}¬ΩµÓ≠}¬ΩµÓ≠}¬ΩµÓ≠=poÌ¿ΩµO∏∑ˆ¿ΩµO∏∑ˆ¿ΩµÓ≠∏∑ˆ	˜÷∏∑ˆ	˜÷∏∑ˆ¿Ωµ˜÷>·ﬁ⁄˜÷∏∑v‡ﬁ⁄3’ûvERn\∞µ˙MK∏ß»å¶Ê"r„dÜyjwYNfÌ⁄ò "Â¿ÉºR{åH1÷_7"`Dä≠”ÿ°våH1¯.ÕüE§¸⁄]I.ké}ïı{˚íè„Q§t—9lì§ÎD"’Ås˘ıF-N◊.¿I⁄.‡Okù+!_Áî‘=G≈|íkÌÁe•V]ü{Çq"Ëeı$Ø}:íÃIûïïµrŸ´¯Z^V◊ [}Œ¥Ëe•ñPEc¨˜2˚F«[∞[√ºÕˆŒè°€ı\Ω∞ÖZ]fﬂ˘6—•TCB≤ÜZºı˝ô:âÌAW´¨±	è˝ôóï˜^víGã◊ı+(´˚∆\>Ûa◊oπÓÊÔÆª””u7áUO÷›÷›<YwsXwÛd›Õa›Õìu7áu7O÷›÷›<YwsXwÛd›Õa›Õìu7áu7O÷›÷›<YwsXwÛd›=Î°∏Ó∂Ô>ı72è]≠I•–CïÄ˝’$N6®|yŸXÈ˚Ú2[+^i¡·Jû\i¡·Jû\i¡·Jû\i¡·Jû\i¡·Jû\i¡·Jû\i¡·Jû\i¡·J?¢ΩÃ∂i,ÿ^V—,çî∂á:ÍHØ¡ˆùˆUáìŸr¥Nf{€]¨‚dv‰å7Ò;\µ±5‚˛c˜˘≠´6>'“Œ[ΩX„ÿµ´6.	Ûu’FﬁÎE'yGΩj#∑KAÑ∆ ˚2œqæÆ⁄∏dymóQ\ŸÆ+.ŸπÜ…Æ≈*Ò-öZı¢—q˝»ŒZ©k[Ä¨‘í\/"ΩÏ˙»÷µ]§¿ºˇs.R–F:œ€ﬁi“ÕìT
-t/+µÍïº]ì J≠ì:ù∑ÎG√KJçzÖo◊}P(+îÎï¶ùÛ5â†Ã÷Jñº›…lãj-w≤aπÚ†ä∑˚Ùö‚Qfﬂ¶éÎ@ˆez¡‘Y©UØ∞-Ç¨‘"∞‹IJçzÖÅ} ;kµÎÏ€ô≠ezd∂E”À ñõ—‚$ˆl÷r'˚
-c˙∑πH·≥o˚¡¸ﬂ«˛5ÇRÔ3ŒrŸxå:≠læ~'9µÏıÇﬁÃ◊·e•VÌ;3Ó≠ƒZì?$™YèÔh˝eõ1:‘yñª7v◊ø˝”√‹è√¯OB‹r´r˝âmeÊµZNRj,[πÔì$˜têùµéùyŸØ˚⁄?-êµ∂=mÂ–5QÔ2êïZ+ï≠˜®ıœ⁄Bﬂ[gi«Vö¯ú5Ó~fˇ}~QZè˘g?vΩ∆•úI‘rªÍ≈HJç\‚téM‚v]RÊe•÷ŒgÄÃ:Æ’≤ízIO…ÿ•_<Â$∂Üˆk∑úd¥¢	[—ÎÍÆnôöÎŸºÃ¢N◊EaVÚuΩ•Ò˜§%ÂÿXÙ∞ó|äcC2.¿Ú≤°gª.ÂÒ◊›\jf%∂ï›\¢Êe_∆∫˝ÍE+)5 {⁄«ä’IŒôó˙Ñ©„e•÷÷⁄æZ≤€ã9ÙsÜ~-˝l{RnL˙Vt◊Ú&g:üêçÓ*Jv—]≈Ènk5	õË.#)z÷∞í∫ˇÊ3dÑmtóóUˇÂπß=$6∫À…æ6—]F‚jÿË.'≥≠πË.'≥ñ€Ë./≥o¿Ew9ô}ì.°˙z/ª.	πhˆÍÎÂ3x±Í⁄˜⁄õá…#+¡…J¨XıñõZø°GXˆÔﬂ∆ÙúW xÑu‚÷‡÷âGXÉGX&a	aôxÑ%xÑe‚ñ‡ñâGXÇGXÇGX¿#,è∞è∞L<¬<¬<¬aôxÑ%xÑe‚ñ‡ñ‡Àƒ#,¡#,¡#,‡∂5˙˝=·6¶er”Ç∑1=ncÍ2√´≤Oòeˆ¿,≥Oòeˆ¿,≥Oòeˆ¿,|ﬁ◊;∏ fô=0ÀÏfô=0ÀÏÅYffô}¬,≥„mLæñó.áoc„§ˆ¶∑∫Ò8ØπLºÊºÊºÊºÊºÊºÊ≤ˇû<›)˜]“‡¸ÿ)(iyBÃÅ4ò'§¡HÉyBÃÅ4ò'§¡HÉyBÃÅ4ò'§¡HÉyBÃÅ4ò'§¡HÉyBÃÅ4ò'§¡HÉyB<Î![KS{◊ªØlæáºÃ8MåÆﬂë„@◊o.j“∫!«ÅÓë„†…LVæØÂd&ªøiw˘˝¶≈∆
-†[‰8h2√:†9r4ôa/–9öÃ÷R‰8(€öDéÉ&≥ñs‰8h2˚9äƒæMéMf8|-'3¶5+1Ï ë„†…l-EéÉÎı∂»íÃh¡jnúÄÃpÿq≤AwH,Øìu87Júd¸úª12[K}kóç÷Ë[Õ{lÀ	”Nb—s†o5˝⁄/æñó}ô`Xç÷∏Â≥qX`Y´Î¬Ã£˜2[K÷—$Æµè]f≠Na!j{§£MaQ€eˆm⁄Z^f{≈ç'Ωkm∑;J∆h‹™»Õ—$éuc|óD"7Gìn;„ÄÃpsåQ‡$Üõ√é&ênSÎ˜:ñﬁõ˚_s˛ñ˚ˇÛcÈ≠9˚uÎG ]íñqîª5gºn©πˇ∑Êx◊}√ÇÏk<óV∫‹ˇõf*ƒ©£n™Rjë^öåƒ¥ñ(∂÷d∂è0êŸ÷dˇÇÏÀX)bZt≤≥VZó5éâAVj’0_À…ŒZyi6òΩÃæQG˛ ≥µFãøÉs37ÁÊ?Ìñ¯≠97«ππÌ-Ò[Ÿ¿ç:µloâwí∞í¬-Ò ´a-pKºìk>æ%˛◊:°øŸOüò§Êå7o∏Ö?ÿ^ Y©UC)ÚzmQVjùAy]Æê')5jhG>v£5'˚ÆÚ¥_õJîπZ∆}Óe¶≈¥YÀùÏ≤<e3 ¨ƒºÅ£ÀÆpêô∑iG=»æF/ÿZ +µj(ÖmdócﬂZÓ$•FÌ∞o d∆˝oﬂ&»\≠—3 3-⁄^Ÿeπ-NbﬁÄu ˚
-c˙7ª‹Jø<NOœ©4Ñ&Î$x\C∏NÇ«5èÎ$x\C∏NÇ«5èÎ$x\C∏NÇ«5èÎ$x\C∏NÇ«5èÎ$x\C∏NÇ«5èÎ$x|÷CÓú™qjb(∑˜^6¬¬}?zŸˆµºl˚Ωl0´D˜≤}HÆx3îŸZ„¢,îŸ]0¥ì}]'}VùÃ∂¯Èπﬁ/Ÿõ0o[ΩU‰‰0€Ô{Íˇ◊˝˜ˇÈø|<yyH≥ñ{¶ö˜òk0/K‚À}’bnDæg<`±∂Jj-/≥µdª<‰ ;kIYÖü˜ºtO4 J-¢r3ä E´≤R+-Ìﬁ¨ÀC≤Ç±Ï¡|-/+µ¥Ÿ`ZÙ≤R´ƒWxÎΩÃΩUÛ&ºÃ÷≤oı<à*˜%Âôpı∆&Ùœ)±5rR®qJæå÷l{Ÿ…J-™8éE˜eµóŸ7`kyY©≈ZÙ2€3√r+±5z+±-’7Ê[o±[∏Ì)Ù[ïùµŒ›&C-/+µ nﬁS}„∫^c†Ω_]Ã2ÛŒu}g$Ê´≤5Z[“ﬂ@≈Q Ÿ®Qﬂá
-ı, ÃªVﬁ˙^eÆ÷≤≈ZÀ÷k5Ì«j˝j±£?nèèã˛ÿÚ„ﬂµÁeˆmœ⁄´2˚∂èˇ˛¿˜]e•∑fª©Âef∏Ω¨‘¢hΩóŸZˆMxôù¶ü˚{HîÎ¢ÎÍâ*qs∞©’Ê[M∆*/3s∞”ÂeNó§Î=xŸW∞·OÌö¥ÿ{Òdø"7"6Ê0"™Ã÷⁄'„f„fótÕ˙^f«Õ±“3µìïZµ´Âd•SÌ!€¢óŸ—e≠˜2[kS∫ﬁóóŸ—µ≠√./3øFÌ=ªﬂ,ÛÓ˚Ã‚j9ô˝˙mã^f«™µﬁÀl≠}2ﬂÏaæoıwºÅu_øMQˇ¸÷›∑¥G˜móô;C˜Ëæµµ⁄M£{tﬂ⁄€ù•{tﬂvôπuèÓ€.3w´Ó—}€e∂∫o´ƒ∂›∑]f-èÓ€.≥o›∑UbﬂftﬂvôπÒtèÓ[[´˜(∫oGkÌ&’=∫oªÃ÷B˜ÌxGΩmÖò43Ω' 3˜OZd˝N≈›`]‚ÓT¯/…éw*ö:ÌNE;JZùÔTº–˝fLÜÙ}6ÊÌ)ì!3Mÿò),”ÑçyVô	ÿòi¬∆LÅçô&lÃÿòi¬∆LÅçô&lÃÿòi¬∆LÅçô&lÃlÃlÃ‰ÿòi¬∆LÅçô&lÃÿò}≠f≥eªmã«vÎdÊ-9∂[/\À‰¯ëΩÃÙãØÂd¶è=o≥ìôÒ‚¨˜2Û&<ó¥ìŸZÉÅ–Jlkˆ[2kπeEÙ2˚,√¢óŸ7Íj9ôÌ€¢óŸûv,íNfF∫eQ6íØ0Ü˛l\µqÔz∆ÀÆ—Ó9îŸè©ºiãf¥xŸ‡´§	37fnö0sS`Ê¶	37fnö0sS`Ê¶¿ÃM¿ÃMfn
-Ã‹4aÊ¶¿ÃMfn;Z˙€s†N6z∆qâ≤OΩ7≠Â^6Oø¡ykª‰‡˚¡˙¯í Ê	A0Í_ûœjÖKÄ ò'¡ÇyBÃÅ ò'¡ÇyBÃÅ ò'¡ÇyBÃ@Ã@Ãé ò'¡ÇyBÃÅ ò'¡bHoªƒN5^f®èY≠óeßÀÀ∆Ù.À∏
-¡Jl$ ñ	—∞¢aôK ñ	—∞¢aôK ñ	—∞¢aôK ñ@4,@4lﬂ§ïÿñ‹âìY´[ÚˇÊØ˛n^?ˆWá®}ù‰Uh»´–I^ÖÜº
-ù‰Uh»´–I^ÖÜº
-ù‰Uh»´–I^ÖÜº
-ù‰Uh»´–I^ÖÜº
-ù‰Uh»´–I^ÖÜº
-ù‰UÃzh‚Yµy’≥ÍÛ*úÏÎ¢>cïìıâ≠\≠Íõ^#Iñ}˜ÕSºF¬≠.≥÷GÚ.€C]â¿∫Ã∂I≈∫ÃZ	 lu‘ëÏÃˆP%ÍÚµºl–r˘ΩÃ¯—çıøChÕö÷p||ﬂô™˛›˛ÒTµ∂[∫®GÚ∫iI9"ª∂·L≠.ë+6	eg≠}âµº¨‘íí0E2Ü8»J≠ö‰Dr≈U°ÏÀ‡·+BeÆ÷ F/≥-R6v9ôµû∆T2˚&Ï[ı2˚VM-:Ôr€Ìª'j⁄G\( J≠BmzH∆«≤≥VK0£áä≤R´r0“:¶*êïZZx â∆ß2[ÀÙ»lã¶∑AVjQa¥#dˆMòQ≤R+éUê}ôﬁ∞-zY©’æ!kΩóïZ∆*»l-3
-Af[t#«…¨ı∂áºÃæ	ZÃ¯r2˚V]-'≥=‰∆ÑìŸﬁ∂÷{ô_◊õ¯Ê˛Ù¯EŒï¶“9√ÓÖg≠ûñt,BÎé≥H>X«vùß≠&√@+Ë´åù≠ï:£ùÎ§º-kπTΩŒCgÙj*˘ ]ÚÅN–`t.'««˙ƒNY+ÈM◊X Ù5ãæ¬õxÄ;Í¸wÔaÅq‘%t≤¿8z†¨2v∂VËåv~¨ìœÄÆÛ^∞cJ©æ¯cÍª Ësœ_˙∂=Ûg˙™}Ì˘/∞˜Éôs≠¥T gJ`9k∫$;…GcR÷ìd˛Ëó\ø≈´|¨È?£M˜B≠ó?˚∂—c!üT∑˙éŒúè5‚˛ıâ≤Ÿd4~n%-ÖCÈÃ≤îz6uIt›> E@ßŒJä˚πŒ≤É:~Ûr˛¶_-ú…kg?ÜdØ=¥yävîôŒRY’“œ≥úÀ¨–ˇZ≤Õ≥≠\µˇ¥í\NÚÆÁœî’_À?M˚Wçnq◊‡¸¸Òæˇñùï_«^˘|ÎÂ ÎÖ˘¥\3¶Ò◊z•ƒx∂ï«;∏$Aæ#Ï˙«;ËÌ_Ô ﬂ"ºÁˇÒ*OéïÊ+e«\≥∑çÏO∆qµÒ€xÆ3~üÎ</Øÿ¶3vï|≤~ˆs’+sçô£Ø˚©∂Á¬#gæÁÒm•ì'Ó¸> {ßd[⁄≥îÚZ/2eí˙˜ÎâÎ)Zˇı«˜{⁄k¯2≠l©ú…;6-c©ë44„)è¯€Æo±ØjE¨jª‰Û’˜DÁûÆæES›!tç•¸@_≥Ë+ºâ∏£Œèqü4†ÂÆ[Êrà[oÌ=ˇ’%OtÓiÔ∑L4ùUÚˆΩïÊ÷;Ö<πñ>÷µµΩ†—¸ÅÆÌxM%æo·•Êßnk*Xõ‰âN¶ñ[zÈ¨íœuÚÇvv…ùhgó<–π;◊«vÆ¡ŒıÅù+ók7†◊∑Vç°œ∑èmÃm+èﬂ€~˘áV^:/;/ùèÌ‹Éù˚c;˜`Á˛‘NÛ5ùæ°æ°KÁc;◊`Á˙ÿŒ5ÿ˘˘7‘{$'M`g^¯ôŒ≠˝R?∂zÜ
-nŒÔ◊®}˚3}«b‹È´Â˙⁄3?ácËó.y†sÃEú˝ŸÉπhËT–®œÙ≠Kc+∫4V…#ùmobt~∏71:˜zeª—πvÂ˜–I‚ëüÂG˙ˆJf4ÓÀgﬁÜÎ€ch:ÜÃúﬁt>ò”Ø/0Ë\üÎƒÔ¸¡7	_†Ì£èÁt–`g‡«:'˝˛\g∞Û±ŒŸXzÆÌ|AÁd|>◊Ï¸X'/{›5Ê”c\#%ñ∫≥lí:S%1:õ‰ÅGÏÿçÉ˜™IË<TÄ˜Ísù`ï±≥µÚ@g¥Ûcù˝¸Ä√ô?>ì‡p&¡üüIHCöwYb{MÚ@Á—E[ª,∆∑Ú…Œ“[eÏl≠<–Ì¸Xß.€∂˛±µè•.…Îßc˛x∞›ãä:õ‰ù]ÚπùÄÙù}ÃÎÜﬂQó<—âﬂQó|¶≥ú7€Ô})a†èæ˜™”ÿŸt~jg˜§H≠»co∏Ä7\{√≈˘V‰°7\Ç7\{√%¯ì‰°7\ÇH{√%x¸‰±7\Ç«O^ˆÜKÜx√≈y√º·‚º·ﬁp	ﬁpo∏Ä7\Ç7\¿.‡ó«ﬁp	ﬁpo∏8o∏Ä7\ú7\¿.¡.‡ÜKÜx√º·Ú¢7\Ç7\{Ægﬂ∆sùÒ€xÍüÕÿOΩ·ìŸÎ°ˇfÏß⁄^ú£7\Ç7\Ç7\¿.‡ó‡ó«ﬁp	ﬁp	ﬁp	ﬁp	ﬁp	ﬁpy√û3•z]?≈Ÿ n≠¸…˘o”H›oÌ[x¢qıèYÌ√s&‘∏’≥ÇZ~§ØüOçü⁄ËlzC#ü∑∆üq‹OÏ∫D$=‘Ÿ5:UÖÀ\˛±NYìq¥≥K>–Ÿ¨2:e+’œuFÏtÇU_?I!PNeˆ¯◊SRÚzïµ≤Ïú™{…ÖßÎê‰¬ÇwH÷ÛF„"Y∂∫ÉiÛók`œ∂òªf’Ω¥u^RÎ»∂‘ùPπ†HäÁAœ–‡VÁdÙ)Oi9G?$§{Ÿ+Qkõ⁄3"π’XU+ÜµŒaá§∆
-±nÁ_ä§Yú ôUbG∆˜gæ~D·ƒâüåQ8q¢«'c;üåMÏ¸\gœÿ»ií:Àÿuy!üÎ´åù≠ï:£ùüÎlß.Ná‰Òâ”DÁ„'	'NÚ¯ƒI¬â”ù≠è“ÇcæKË\Ò€|†¨2vÆOÁ•âùÎ‰}À€1+-ù˚q_âÆÚ'˙ÏÛóæ„7èûÿ◊ûˇ{?9˝N[πz*iø∂=QΩ˙©IË‘|]'Ô[˘ƒÎ≠2v∂VËåv~¨ÛÚ≈Ñ1©è«πÜoÁÅN∞ ÿ˘xﬁòÿ˘xﬁê∞Nê«Î	Îyºûôÿ˘x=3±ÛsùÌ7H7¸≠‘˝ÈÔÔDÁˆÙ˜◊ËÏí˝ÈÔo◊ÜŒ~∫Eûwùáœ<LﬁC¡ÎS≈•±úW1=ÛPt{ÜÖüGXMt∂3¥G®k‘9ú =∞≤ùπ“éß∞«/…CE◊0Na?◊9˜PPFeÔ°8 ∆CQK√Cq˝µúîõg[=áƒy(é≤ÛPÙÚO”æ˜P¡Á
-˜ GıtîıtsºÉÍa∏˛Z©5≥˜PÿwpIúáb Ï˙—CaﬁæExœœ=vÃ5{˜ßﬁÑŸ∑Ò\g¸6ûz(f3ˆSEúΩÃ5féÓ3ˆSmoŒÖ—C·æ≠r¶~ﬁCq~?÷Ca ÂtÃ>q}!=÷Æﬁ
-z(ŒØŒ{(ú§°A≈€Æo±«M»Ü±≤=ç≈êc1‰„òëÎÙbß,Ù¯‰&Í\ü‹¨·‰Üü‹P8π°ı—IÉ¨˛d†ó?=i@}G+èN˙Û_`Ôß˙“∫¨TÔ0*ˆıÚßxQüˆ¶ıùˆıÁø¿ﬁßÊÅaÖ3¡P`X°«L0;3¡LÏ¸\gˇ9ÃÚx˛â:˘Ò¸√a˛ë«ÛèÑ˘Ásù˝,!ú …„ì*	'@Ú¯§jbÁ„ì™âùœO™ÇF{ä$x`‰±ßhbÁcO—ƒŒèuR°/Õ?T•≠aÜÑ>\˚GùLD≈€$t Iu∫Y;Â”ıj0v~¨ëZÏüæœaU«˛‹ŒÀ«æw~</q¯ﬁ˘Òº4±ÛÒº4±syú€b“˘qL:áòt~ºø†‡≈•«û·âŒ«ûa
-ûazÏ¶‡˛\g?’‡â…ècÁbÁ˘qÏ<ªHL~;œ!vû«Œsà>Âá±Û‚E˘qÏ<á¯`~;œ!>ò_éùÁ;œ;œ.vû!vû]Ï<CÏ<áÿyÜÿyÜÿy±Û±Û±Û¸8vûCÏ<CÏ<ªÿyÜÿyv±Û±ÛbÁbÁbÁ9ƒŒ3ƒŒ3ƒŒÛã±ÛbÁ˘qú˚Ï€xÆ3~OO¶g3ˆ„ìÈ8{=åvá˚©∂Á¬x2Õ!vûCÏ<CÏ<CÏ<áÿy~;œ!vûCÏ<áÿy±ÛbÁ˘Öÿ˘+C2¯ı˘q¨¿DÁ„X±¸8VÄC¨¿sùiΩv…]BÔÊõUùÎ«ª˘®≥K>∑êæ©SÉ˜@{$&:{$4x$Ù±GBÉGBÈiˆ2Öù"=ﬁ)Rÿ)“ˆ8+8xpÂqÃçBÃç>éπQÁ¡’á17bn‰qÃçØµ>åπë‡gñ«17‚
-‰qÃçÑ∏y9ÊFBÃç@Ãç∏òÅòq1717bnbnbn$ƒ‹ƒ‹ƒ‹»„ò	1717‚bnbnƒ≈‹ƒ‹Hàπàπàπës#s#s#/∆‹Hàπë«Ò1≥o„πŒ¯m<Œ
-ûÃÿè9≤√Ï%£d¸å˝T€õs·$+8ƒ‹Hàπàπàπës#ècn$ƒ‹Hàπës#!ÊFBÃçºsSbíèËÂèc/Pü<ãEËœÅΩ2vÙ˘u…ù˙¸Ë´åù€Sﬂ‰ƒŒèu≥◊&EÁí∏œgM≤S˙töœüéŸáÍ˙Æñè˘ç?]ãyç{ŒÁºSÀÙ5ãÜç∫≠∫<≥qËÃgÓç<ƒ}‚ÏVùÏ§EŒoOèﬂ¿TØlø$JÀß´Pß·‘©´î|ÑOuÜUhm·ò3•ˇJ4…æ¶∫íLÁ≠;s]Ôl≈Ô‹ eÖ¥ú∑4éG∑Tf≥ˆ|/◊~ZI¶!◊4‘π}¥QÀ?/Æøwõ€Û√'ÎPo„◊o˜QNãA]PmtÓ∑Gç}?{jhheÛ∫§øá¶°„Ïmå˜–≠∏j‡õÑw˝h5z¨E¸ÿkˆ∂˛—*Øçﬁ¯ç<◊øëœu?	ßUìŸªJ>Zç∫YÎï9«Õ◊c˛~ÆÒÕô—≠I˚ó=fõmØ_Õö˚
-sŸ*∑"S[qr˚ÆZY©˛}<—øìzÙ'kRß·À¥≤Ârº±c”rì®±tH:öÒîG¸|M ê)Ã3èÉæáô«ô«ü€w≈<O =ˆ.Lt>ˆ.P.–cO Ô¬Á:I[Ór·J)“πÂ77…ù∑ihÂ.!oïµ≥∂ÚDg¥Ûcù;’\π¯âL˘âæ‘o¡y¶ÔºΩ‰1™„F÷´¸D„6nD)∑èÔl9ﬁZ¡6 Á6vç`£lüﬂ›QQÛzÃ¯è¨ºtn„Óé¶Û±ùÏ‘«vj∞ÛÛ>øêÆ„.ã*Iü3§u´˙m¬-WR?Â3Ûçü€ÿ5D‹≤~~áG”©É7^∂'#shTßOüiK„˛é¢/}~{G◊8nÔ®?øª£kwwTçüﬂ‹—4f±ò≥<Cú«ΩUﬂÁ∑v¥ØFç>5Ò{˘|lªë<Poüﬂá n∆Ω,|®1º≈ß˙ÇÖükîŒ™Ñ<Û]ÚÄGû˘:¡*√áø?Ê√v>–©Tx.y´ÃÅÂ~zÀFì|t„∏”0t íâ?õ%ªù;uÊ"∞¸sù›™/#Y>Ωê~ÖVûÿY≠˙:æ^¥¥≤$-ªCr¨˛ã§éÿC"Z|≠ÁÒhŸÕﬂızÓ›yﬂu->ßCíŒ3ê3ÁµrJí˝‘x∆¨î∑z2	Æ%"sœº∑∂“∫ó:)-MsZr©£€⁄ı‰ΩƒéÈí⁄S π¥.ºW˚ æöwæûë5ó>f÷ÜÅEJL/ïœÚx©ƒú„†[ÏG∆˜O$é˜Q~≈›íJ.◊É(†¶”FUùüÁã‰∫á6πõMÚ t´ª®ÛA>h–Ÿ%ÚA=“WtˆåΩ‡{ì«>B	æ7yÏ#úÿ˘ÿG8±ÛcùÌ|ÛÒÊ˜£>zòﬂOêﬂˇπ}W¶Z`@„«Lm–¯1S€ƒŒ«Lm;?÷yÃÏ«ÃË7⁄Nﬂ¬≈¶s0B+üù»X´åùü33ÇÜØ`˘«¸£°c>Çæá1
-1ü€wE∞áHf~=—˘8:öCt4?ééÊ˝\ßﬂÇ<ˆWLt>ˆWHW»cÖ≈sù∏7¯1ü«DÁc>|¸òœÉü«Á:ôt=WÑ,πÔ2”vï?⁄ªôÁ/}*üÓ´}Ì˘/∞˜NX“„ı*Öu =^ØNÏ|º^ùÿ˘$¶≠≤‡ÖÏCzú/Nê/NèÛ≈…e“√|q
-˘‚Ù8_úB∆%=Ãßê#IèÛ≈)‰ƒ“„|q
-9±Ùræ8Ö|qÇ|qr˘‚˘‚‰Ú≈	Ú≈)‰ã‰ã‰ãS»'»'»ß«˘‚Ú≈	Ú≈…Âã‰ãìÀ'»ßê/Nê/Nê/N!_ú _ú _ú^Ãßê/Nèsªgﬂ∆sùÒ€xÃd:ô±üfULfØáﬁ0c?’ˆ‚\8a2˘‚Ú≈	Ú≈	Ú≈)‰ã”„|q
-˘‚Ú≈)‰ãS»ßê/N/‰ã_l!ÀáÁe
-‰e „ºLÒY>Û2%‰eÚ„ºLâôMÛ29‰"Ò„ºLπg¸8/ìCÓøúó…!/ì!/ì]^&C^&ªºLÜºLyôyôyôÚ2Ú2Ú2˘q^&áºLÜºLvyôyôÏÚ2Ú29‰e2‰e2‰er»Àd»Àd»À‰Û29‰eÚ„ Ÿ∑Ò\g¸63ŒLfÏ«∑µ∆õûfR˙€+û2´ø8NgB^&áºLÜºLÜºLyô¸8/ìC^&áºLyôÚ29‰er~èqF_ü>Ê úË|Ã®ÅPs j‡ ¸\gÛ! GˆCŒm‘'9∑8∑ÿ∑l©∞P“ÒÓjú¡z¸ˆŒ§*y†s›•≈CtùMÚ†Ø√9µ>>˚ûË||ˆ≠·Ï[ü}k8˚∂:◊Ááñ˙è∞é#›©¸F´sÊtïÛômxîıå¥a’‚œ>o»[Æ“œ≥,g=Û˜r≥Ïı¸(˙ö2oßﬁÒ<ó∏¢Æøñ~öˆ€ﬂ/˚⁄ÛŒ˛s˝≤˝¡í$ÿ i§	ê&@öi§êf@öi§ê&@ö i∫çtKŸ!ÂjÈ±¯sH∑Ú;>ên«®E∫m‰êérEzïõ•◊ÛI”!Ω⁄ÔÔˆıÁ≠˝â¥˜~⁄˝ËMªΩy±£∑ïÃËØ}÷üe?z”ÊGo⁄ÏËm%3z˚ﬂ/˚6?zõ˛ø@ Äî)R§Hê
- @*ÄT )R§|iÆ{≠˘=?F9ßTn°YSπ√Z6.Y˘ºáæóŒÔé˘¨7˛.%äp<ﬂÀß˛ü¶¨{Ωã¶?ØDF-˝4Ì˜øw˚˙Û÷˛[Hê2 eáîR§Hê2 eáîR§H˘6R§H…!•Äî )R§H…!•Äî )R∫çt§+ ]“5 ]È
-HW@∫“’!]“êÆÄtΩçt§ ]“% ] ÈH@∫ “≈!]“ê.Ät˘;§ÁIõÔtîÛ~Ó›Œ=·R €ûJπ}ß•tû¬pŸ„çøKJÓ˘^Æñårç£œKb£øñ~öˆ˚ﬂª}˝ykˇ_"?#çrÌìcwÈf$?#â¯IƒœH£‹êäüë∆Ûµœ∫˛ﬁß£˝˛w?#y˚ˇiÜ>Õ–ß˙4CüfË”}ö°O3ÙiÜ>Õ–ß˙4CüÊ€}™ÄT©R§
-Hê* U@™ÄT©R§ziÇ—õ`Ù&Ω	FoÇ—õ`Ù&Ω	FoÇ—õ`Ù&Ω	Fo∫=zwË”˙tá>›°OwË”˙tá>›°OwË”˙tá>›°O˜o˜©Bü*Ù©∫>’–ß
-}™–ß
-}™–ßÍ˙TCü*Ù©BüÍÌ>M–ß	˙4π>M°OÙiÇ>M–ß	˙4π>M°OÙiÇ>M∑g§3RÇ)π)Ö)¡åî`FJ0#%òëíõëRòëÃH	f§;H˝ËUΩ
+HEX£“k-v=÷®2qÓêF—ºÄúª®ˆÊO‰¥Iò£Z#CÙà£LÿÕ9ZãC@huÑΩÇMˇ*sª\)π>>∑”Á]8œ’Æç√mAÁˆÆ“ÙW⁄ß>†i◊8˚“(˙úÇ“µåµæ⁄Lﬂ†'DÄ([˚+ñÔ‹>Í£%?°|Á w¶áÚù)îÔLÂ;S(ﬂπ=îÔ‹B˘ŒÌ°|Á wnÂ;∑Pæs{(ﬂπÖÚù[(ﬂπQ˘ŒÌ°|Á wnÂ;∑PæsÂ;7*ﬂπ=îÔ‹B˘ŒÌ°|Á wn°|ÁFÂ;∑áÚù[(ﬂπÖÚùïÔäQprY¿,8âvBX;ı’VÇrC_èA	OGÂ1(·π’E,`–‹j¯:71‡~IË§à~,√ﬁ¢Oh¸Êí}kÓëª•ç>:`„$‹Sylùécoà@IQ«ı(∫Öb°€C±–äÖn≈B∑P,t{(∫Öb°[(∫Q±–Ì°XËäÖnø†/å~ÿSWø˛–‡©´û∫<uı¡SWÉßÆ>xÍj‘’O]û∫˙‡©´¡SW<u5xÍj‘UÚ‘’O]û∫˙‡©´¡SWÉßÆíßÆ>xÍj‘’O]û∫<uï<uı¡SWÉßÆO]%O]†´ñ_Nıàm}?Ì$Œ˜li´w9dèµµ¥nΩ?†Í´í=}–”‡°ßz<ÙÙ¡COÉáû=%=}–”‡°ßü/a¸Ó(À||8 ≤~5 2> Úˇ´Ó]v5«ï5±˘yä⁄É.Kq!•i∂ûÿ«€–ù›6⁄8Àü6`¿Ooâ1‚Ó*≠_ ç4®Zåü
+∆«†(íq!Ì1 ívåüÏA9´ÖQñï2¢,èrà≤Ï¥ey»¢,;mDYv$6 “¢´qáæñßç(Kﬂ¢ßç(K/Ωßç˛ÙQñ£j)FYÚÇQñ¥«(ÀN≥ΩΩùB´6^ùÇ:©î/”>_IË~ªÙÁ˙QæóæÉüÊêåπdãπ\≠JŸ0˜Äl>˜Älò{¿‘(fŸbÓŸ0˜Äl1˜Älò{@6Ã= õœ= [Ã= Êê-Êês»s»Üπdãπd√‹æVçûó+È∆;/&)«(óå≈tp∞)á≠gu,ed∞ÿë6rXÏH˚‰LÉr’»>…”†òñ≤KÂhFÍÏRO9⁄Öﬁ%?±î“ã5P÷'Hq¥Ø++Ñmi##Çï¸∑HlR˝id˘¶?ç>ıß9m#ﬁ[„X,öNûæñß/íÉ¸i:mx§î‡O”i√ªÂ†öNû2≤FöN≥µ¢?MßŸ£?MßYÈ£?MßŸûà˛4ùf{5˙”Ã4‰Ï˜ur3}ü&JAC’·Ëc'˜4ÀÀyX8Z©%UÁ¡„h√ÊÓky⁄∞ﬂ˚=ÕLÛNzO3üßmO≥µ¢èBßŸ£øCßYÈ£ÔÑ’vG˝0¨∂{:üG≥r˛!éfµ=§ˇç¶ΩÙ›io}:Ì•R•…¥ó¬¥ó&”^
+”^öL{)L{i2Ì•0Ì•…¥ó¬¥ó&”^
+”^öL{)L{i2Ì•0Ì•…¥ó¬¥ó&”^
+”^öL{3≠¡˝Ã÷™C‹◊J]ÆÒ∫Ù~∂ì££w*Ø!OÆY^CûfÂ:Ô3˚mÌS$ﬂœ!8Jè$‰–I9tíC@Cô‰êêC@&9$‰êI	9díC@B	9r»$áÄÑ2…! !áÄÑ9díC@Bô‰êêC@BÅ2…! !áÄÑ9$‰êÛ-ì9$‰êêC@&9$‰êêC@\	9$‰êI	9tíC@Cù‰–êC@&9$‰êI	9$‰»! ìr»$áÄÑ2…! !áÄLrH»! ì≥Òs‰êêC@Bô‰êêC@&9rH»! !áÄÑ9díC@Bô‰êêC@BÅ2…! !áÄLrH»! ìr»$áÄÑ2…! !áÄLrH»!`ÂÍÒ˙£ØÆ˛b#mùñ	¿∂WÎåw¯‚ú~∑ÿH˘∂øãæ`È˛.2Òwë‡Ô"	˛.2Òwë‡Ô"	˛.2Òwë‡Ô"	˛.¸]¸]d‚Ô"¡ﬂE&˛.¸]$¯ª¯ª»ƒﬂEÇøãL¸]$¯ªHwwëâøã	˛.˛.bΩAj J„…rŒ¨nî8ä±r:œOª¯8K9ƒy√x⁄òãd‚3#¡gF&>3|fd‚3#¡gFÇœåÄœåL|f$¯Ã»ƒgFÇœåüüô¯ÃàıÜi=Á|fmh≈|%Ø≤’lÙóë‡/#	˛22Òóë‡/#	˛2¸e¸ed‚/#¡_F~K˘æøÃ„]©Ñ]©Lv•v•2ŸïJÿï dW*aW*ì]©Ñ]©Lv•v•2ŸïJÿïJÿï
+ÏJe≤+ï∞+ï…ÆT¬ÆT¬ÆT`W*ì]©Ñ]©Lv•v•v•ªRôÏJ%ÏJ%ÏJv•¶Fü±¬æEd‚/£¡_F&˛2¸ed‚/V£2YçJXçJXçJXçJXçJXç á´—_m¿_¥ﬁø°âN”ﬂ›√ÊˇˆÛ√ÊeØwPËy°n9,)“I)WWñ#C†ùµ∂zkÉfÓõn§ïZı÷_À—ŒZ9ù>æEO+µËLyzzGı!Ä¥R´ﬁg°[πä±’r¥≥÷È±rrﬂó—¢ßπZiπ§˜4”bZFO3“ß•\$È§o4”Áip7ÕÙjZFO3ÚµÕh€µËi_cîú˘8zﬂØ\/Uz<ñ-Çcb]Îe¶V£XπÄVj5IM≠‘j®€¢£π“≤¶è,Kˇê„m˛ˆv4?ﬂérÿéÚd; a; ìÌ(áÌ(O∂£∂£<ŸérÿéÚd; a; ìÌ(áÌ(áÌ(√vî'€Q€QûlG9lG9lG∂£<ŸérÿéÚd; a; a; ∞Â…vî√vî√vîa; !¸Çm¯E˘¯≥øp4ì8Ãm~Z2Ø∞q·…∆Ö√∆Ö'ûl\8l\8l\6.<Ÿ∏pÿ∏«ó‘EòﬂÛ‘«aÜøxr·áø8\¯≈p·áø.¸‚…Ö_.¸‚…Ö_.¸‚p·√Ö_<πã√Ö_<πã√Ö_<πã√Ö_<πã√Ö_Ï.¸jóü¿¶së°òkùDûf˘∏ã
+Õ\óÈ=Õ\†∏M.P¥µÍ≈ã€‰2FÎÖÿN.vt^à{Â/âtûàÖí'NZoƒ =O.Ø¥ﬁàU“<π”z#V‘yr©¶ıHî∆›z$:ö—êk—”å∂?ˆH¸Âë¸˝˚ó“”» Ü˚óxrˇáõïxrˇ“¨VBá˚óxrˇá˚óxrˇá˚óxrˇá˚óxrˇá˚óxrˇá˚óxrˇ√˝K˜/±ªâ'˜/q∏â'˜/q∏…◊j4sˇRßúÓ1µ*ÕËEGt “å^ŒÎºV
+•‘ÿœ}KE:q4”€Ó∂'O+∑=me’‚ÔÑr¥“Wt^Ó[Ù¥R´‹8uP∂|Mûf˙›ıÇßŸZ¬‘^\kÓùr4+π^´L§Ÿ^8ØE'ËÖJ+£*ïâ÷’Ú43~]ãûfµc•˜¥R+’ƒF£,≈÷∞ΩÈin,Õxöï‹jŸ”l/åÛ[ÆXÈ{+÷¸t≈Ja≈Jì+Ö+Ö+¡äï¬äï`≈Jì+Ö+MV¨V¨V¨+Vö¨X)¨Xi≤b•∞b•…äï¬äï&+V
++V_kO_èq)±8d£\e\=K˘˜ΩCÚ˚—ç¸¯IànîIt£Ñ∏EôD7ŒjÖ;$!∫Q&—ç¢e›(!∫Q&—ç¢e›(!∫Q&—ç¢e›(›(›(.∫Q&—ç¢e›(!∫Q&—ç¢œ®ÒuÛ¥ÒΩ—≈ Âi∂~∑*eÙ„y&ÜﬂøN˝x¥æ•ù6æH^rOﬂx_À”∆z¡∑ËicÌ·•˜¥/£/\√å^Ëe∑br4€ö]£yöïºjÙ∑M∑,ﬂM∑,è√√B2_ô§[ñênY&Èñ%§[ñI∫e	ÈñeínYB∫eô§[ñênY&Èñ%§[ñI∫e	ÈñeínYB∫eô§[ñênY&Èñ%§[ñI∫ÂôÜ\XQ>
+	x}≠T„$ìÆ>ëÚÅ˙ ™Ö4πkj˝éπ∑ˆÔ÷Á^$«´
+∆ü¥D„OßŸ;¢Ò«÷j9¶ˆIÓ≠=‰ﬁ⁄'π∑ˆê{kü‰ﬁ⁄CÓ≠}í{kπ∑ˆê{ká‹[˚$˜÷roÌì‹[{»Ωµá‹[;‰ﬁ⁄'π∑ˆê{kü‰ﬁ⁄CÓ≠=‰ﬁ⁄!˜÷>…Ωµá‹[{»ΩµCÓ≠=d¶⁄CÜß›yëîl≠~S√Ó)2£©ôà‹8ö…<µª(G≥rmL‡ër‡¡ºR{ÙH1“_7"†Gä≠”≤CÌËëb]ú?ÛH˘µªí\÷˚*Î˜ˆ%˚£HQ—9lì§ÎD"’ÅsŸıF-N◊.¿Q⁄.‡Ô÷:WBæŒI©{éä˘$◊⁄œ”J≠∫>;ˆ„D–”ÍI^{u$ôì<K+kÂ≤WÒµ<≠Æï∑˙úi—”J-°ä∆HÔi∂GG/Xä≠az≥ı˘1t;üK[®’i∂œ∑	/•∫»í5‘‚≠Ôœ‘Q¨]≠≤∆>(<ˆgûV˙ΩÏ$èØÎWêV˜çπºÊCÆﬂr›Õﬂ]wßßÎn´:û¨ª9¨ªy≤ÓÊ∞ÓÊ…∫õ√∫õ'ÎnÎnû¨ª9¨ªy≤ÓÊ∞ÓÊ…∫õ√∫õ'ÎnÎnû¨ª9¨ªy≤ÓÊ∞ÓÊ…∫{¶°∏Ó∂}üzÜ»cWk¢°4T” ∞øöƒ—Fj Ø!O+}Ø!O≥µ‚ïÆ¥‡…ïÆ¥‡…ïÆ¥‡…ïÆ¥‡…ïÆ¥‡…ïÆ¥‡…ïÆ¥‡…ïÆ¥#⁄”lã1ç€À*ö§1%Ü’PG”k∞ΩFßı†K’·hVC.Ìá£YmªãUÕéú—ø√U[K‹Ï>øu’∆Áâ¥ÛV/÷8ˆEÌ™çã¬|]µë˜z√ôº£^µë€• B„	†}ôÁ8_Wm\¥º∂À(.äl◊
+Ì\√d◊b•¯M≠z—ÉË∏˛hg≠‘πèã-ÄVjIÆë^r˝…÷µ]§¿ºˇc.R–ñtû∑ΩßIoi˛•¶@˜¥R´^¿€5)!≠‘:SßÛv}4<•‘®Wv›Ö¥írΩ¶iÁ|M"H≥µíMﬁÓh∂Eµí;⁄ê\y§ä∑€zMÒH≥Ω©„:†}-òZ@+µÍï∂E†ïZí;J©QØ0∞= ¥≥Vª¡ˆ&–l-£†ŸçñÅ6$7£≈QllVrG˚
+c˙∑πH·≥w˚¡¸ﬂ«˛5ÇR◊ågπl<FùV6oø£ú\ˆzAoÊÌ¥R´ÍŒå{K±“‰’¨«{¥˛≤ÕÍ<À›ãÅ’ıoˇÓaÓ«n¸gB‹r´r˝ƒ∂2Û⁄_-G)5ñ≠‹˜Ií˚hg≠cg^6¬ÎæˆWhG≠mO[πtM‘U¥Rk•≤ıµ˛Q[Ë{Î,-£‚ÿJü≥∆›◊Ï•œ/#JÎ1ˇÏ«¿Æ◊∏î3âZnWΩJ©ëãüŒ±I‹ÆK <≠‘⁄˘têY«µZñR/È)ªÙãß≈÷–~Ìñ£åV4a+z]›’%Ss=õßY‘È∫(ÃRæÆ^ø'-—(«∆¢_Äï∏ƒSíqñß>€uëÿ(è_ws©ô•ÿVvsâöß}ÈˆKãñRjî~⁄«ä’QŒôó˙Ñ©„i•÷÷⁄æZ≤´≈ÙúAœ£•ﬂ"€ûîìÖæÂ›ı¿Üº…Œ'dΩªäÖíùwW1∫€Zç¬∆ªÀP
+üÑ5,•Óø˘taÎ›Âi’~yÓiäıÓr¥ØÅÉçwó°∏÷ªÀ—lkŒªÀ—¨‰÷ªÀ”l8Ô.G≥=È‚™≠˜íÎ¢êÛfØ∂^>ù+Ø}Ø⁄<DQ	éV|≈™µ‹‘˙-¬≤ˇ6¶ÁyÇEX'aaùXÑ5XÑebñ`ñâEXÇEX&a	aôXÑ%XÑ%XÑ,¬2±K∞Àƒ",¡",¡",`ñâEXÇEX&a	a	aã∞L,¬,¬,¬a[£ﬂﬂncZ&∑1-x”°°pSßôº*˚$≥Ã2ÀÏìÃ2{»,≥O2ÀÏ!≥L∞y_}pï'ôeˆêYfüdñŸCfô=dñŸ!≥Ã>…,≥„mLæñßô\;ﬁ∆4∆I’¶ó∫ÂqVsôXÕ%XÕ5XÕ%XÕ%XÕ5XÕeˇ=Û8t£‹wìÁ«Fπêíñ'IÉ9$ÊI“`IÉyí4òC“`û$Êê4ò'IÉ9$ÊI“`IÉyí4òC“`û$Êê4ò'IÉ9$ÊI“`IÉyí4x¶![KSÎâ´Ô´õ◊êß£â·ı;Ê8–ıõãöÙBé›0«ÅÓ1«A£ô®|_À—Lt„Ó‚˚Mã-+Än1«A£ô¨öcéÉF3Ÿ4≈çfk)Ê8(€öƒçf%Áò„†—l/0Ê8(€õs4ö…)‡k9ö…q`Z≥ìΩ@9Ê8h4[K1«¡’GΩmÖdIf4g57NÄfrÿq¥ëÓ†ÿºé÷”¿πQ‚(„sÓ∆–l-	È[;m¥∆êæ’Ùc[N}8äEœ!}´—k[º¯Zûˆe4¿∞0≠qãg„∞¿≤R◊ÖôGÔi∂ñ&¨£I\k),;ÕJù¬B‘j§£MaQ€i∂7m-O≥Zqc¿—Üv≠ÏñbG…ËÅñõCss4äÀ∫1ﬁÅã"17G£ô‹v∆ö…Õ1FÅ£ò‹v4Õ‰Ê0µ~ØcÈΩôˇ5Áoôˇ??ñﬁö±_∑~§‹)iGπ[3∆Îñö˘kÜw›«1,–æ∆si•À¸øi¶‚±AúÍ1Í¶*•È≈…PLkâbkçfkÒp# ömM∆Ò/–æåî"¶EG;k•u©>P„òh•Vu#µÌ¨ïó&Éi—”lè“8Úö≠5Z¸åõπ7ˇa∑ƒoÕ∏9nÄœÕúhoâﬂ n‘©e{Kº£áïnâZukÅ[‚≈HÛÒ-Òø÷˝M=}Ó`íö1ﬁÙps∞Z Z©U])ÚzmëVjùNy].óG)5™kG>v£5G˚¶Ú¥_õJ§πZ∆|Ói¶≈¥Y…Ìí<e3 ,≈Ù¿°≤À›h¶7Ì®⁄◊–Ç≠¥R´∫RÿÅvˆ≠‰éRjT◊€@3Ê€õ@sµÜfÄfZ¥Z⁄%π-ébz¿é:†}Ö1˝õ]n•ﬂußßÁT\ìu‚<Æ¡y\'Œ„ú«u‚<Æ¡y\'Œ„ú«u‚<Æ¡y\'Œ„ú«u‚<Æ¡y\'Œ„ú«u‚<Æ¡y\'Œ„ú«u‚<>”ê;ßj95—ï€˜Ωß∑pØGOé¬æñßßcﬂ¢ßfuéËû6ú° ÂoÜ4[k\îÖ4€¢sÜv¥ØÎ§z’—lãüûÎ˝íΩ	Û∂ï[ExMÁ≈›â„˙œˇœ¸◊1w|∑µ3E“7t˛˘?˛Àø˚OˇÂ„©äœ#°ı¿»kΩÖÖOø¬Ç∫Rä ÄfkIäµ*Ì¨%e5Pˆk¿≠‘¢sóA¨Î÷ÌÒ@+µRπÄ˚ÿÀ^Chg--{9_À”J-≠2ÿ=≠‘*~^zO+µä´µÔ	O≥µlØˆæœ©ºR|pÒY¶kB Z©%ï”±ËÈ@+µZ/ßmÙÉßY©l-O≥Ωe[Ù¥Rã5HÔiV?'fØùﬁΩºY›8ömÌÿ»ôÕJæeÈ~%@≥Ω∞Ì<Zt4€£∂ñßYÌÿ=Õj⁄JÔi_f|ÿû¥/EÆ∑JHÖ⁄:ÁΩ∆C*G3˝ ´Ì-G≥ºH"ØJ3Z<ÅF≠äx)§.?ÆÁNáπxUö´µ÷Y›õs¶≈≠…êú®ﬁï•=Ω“Ã[ÔjyöÆEO≥Ω0$∑W√ÙÄßŸ÷jœ˘÷Fov)èı›íW⁄YÎ<≠a®Âi•V9≠ÅæjΩæ≠kó´IZ)~ƒòZıçìçó—£éf1n≤åïÊZúÙ◊6˙´Qv”_Mz’mÒ3∑äÏ¯~k´≈˝ª\(ÓK7©•K¨UiÊ{xÄÁÒs4Û=T-	Ä‹˜∞—Ã˜∞·qﬂCã±ˆÑ´ÂiFCÆEO3„ÀIÔi∂WmOxö≠e{µΩ±∫Ìªü€ )Ï⁄.π:•:à˙ZïfÊÕV€éfÊ=Rìü#ÕˆÑ≠ÂifDª=Õj»JÔi∂ñÌ	O≥-÷Ù-é^ÌíÓÎ≤ü3GòñbÊﬂOµœœ´ymèè*Œ çfzºúæoæ«Õº_æVkÔ<Ûusw£8l∂VÌë$}T(¶∑è=€ê‹”l-Ê%‘™4€Ì0ÍåDí?—ö≠e€Û4€Î±Ωìb{ú≤iÕ—äÜ∑&∑©Âifò÷,•‘†(µßŸZ∂<ÕåKßﬂﬁ«û˘˜Mm7õZmﬁMâóÎ·if.vº<ÕÒJ˘˙*y⁄Wê·Ô 5i±kt¶pk¢tÆ·◊h∂÷n0zö1ªëﬁ”Ï®Ÿ∑Ñ3c£ôU≤ØÂhEè©j»∂ËivlYÈ=Õ÷⁄Ï8u4;æ∂+]“ÃW©ı≥˚vôæÔ3ä´ÂhˆΩ∑-zö´VzO≥µlOxömqÙÍÔx√˘æ~˚
+òÁ7úÔËE{tèÍ4s'˜›£l≠vì˜›£lãÌN=∫Guöπs|èÓQùfÓ.ﬂ£{TßŸZËU)∂µË’iVÚË’i∂–=™RloF˜®N37äÔ—= ÷ÍE˜®—Zª©|èÓQùfk°{‘Ë£ﬁ∂Çœ∑Ì∫7NÄfÓw∂»˙ù≈;∫ôtäª≥x‡ø(;ﬁYlÍ¥;ãÌ(iuvº≥¯B˜õe
+¶Ôﬂv∞=ÕLp€Mn;†pèMn;ò’¬L¡∑–‰∂
+∑–‰∂
+∑–‰∂
+∑–‰∂
+∑–‰∂
+∑–‰∂Ç€n; w€Mn;†p€Mn;†p€ÅØ’d∂Ÿ‰Îb√gìw4”K.õºßçª»›?‡iF/æñ£˚{Õå'Ωßôûw58ö≠52¸ZämÕæûf%∑Yá=ÕˆÇÕ`Ïi∂G]-G≥⁄±-zö’¥À“Ïhf§€[
+Â+å°ø7Æ⁄∏wöÒ¥k¥˚;
+ÿè©ºiãf¥x⁄»Mìõ/(‹|Aìõ/(‹|Aìõ/(‹|Aìõ/(‹|A·ÊÇõ/hrÛÖõ/hrÛÖõ/hrÛÖ-Ω˜\ÜmGöqπ∫ŸèßÆM+πßÕ∆”o`œló}?ø>æDÛ$?á‘˙<I¿?´.Ç¸<I¿œ!?OsH¿œì¸Û$?á¸<I¿œ!?O3$‡gH¿œ.?OKH¿œì¸Û$øò§ÚùbßO3W∏dûfÆ)pº<mLÔ≤å´Ü,≈÷¿D˛â¸eí»_B"ô$Úóê»_&â¸%$ÚóI"	â¸eí»_B"ô$Úóê»_B"ÅD˛∂'-≈∂‰>$éf•˛m/◊i˛`ﬂç[‰«˛`!*N'qã‚u∑®!nQ'qã‚u∑®!nQ'qã‚u∑®!nQ'qã‚u∑®!nQ'qã‚u∑®!nQ'qã3M<ól‹bı\Úqãéˆu•ı?ckL≤GG3˛`kLÈjUﬂØ5&°¥}ﬂ<±÷ò–≤”¨Ù19¶’PßƒDõùf[åI;;ÕJÄZu‘1ô®’PMÑÈky⁄H{È[Ù4„ßf§ˇ\W◊¥ñÄû„=¯ŒTıœ˚«S’⁄n¡§Ó±œÎ¶%§óh(vm7ÆöZù"óÔ/“ŒZ˚kyZ©%% ôdq†ïZ5àò‰Ú[F⁄ó¡√ó4“\≠ï/åûf[§l‰r4+=ç©
+h∂'lØzöÌUSãŒªRw€˜Dç˚àª@Z©URáîÒ≤Ì¨’∏iƒy ≠‘™9éiS–J--yvâ∆´4[Àhh∂E£m†ïZT≤Ò⁄ë4€f≠‘äch_F∂EO+µ⁄;d•˜¥Rã√Xö≠eF!–lãn‰8öïﬁj»”lO–b∆ó£Ÿ^uµÕj»ç	G≥⁄∂“{ö_WO|szºå"ÁJSÈúa˜íhÆ˙Rh:°u«πØ›|Ò‹8m5ÿZ˘Ä'He‰l≠<‡Â¸ò'Âm9„TÎ<tFá§oŸ)ÜÁrÊ–Zü»)kM*◊9ñÚ~M¢Ø–pGû„Ó>]ﬂ¸8Íî<Y`=‡	R9[+xF9?ÊyÃ‚ôŒ{7è)•⁄ıè©Ô*¿œ=Ò€ˆÃüÒ´ÚµÁø@ﬁfŒµ¶}T>CÓÀY”E9}.◊èxûó∏z…ı]º «ö˛≥kI«Ω§ÆÕüΩ€(èëêœTÚ˙œú5ó0ß®OîM&√Òs)i)9
+œ,’#ePŒhâÙàgÂpÚ¨IÁ?ÁYvP«ß1/Á7˝j·?[¯1({ÕÄGüßhGôÈ,ïıQ-˝<ÀπÃ
+˝◊uoûmÂ ˝ß•‰ríw=Ó†,ˇZ˛i⁄øjtâ;á‡Áèˇ˝^vR~Mp{Â≥◊ ï◊Û)·πfL„◊ze”x∂ïG\îÜ†?ﬂv˛£z˚W`/B?ˇ˚èWyr¨4œ`;Êöºmd2é˚®çÔ∆sûÒ›¯úÁy9‘6ù±+Âìı≥ü´^ôkÃ}ÕÿOπΩ89Û>èw+ù—Á˚Q¢&N ∂¥f)Âµ^6 %B¡>qΩ!ÖÎø¸¯æ¶=á/” ñ ôºë„Ù%'©°44„)è¯ŸÆw±ØjE¨j;ÂÛ’˜ÑÁûÆæES›!té•¸Ä_ìË+Ùƒ‹ëÁ«∏œ4€{ç˘‹ó~ÿΩ.5Üq_>˙>û{⁄˚-Nçg•|Ä}/N•πiß\NPKÛ⁄⁄^–p˛Ä◊vtSÒÔ[öÓ¡7¨çÚÑ'SÀ›pÒ¨îœyÚÇrv û(gß<‡π9◊«rÆAŒıÅú+ók≠@Î€)«†ÛÌcsGC „{{Œ=§ºx^r^<Àπ9˜«rÓAŒ˝©úÊj<ºC9ºCœ«rÆAŒı±úkêÛÛw®k$'M g^¯œ≠})éèÌg]À¯Ì¿o∆ÔXå;~µ¸Ä_Î1√ÒÛ>ÏÉ^:Âœ1q.ÈEÃEÉßG}∆o]Z6¿ãc•<‚Ÿˆ&ÜÁá{√sØqÍÜÁÆùÙû$9…3‹«^Û é˚Úôµ·z˜¬⁄üé!3ß7ûÊÙÎ<◊Á<Ò=N¬huÙÒúÏ¸òÁDÔœy9Ûúç•Á<QŒxN∆ÁsûAŒèyÚ≤◊]c>-∆’Sb©;ÀFy¿3’D]Üg£<∞àªq∞^5 û∞^}Œ§2r∂Vår~Ã≥üp8ì‡«gŒ$¯Û3	iHÛ.kÀ1‹z£Q<T¥µÀÿ|+üÏ,ΩTFŒ÷ ûQŒèyÍ≤m[…Ôπˆ±‘)y˝tÃ∂{«ëg£º¬≥S>óêæ¡≥èy›=Íî'<Ò=ÍîœxñÛf˚æ/≈Ù—˚^y9œOÂÏñ	∂yl∞ÜÀck∏8€ä<¥ÜK∞ÜÀck∏{í<¥ÜK∞ …ck∏ãü<∂ÜK∞¯…À÷p	÷pk∏8k∏Ä5\ú5\¿.¡.`∞ÜK∞ÜX√¨·Úÿ.¡.`g∞Üã≥ÜX√%X√¨·÷p	÷pk∏Ä5\^¥ÜK∞ÜÀcÀıÏ›xŒ3æO≠·≥˚©5|2{=¥_√å˝î€ãsa¥ÜK∞ÜK∞ÜX√¨·¨·Úÿ.¡.¡.¡.¡.¡.oX√s¶TÔyÌß8[π µï?9ˇm©€≠}O8Æû„1´}xŒÑ∑zVPÀè¯ıÛÈ¡ÒSùLopd-7ár?±ÎëÙêgÁp,˘	OYÀMQŒN˘Ägì î≠‹Òúgƒ˛Ä'Hıı„†îd -ÎI)qΩ Z≥Ïú™{…Â¬ÒÉr∑—I©9|O ≤’LõG∏\≥~∂≈‹9´Ó•≠Û¢≠ZGé˘®ÏÑ ];ÖR,z∫∑:gFüÚîñsÙÉB∫óΩµ∂©=#í[çµd>0¨u;(’Wàu+πâOJì8ï;®+≈éåÔœ|˝,à¬â=>£p‚DèO∆&r>>õ»˘9œ±!"“(xñ±Î‚B>Á	R9[+xF9?ÁŸN]$ú…„ß	œ«'NNú‰ÒâìÑß<õé“ÇcæS\Ò›|¿§2rÆOÁ•âúÛ‰}À%?Ó≤µ ÊïË*¬œ>Ò;æyÙDæˆ¸»˚…Èw⁄ ’éI[Àô_∂\≠ÿ(xñ,À≈∂≠|bçıR9[+xF9?ÊyŸb¬ò‘«„\√ªÛÄ'He‰|<oL‰|<oHX'»„ıåÑuÇ<^œL‰|ºûô»˘9œˆ“øï∫?˝˛NxnOøøÜgßÏOøøù√<˚Èmxﬁu^<≥P0yØO-«r^≈ÙÃB—Â~Óa5·ŸŒ–°Æ^Áp*˜@ vÊJ;û¬_íáäŒaú¬~Œsn°†å
+ ﬁBqîçÖ¢ñÜÖ‚˙µúîõg[-≈Y(é≤≥PÙÚO”æ∑P¡Á
+◊Ä£Z: z∫9˙†ZÆ_kjÕÏ-∂.ä≥PÑù?Z(L`/B??∑Pÿ1◊‰›üZfÔ∆sûÒ›xj°òÕÿO-qˆz0◊ò9∫œÿOπΩ9FÖ{∑ ô˛˘~x≈˘˛XÖ)ó”1˚ƒıÜ<¥PXπz+h°8ﬂ:o°pîÜ-dªﬁ≈Ó7!˙b»ˆ‘C6Ù≈êè}FÆ”ã5ú≤–„ìõ»s}|r≥Üìz|rC·‰Ü÷G'≤˙ìÅ^˛Ù§˘≠<:iËœÅºüÚKÎ≤RΩ-©»◊Àü‚E~∫oÓ‹´|˝˘/ê˜¡©y»∞Bè3¡P»∞Bè3¡L‰|ú	f"ÁÁ<˚;»aÆê«ÛO‰…èÁÛè<û$Ã?üÛÏg	·HüTI8í«'U9üTM‰|~R,0ÚÿR$¡#è-E9[ä&r~ÃìJ˙“¸CU⁄fPË√µ‰…DTl∞çÚÄßú©N7+ß|∫~CFŒèy"Rã˝”˛RuÏœÂºlå·}Á«Ûá˜ùœK9œK9ó«±¡'ù˚§sIÁ«˚
+V\zlû|l¶`¶«ña
+ñ·œyˆSûò¸ÿwû¡wû˚Œ≥Ûƒ‰áæÛ|Á˘±Ô<ÔS~Ë;œ¡_î˚ŒsÊ«æÛ¸É˘eﬂyæÛæÛÏ|Á|ÁŸ˘Œ3¯ŒsùgùgùÁ‡;œ‡;œ‡;œè}Á9¯Œ3¯Œ≥ÛùgùgÁ;œ‡;œ¡wû¡wû¡wûÉÔ<ÉÔ<ÉÔ<øË;œ¡wû˚πœﬁçÁ<„ªÒÙdz6c?>ôé≥◊Cowò±ür{q.å'”|Á9¯Œ3¯Œ3¯ŒsùÁ«æÛ|Á9¯ŒsùÁ‡;œ¡wû_ùø"$É]ü˚
+Lx>ˆ‡‡+¿è}8¯
+<Áô÷kó‹)ÙÒnæI5·π~ºõè<;Âs9Èõ<5XÙ±Eb¬Û±EBÉEB[$4X$îûF/Sÿ)“„ù"Öù"mè£ÇÉW˚‹(¯‹Ëcüu\}Ës£¡ÁF˚‹h∞ZÎCü	vfyÏs#¡Ø@˚‹H+êó}n$¯‹¯‹àÛππÁs#‡s#¡ÁF¿ÁF¿ÁFÇœçÄœçÄœç<ˆπë‡s#‡s#ŒÁF¿ÁFúœçÄœçüüü	>7>7>7Ú¢œçüyÏ3{7ûÛåÔ∆„®‡…å˝8GvòΩ‰°óåü±ür{s.úDü	>7>7>7|n‰±œçü	>7|n$¯‹HπëW|nä/CÚæΩ¸±ÔÚìgæ˝˘/ê˜A¡é6øNy¿sCõﬂû ïës{jõú»˘1œcˆ⁄§\˜˘¨QvJüÆ@Û9‚”1˚P]ﬂ’Ú1øÒßk1œqœ˘úwj˘ø&—êQ∑Uóg2û˘åΩëá∏Oú]™¡ÛÅú¥»˘ÓÈÒLı ˆã¢¥|∫
+uNû∫JâG¯îgXÖ÷é9S˙W¢Qˆ5’ïd:oÖÿôÎzg+vÁV.+§Âº•q‘8‘R3õµÁ{π∂”R2Uπ∆°ŒÌ£çZ˛y…p˝ﬁenœ{ü¨CΩå_3º‹G9-uAµ—πﬂ5ˆ˝‘‘‡– ¶:•˜C„–qˆ6F?t)Æÿì–◊èV£«ZƒèΩ&o·≠Ú⁄ËçÔ»sûÒ˘úÁÒI8•öÃﬁïÚ—j‘ÕZØÃ9næÛ˜séoŒånM⁄ﬂÏ1€l{}k÷‹WòÀVs+2µ'∑˜™ïïÍÔ„â˛û‘´†?Yì:_¶ï-ó‡çõñõDç§É“—åß<‚ÁkRÜHa~y¯=å<fà<˛\æÀÁ!XË±ua¬Û±uÅÇuÅ[(X>ÁI⁄bóKÆî!ù[|s£<·πpãêÜV>…%‰•≤r÷Vûår~Ãsß+"W~"S~¬/ı[pûÒ;o/9GåÍ∏Öı*?·∏çQ
+«Ì„;[é^+AF˘\∆ŒdîÌÛª;*Í!c^èˇëîœm‹›—x>ñSÉú˙XNr~ÆÛÈ:Ó≤®îÙyÜ¥.UøM∏≈JÍß˘ÃºDÜ„Á2v∑¨üﬂ·—xÍ»/€ìë98™„ßœ∏•qG·ó>øΩ£s∑wTéüﬂ›—9éª;*«œoÓh≥XÃYû!Œ„ﬁé ÔÛ[;⁄€£Fèö¯æ|>∂›H®∑œÔC7„^>‰zÒ)ø ·Á•gU¬<ÛùÚ ˛éyÊ©L>¸˝q>¸ ÁûJ%œ%o5s`πºﬁ≤—(›8Ó8û≤d‚œf….ÁN=sH˛9œ.’ó°,üﬁéHøB+O‰¨R}Ô/ZZYíñ]¯A9VˇÖRGÏA-∂÷Ûx¥ÏÊè˜z=˜ÓºÔ∫õ”AIÁ»ÛZsJî˝‰x˙¨î^=3	Æ≈#sœº∑∂“∫ó:)-çsZr©£€⁄˘‰Ω¯éÈí⁄S π¥.ºW˘ æöwæûë53k√¿"≈'çóöœÚËãT|Nèq–%ˆ#„˚'GîÔ¢∏ª@RâÂz‡‘xZ/† ÛÛxë\˜–&v≥QƒÉnuy>à<;ÂA<®G˙
+œ±loÚÿF(¡ˆ&èmÑ9€'r~Ã≥ùèa<˛√¯~‰G„˚	‚˚?óÔäT–¯q¶6–¯q¶∂âúè3µM‰¸òÁ1≥3£Àx∏—v⁄ûdQl<G∆ChÂ≥+ïëÛÛÃå¿·+H˛q~—–á>ÅﬂCüüèœÂª<ÿÉ'3?ˆéû|ÏÕ¡;ö{Gsé~ŒSÇmA€+&<€+$ÿ+‰±ΩBÇΩ‚9Oπ7¯q>è	œ«˘<8‰Û‡«˘<8‰Û¯ú'ìÆÁäê%˜]f⁄ÆÚG{7Û¸≈OÂ”Ω`ïØ=ˇÚ>»Ö÷ÅÙxΩJaHè◊´9ØW'r>Òi´YBÙ!=é'àß«Ò‚‰¢Èaº8Öxqz/N!‚í∆ãSàë§«Ò‚bbÈqº8ÖòXz9^úBº8Aº8πxqÇxqrÒ‚Ò‚‚≈	‚≈	‚≈)ƒãƒãƒã”„xq
+Ò‚Ò‚‰‚≈	‚≈…≈ãƒãSà'à'àß/N/N/N/∆ãSàß«±›≥w„9œ¯n<Œd:ô±üFULfØáﬁ0c?Âˆ‚\8…d‚≈)ƒãƒãƒãSàß«Ò‚‚≈)ƒãSàß/N!^ú^àø≤Ñ(~ó)ó)è„2≈G˘<åÀîó…è„2%F6=åÀ‰ãƒè„29ƒûÒ„∏L±g¸r\&á∏LÜ∏LvqôqôÏ‚2‚29ƒe2ƒe2ƒeràÀdàÀdàÀ‰«qô‚2‚2Ÿ≈e2ƒe≤ãÀdàÀ‰ó…ó…ó…!.ì!.ì!.ì_åÀ‰ó…èc(gÔ∆sûÒ›xúqf2c?æ≠5ﬁ‰4í“ﬂ^Ò4≥˙ãs·$„LàÀ‰ó…ó…ó…!.ì«eràÀ‰ó…!.ìC\&á∏LŒÔeú—êØOÁ ú|úPC@}úPC¿œy6Ê»~òs˘…√ú€9∑»∑l©d°§£Ô™ü¡z|˚KŒ§Jy¿s›•˘CtûçÚ@◊·úZü}Ox>>˚÷pˆ≠èœæ5ú}[ûÎèÛﬂ¡•˛÷q§;ïo¥ 1gû>@W9ü—ÜGYOOV-ˆÏÛÜºÂ*˝<Àr÷3øóõeØÁG˘‡ˇ”îy;˘éÁπ¯u˛µÙ”¥ﬂ~ø‰kœ;˘œıÀˆKít`§	ê&@ö i§êf@öi§êf@ö i§È6“-eátî´§«‚œ!› w| ›é®E∫m‰êérEzïõ§◊ÛI„!Ω⁄Ôøw˘˙ÛV˛?E⁄µüv?z”ÓGo^ÏËm%3z«ÔUg˝˘Qˆ£7m~Ù¶ÕéﬁV2£∑ˇ~…∑˘—€¯ˇ	R§Hê
+ @*ÄT © R§Hê2 Â€Hs›ìhçÔ˘1 9•rÕö ÷≤qâ
+»Á=ÙΩtæwÃgΩÒª/¬Ò|/ü¸ö≤Óı.ö˛º˛µÙ”¥ﬂÔÚıÁ≠¸∑ê2 e@ )§Hê2 e@ )§HêÚm§H	êíCJ)R§H	êíCJ)R§tÈ
+HW@∫:§k@∫“êÆÄt§´C∫§+ ]ÈzÈH@∫8§K@∫ “ê.Ät§ãC∫§ ] ÈÚWHœì$6ÔÈ(Á˝‹ªù{¬•î∑=ïr{OKÈ<Ö·≤«øKJÓ˘^Æíårı£œKb√øñ~öˆ˚Ô]æ˛ºïˇOëäüëFπÍ‰ÿ]∫IƒœH"~FÒ3“(7§‚g§Ò|’YÁﬂu:⁄Ôø˚…ÀˇßH3Ë4ÉN3Ë4ÉN3Ë4ÉN3Ë4ÉN3Ë4ÉN3Ë4ÉNÛmù* U@™ÄT©R§
+Hê* U@™ÄT©ﬁFö`Ù&Ω	FoÇ—õ`Ù&Ω	FoÇ—õ`Ù&Ω	FoÇ—õnèﬁt∫ÉNw–È:›Aß;ËtùÓ†”t∫ÉNw–È:›ø≠Sù*ËTùN5ËTAß
+:U–©ÇN’ÈTÉNt™†SΩ≠”:M†”‰töÇNË4ÅNË4ÅNì”i
+:M†”:M∑g§3RÇ)π)Ö)¡åî`FJ0#%òëíõëRòëÃH	f§;H˝ËUΩ
 £WaÙ*å^Ö—´0zFØ¬ËUΩ
 £WaÙÍÌ—+ÄT © R§Hê
- @*ÄT © R§riÜ—õaÙfΩFoÜ—õaÙfΩFoÜ—õaÙfΩFoæ=z	ê %@JÄî )R§H	ê %@JÄîæÅ‘è^Ç—K0z	F/¡Ë%Ω£ó`Ùå^Ç—K0z	F/›Ω}◊#ï‚«(ì€µù3«ÿµı“ÿµçøW$„˘^^›ÆÌúIÏÆÌ(õ][/˝4Ì/n◊6û∑ˆﬂBö i§…!Mi§	ê&@ö irHS@ö i§È6“H3 ÕiH3 ÕÄ4“H≥Cö“H3 Õ∑ënÄt§õC∫§ › ÈH7@∫9§[@∫“ên∑ëÓÄt§ªC∫§; ›ÈHw@∫;§{@∫“êÓãt”9◊˚Ù*üπÿ≈ kΩM!À∑z{-ÔÉ÷z˝Ô«¬∂¸æó“´º‰™∑=üÎ]ﬂM+˝Ì_ÔˆıÁ≠˝›ßÄ4“H3 ÕÄ4“H3 ÕÄ4“H3 Õ∑ëˆw≤CüÓ–ßªÎ”=ÙÈ}∫CüÓ–ß;ÙÈÊ˙t}∫AüÓ–ß˚Ì>›°OwË”›ıÈ˙tá>›°OwË”˙ts}∫Ö>›†OwË”€ﬂ)/æOyÒ} ãÌ”^}:˛^ëåÁ{Ÿ˜)/–ßªÎ”=ÙÈÓ˚t<oÌø”ß“H3 ÕÄ4“H3 ÕÄ4“H3 ÕÄ4ﬂF⁄ﬂ…
-}∫BüÆÆO◊–ß+ÙÈ
-}∫BüÆæOy±}⁄K?ÕòÇ>]°O◊€}∫BüÆ–ß´Î”5ÙÈ
-}∫BüÆ–ß´Ô”I§êf@öÔ"’£FÕ#Ø{ôQÆª.=,.Ï,mW¶´TOn€µÈzF¯ÿøß5πÁ{πÓ5FπÓ∫∆ÛuW÷ı˜]€høˇΩ€◊ü∑ˆﬂŸü
-¯e¸2‚¸2¸2~øåÄ_F¿/#Œ/#¡/#‡óÀ»møåÄ_F¿/#Œ/#¡/#‡óÀ¯e¸2‚¸2¸2~øå‹ˆÀ¯e¸2‚¸2¸2~øåÄ_F¿/#Œ/#¡/#‡óÀ»møåÄ_F¿/#Œ/#¡/#‡óÀ¯e¸2‚¸2¸2~øå‹>√À¯eƒ˘e$¯e¸2~øåÄ_Fú_FÇ_F¿/#‡óë€~øåÄ_Fú_FÇ_F¿/#‡óÀ¯eƒ˘e$¯e¸2~ôoÙ)¯e¸2‚¸2¸2~øåÄ_F¿/#Œ/#¡/#‡óÀ»møåÄ_F¿/#Œ/#¡/#‡óÀ¯e¸2‚¸2¸2~øå‹ˆÀ¯e¸2‚¸2¸2~øåÄ_F¿/#Œ/#¡/#‡óÀ»møåÄ_F¿/#Œ/#¡/#‡óÀ¯e¸2‚¸2¸2~øå‹ˆÀ¯e¸2‚¸2¸2~øåÄ_F¿/#Œ/#¡/#‡óÀ»møåÄ_F¿/#Œ/#¡/#‡óÀ¯e¸2‚¸2¸2~øå‹_˜Ç_F¿/#Œ/#¡/#‡óÀ¯e¸2‚¸2¸2~øå‹ˆÀ¯e¸2‚¸2¸2~øåÄ_F¿/#Œ/#¡/#‡óÀ¸˝Ë=YXÎ-öÓ*Á∂ì^À˛Pé-r;Û+ô\€µÁ≤ø©˚ÛΩ‹¢ÈÆ≤∂ùt^⁄NªÍók'ﬁ€ÔÔˆıÁ≠˝Öîè¶kîK›âèr=ô>ÔØQ2ı‰ö˘å4Ó•ügy´Q6˝Ôï¸z˛*◊ùÚ(◊ìÈÒ|=πÓ˙˚…ˆhø˝˝≤Ø=ÔÏøÖî )RrH) %@JÄî )RrH) %@JÄîn#]È
-HWátHW@∫“êÆÄtuH◊Ät§+ ]o#] ÈHát	H@∫ “ê.ÄtqHóÄt§ ]Ó"Ì®QˆHªá©Z2<P›“Ò˜ä‰z˛*{§›É4û∑Háj¥Ôë^œ;˚o!› ÈH7átH7@∫“ênÄtsH∑Ät§ ›n#ÕÄ4“ÏêÊÄ4“H3 ÕÄ4;§9 ÕÄ4“|i§	ê&á4§	ê&@ö i§…!Mi§	ê¶€Hê* UáTR§
-Hê* UáTR§
-Hˇ6¢„X°x§
-Hê&@ö i§	ê&@ö i§
-HêÍ∑ë&@ö irHS@ö i§	ê&@ö“ê&@ö i∫ç4“H≥Cö“H3 ÕÄ4“ÏêÊÄ4“HÛm§ › ÈÊênÈH7@∫“ênÈênÄt§€m§; ›ÈÓêÓÈHw@∫“êÓÈêÓÄt§˚]§◊jPa5®∞L∞L∞L∞L∞L∞L∞L∞TX*¨ıˆjPaÖØ∞¬WX·'X·'X·'X·'X·'X·'X·'X·+¨V¯z{ÖØ∞kSÿµ)Ï⁄Ï⁄Ï⁄Ï⁄Ï⁄Ï⁄Ï⁄Ï⁄vm
-ª6ΩΩkSÿâ+Ïƒv‚	v‚	v‚	v‚	v‚	v‚	v‚	v‚
-;qÖù∏ﬁ›âwü≤ÄO\¿'.Œ'.¡'.‡â¯ƒ|‚‚|‚|‚>qü¯ﬂüòıö∫y§∫y§∫Y§Ω4êéøW$„˘^ˆHuÛHèÆ1H{Èßiﬂ#œ[˚ÔúÇ“ÊOAiÛß†¥ŸSP⁄t¸ΩûréÁ{ŸüÇ“ÊOAi≥ß†¥·)Ë¯{∑œüÇ“v˜ˇBzï˝˛Åƒú·˜“8√Øßú„˘^ˆg¯á•Óˇ(õ3¸^˙i⁄˜g¯„ykˇù3¸iÜ>Õ–ß˙4CüfË”}ö°O3ÙiÜ>Õ–ß˙4ﬂÓS§
-Hê* U@™ÄT©R§
-Hê* ’€Håﬁ£7¡ËM0zåﬁ£7¡ËM0zåﬁ£7¡ËM0z”Ì—ªCüÓ–ß;ÙÈ}∫CüÓ–ß;ÙÈ}∫CüÓ–ß;ÙÈ}∫∑OyÒ} ãÔS^lüÚÇ}:˛^˚l<ﬂÀæOyÒ} ãÌS^∞O«ﬂª}æOyπ€ßº˙>Â’˜È±1}⁄K£O«ﬂküçÁ{Ÿ˜)ØæOyµ}⁄K?M˚æO«Û÷˛;3“ÖT©R§
-Hê* U@™ÄT©R§˙§~Ù*å^Ö—´0zFØ¬ËUΩ
-£WaÙ*å^Ö—´0zıˆË@*ÄT © R§Hê
- @*ÄT © Rπç4√ËÕ0z3åﬁ£7√ËÕ0z3åﬁ£7√ËÕ0z3åﬁ£7ﬂΩH	ê %@JÄî )R§H	ê %@Jﬂ@ÍG/¡Ë%Ω£ó`Ùå^Ç—K0z	F/¡Ë%Ω£óÓéﬁk∑¬˛tÖ˝ÈÍˆßkÿüÆ∞?]a∫¬˛tÖ˝ÈÍˆßkÿüÆ∞?]a∫ﬁF Äî);§ê2 e@ Äî);§ê2 e@˙˜úW˚Òœ?Tc[/Î≤÷ûù∂íÛªlu‘-Ö•∂óû˘À…;j¨˘dqÓÆ≤TNµQﬁ§Â‘Á%g≤-¥ÚœaCìõ´è·/œí÷çR·û¨hØr∑ıôÁ-¨ñuﬂ§æçéñŒLáu‘†3‚$Ω‹—^ÂÜ∂?ﬂ—ˆ.¥óWçns”‡0‹≈ÁIÁI‰Œì(ú'ú'ú'ú'ú'ë;O¢pûDpûDpûD∑cÕr,r,ÿÂXp»±`»±`»±`»±`»±`óc¡!«Ç!«Ç!«ÇoÁX0‰X0‰X∞À±‡êc¡êc¡êc¡êc¡êc¡.«ÇCéCéCéﬂŒ±`»±`»±`óc¡!«Ç!«Ç!«Ç!«Ç!«Ç]éáÜÜæùc¡êc¡êc¡.«ÇCéCéCéCéCéª999|;ü!«Ç!«Ç]éáÜÜÜÜv9r,r,r,¯véCéCéª99999Ïr,8‰X0‰X0‰X|£O!«Ç!«Ç]éáÜÜÜÜv9r,r,r,¯véCéCéª99999Ïr,8‰X0‰X0‰XÌÜÜv9r,r,r,r,r,ÿÂXp»±`»±`»±‡€999Ïr,8‰X0‰X0‰X0‰X0‰X∞À±‡êc¡êc¡êc¡∑s,r,r,ÿÂXp»±`»±`»±`»±`»±`óc¡!«Ç!«Ç!«ÇoÁX0‰X0‰X∞À±‡êc¡êc¡êc¡êc¡êc¡.«ÇCéCéCé≈˝‹bÜÜv9r,r,r,r,r,ÿÂXp»±`»±`»±‡€999Ïr,8‰X0‰X0‰X0‰X0‰X∞À±‡êc¡êc¡êcÒ˜£˜ ,ﬂ8ÉoúùoúÉoú¡7Œ‡gç3¯∆Ÿ˘∆9¯∆|„æqﬁÓ"Mk›ç_eZƒ"M«z Ì•Åt¸Ω"œ∑ÚZw £º≠iZèrËo•Åt¸Ω€€ü∑ˆﬂäwÄì3Öì3u'gNŒNŒNŒNŒNŒ‘ùúi89S89S89”€ÁæÒÒ‚‚$ƒ;ƒ;ƒ;ƒ;ƒ;àãwêÔ Ô Ô ∑„‚‚ƒ≈;HàwàwàwàwàwÔ !ﬁA ﬁA ﬁAn«;ƒ;ƒ;àãwêÔ Ô Ô Ô Ô .ﬁABºÉ@ºÉ@ºÉ‹éwàwàwÔ !ﬁA ﬁA ﬁA ﬁA ﬁA\ºÉÑxÅxÅxπÌàwàwÔ !ﬁA ﬁA ﬁA ﬁA ﬁA\ºÉÑxÅxÅxπÔ Ô Ô .ﬁABºÉ@ºÉ@ºÉ@ºÉ@ºÉ∏x	ÒÒÒ˜˚T!ﬁA!ﬁA]ºÉÜxÖxÖxÖxÖxuÒ‚‚‚ÙvºÉBºÉBºÉ∫xÒ
-Ò
-Ò
-Ò
-ÒÍ‚4ƒ;(ƒ;(ƒ;ËÌxÖxÖxuÒ‚‚‚‚‚‘≈;hàwPàwPàw–€Ò
-Ò
-ÒÍ‚4ƒ;(ƒ;(ƒ;(ƒ;(ƒ;®ãw–Ô†Ô†Ô†∑„‚‚‘≈;hàwPàwPàwPàwPàwPÔ†!ﬁA!ﬁA!ﬁAo«;(ƒ;(ƒ;®ãw–Ô†Ô†Ô†Ô†Ô†.ﬁACºÉBºÉBº√˝uØBºÉBºÉ∫xÒ
-Ò
-Ò
-Ò
-ÒÍ‚4ƒ;(ƒ;(ƒ;ËÌxÖxÖxuÒ‚‚‚‚‚‘≈;hàwPàwPàw∏u£N¢„MÌf◊≥¥-ïa`’˝lÂXl’äºµàÙ≠„‹7ÛwŸµ÷oœ˜Ú©˝ß)k™V◊ß%i©›µ◊ÚO”~ØQ≠ÎOÀˇz&ZiΩ¨8g¢^Œi´3—æûæ˘cïwﬁÅ)r°,Â2ïˆGçC`ûØ•Ü±ï¥ O*IùÖöÓZ˛iZÔ5∫u]Éµ˛oÊ!€ìŸıdÜûÃ°'≥Î…=ô°'3Ùdv=ôCOfË…Ïz2ﬂÏIu’!T@®°:Ñ
-* TáPBÑÍÍMÑ	∆jÇ±ö`¨¶0Vå’‰∆jrc5π±ö`¨¶0Vå’c5›´ªÎ…›ı‰=πáû‹]OÓ–ì;Ù‰=πªû‹COÓ–ìªÎ…˝{=ôﬂìiÒ=ôﬂìΩ<zr‘8{k<_K∂'”‚{Ú(ªûÏÂü¶uﬂìCÉµ˛Ô{Úº4zÙ‰ôjl{Ú(ªûÏÂﬁì„Ôµß∆ÛΩÏ{2≠∂'”Í{≤óöˆmOéßáÂ?Î\’!T@®°:Ñ
-* TáPBÑÍÍ]Ñ0V∆™¬X’0V∆™∫±™n¨™´
-cU√XU´
-cUoèUú8pJ¿)ÄSNq8≈·¿)ß Núrgv#6ªõaƒÊ0b≥±FlÜõaƒf7bs±Flv#6ﬂ±‰íCHÄêBr	 $@H!Ñ…!§ªa¨åUÇ±Ja¨åUrcï‹X%7V	∆*Ö±J0V	∆*›´W¸#x	<Å‰<Å<Åû@O Å'ê¿HŒH¡H‡	$˛}¶÷ô’ñÀ˝ÕùWÆó;/‹1F˛ÿérÁçÀ«ªï´\8ﬁôÕﬂÎ=Œ„˘^ÓºrΩ‹y·Í”ù5ÆkºrΩ˝^£€◊ü∑ˆˇ√ªGöi§9 Õi§êf@ö“êf@öiæç¥øÖ>UËSÖ>UËSÖ>UËSÖ>U◊ß
-}™°O˙T°Oıvü*Ù©Bü*Ù©Bü*Ù©Bü*Ù©∫>UËS}™–ß
-}˙˜HUkCøÊ*∑˚z4’(à~sëñ˚∆ÕF∫’(äÎÔ{ç≤∏ûÔÂv?¡Un˜ı\œ∑˚|ö˛Îæü´˝˛˜n_ﬁ⁄ˇóH MÄ4“H MÄ4“H MÄ4“H”m§êf@öi§êf@öi§êf@öi§˘6“ênÄt§ › ÈH7@∫“ênÄt§ ›n#›ÈHw@∫“êÓÄt§; ›ÈHw@∫“˝.“3ãÕ"Â∆Ó≤x§ºx§g÷ùE ãG: çfÒH«Ûç˝eÒHG˚˝Ô©∑ˇØsó È
+ @*ÄT © R§riÜ—õaÙfΩFoÜ—õaÙfΩFoÜ—õaÙfΩFoæ=z	ê %@JÄî )R§H	ê %@JÄîæÅ‘è^Ç—K0z	F/¡Ë%Ω£ó`Ùå^Ç—K0z	F/›Ω}◊#5ƒèQ&∑k;gé±kÎ•±køW$„˘^^›ÆÌúIÏÆÌ(õ][/˝4Ì/n◊6û∑ÚﬂBö i§…!Mi§	ê&@ö irHS@ö i§È6“H3 ÕiH3 ÕÄ4“H≥Cö“H3 Õ∑ënÄt§õC∫§ › ÈH7@∫9§[@∫“ên∑ëÓÄt§ªC∫§; ›ÈHw@∫;§{@∫“êÓât”Í9◊uzïœXÏbêµﬁ¶êã‰[ΩÅΩñäıAkΩ˛˚±∞-ˇÔœ˜rCzïó\˘∂ÁsΩÎªÒo•ü£˝Î˜._ﬁ ˇÁ:§êf@öi§êf@öi§êf@öiæç¥˜…:›Aßª”Èt∫ÉNw–È:›Aßõ”Èt∫ÅNw–È~[ß;ËtùÓNß{–È:›Aß;ËtùnNß[–È:›Aß∑ﬂS^ºNyÒ:Â≈Í¥óÜN«Ô…xæóΩNyùÓNß{–ÈÓu:û∑Úﬂ—ÈÖ4“H3 ÕÄ4“H3 ÕÄ4“H3 Õ∑ëˆ>YAß+Ëtu:]ÉNW–È
+:]Aß´◊)/VßΩÙ”å)–È
+:]oÎtùÆ†”’Èt:]Aß+ËtùÆ^ßíH3 ÕÄ4ﬂE™GçG^˜2£\w]zH\≤≥¥]ôÆR-πm◊¶ÎÈ·cOkrœ˜r›kår›uçÁÎÆ¨ÛÔª∂—~ˇΩÀ◊ü∑ÚﬂŸü
+ÿeÏ2‚Ï2Ï2vªåÄ]F¿.#Œ.#¡.#`ó∞À»mªåÄ]F¿.#Œ.#¡.#`ó∞ÀÿeÏ2‚Ï2Ï2vªå‹∂ÀÿeÏ2‚Ï2Ï2vªåÄ]F¿.#Œ.#¡.#`ó∞À»mªåÄ]F¿.#Œ.#¡.#`ó∞ÀÿeÏ2‚Ï2Ï2vªå‹>√∞ÀÿeƒŸe$ÿeÏ2vªåÄ]Fú]FÇ]F¿.#`óë€vªåÄ]Fú]FÇ]F¿.#`ó∞ÀÿeƒŸe$ÿeÏ2vôoËÏ2vqv	vªåÄ]F¿.#`ógóë`ó∞Àÿe‰∂]F¿.#`ógóë`ó∞ÀÿeÏ2vqv	vªåÄ]Fn€eÏ2vqv	vªåÄ]F¿.#`ógóë`ó∞Àÿe‰∂]F¿.#`ógóë`ó∞ÀÿeÏ2vqv	vªåÄ]Fn€eÏ2vqv	vªåÄ]F¿.#`ógóë`ó∞Àÿe‰∂]F¿.#`ógóë`ó∞ÀÿeÏ2vqv	vªåÄ]FÓØ{¡.#`ógóë`ó∞ÀÿeÏ2vqv	vªåÄ]Fn€eÏ2vqv	vªåÄ]F¿.#`ógóë`ó∞Àÿe˛zÙûYXÎÕõÓ*Á∂ì^À˛Pé-r;Û+ë\€µÁ≤øøãTÑ˝˘^nﬁtWY€N∫?/mß]˘ÀµÔÌ˜ﬂª|˝y+ˇü!Â£ÈÍÂRw‚£\O¶œ˚¡´óL=πf>=ç{ÈÁYﬁ™óMˇΩføûø uß< ıdz<_OÆ;ˇ~≤=⁄oø_ÚµÁù¸∑ê %@J)§H	ê %@J)§H	ê“m§+ ]ÈÍêÆÈ
+HW@∫“êÆÈêÆÄt§Îm§ ] È‚ê.ÈH@∫ “ê.Èê.Ät§À]§›5 i∑0UIÜ™K:~ØHÆÁØ≤G⁄-H„yãtX†F˚Èıºìˇ“ênÄtsH∑Ät§ › ÈH7átH7@∫“Ì6“H3 ÕiH3 ÕÄ4“H≥Cö“H3 Õ∑ë&@ö irHS@ö i§	ê&@ö“ê&@ö i∫çT©RuH5 U@™ÄT©RuH5 U@™ÄÙ/=:éäG™ÄTi§	ê&@ö i§	ê&@™ÄT©~i§	ê&á4§	ê&@ö i§…!Mi§	ê¶€H3 ÕÄ4;§9 ÕÄ4“H3 ÕiH3 ÕÄ4ﬂF∫“ênÈênÄt§ › ÈÊênÈH7@∫›F∫“êÓÈêÓÄt§; ›ÈÓêÓÈHw@∫ﬂEz≠VÉ
+´¡´¡´¡´¡´¡´¡´¡´AÖ’†¬jPoØV¯
++|Ö~Ç~Ç~Ç~Ç~Ç~Ç~Çæ¬
+_aÖØ∑W¯
+ª6Ö]õ¬Æ-¡Æ-¡Æ-¡Æ-¡Æ-¡Æ-¡Æ-¡ÆMa◊¶∞k”€ª6Öù∏¬N\a'û`'û`'û`'û`'û`'û`'û`'Æ∞WÿâÎ›ùx∑)ÿƒl‚‚l‚l‚6qõ∏ÄM\¿&.Œ&.¡&.`∞âˇıâYØ©õG™õG™õE⁄KÈ¯Ω"œ˜≤G™õGz®∆ Ì•ü¶}èt<oÂøs
+Jõ?•ÕüÇ“fOAi√S–Ò{=Âœ˜≤?•ÕüÇ“fOAi√S–Ò{óœüÇ“v˜ˇBzï˝˛Åƒú·˜“8√ø◊SŒÒ|/˚3¸CRwÜîÕ~/˝4Ì˚3¸ÒºïˇŒ˛Ö4ÉN3Ë4ÉN3Ë4ÉN3Ë4ÉN3Ë4ÉN3Ë4ÉNÛmù* U@™ÄT©R§
+Hê* U@™ÄT©ﬁFö`Ù&Ω	FoÇ—õ`Ù&Ω	FoÇ—õ`Ù&Ω	FoÇ—õnèﬁt∫ÉNw–È:›Aß;ËtùÓ†”t∫ÉNw–È:›ø´S^ºNyÒ:Â≈Íî‘È¯ΩÍl<ﬂÀ^ßºxùÚbu Ít¸ﬁÂÛ:ÂÂÆNyı:Â’ÎÙXÇùˆ“–È¯ΩÍl<ﬂÀ^ßºzùÚju⁄K?M˚^ß„y+ˇùÈB™ÄT©R§
+Hê* U@™ÄT©R˝R?zFØ¬ËUΩ
+£WaÙ*å^Ö—´0zFØ¬ËUΩz{Ù
+ @*ÄT © R§Hê
+ @*ÄT ©‹FöaÙfΩFoÜ—õaÙfΩFoÜ—õaÙfΩFoÜ—õoè^§H	ê %@JÄî )R§H	ê •o ı£ó`Ùå^Ç—K0z	F/¡Ë%Ω£ó`Ùå^Ç—KwGÔµø[a∫¬˛tu˚”5ÏOWÿüÆ∞?]a∫¬˛tu˚”5ÏOWÿüÆ∞?]o#e@ ÄîRHê2 e@ ÄîRHê2 ˝ÎúW˚ÈÒœ?TZ∆∂^÷e≠<;m%ÊwŸÍ®[Jñ⁄^˛y∆o,g&ÿQcÕgÁŒ·*KÕ©6 õ¥¯è˙º‰L∂ÖV˛9dhî!sÂ‡1¸ÈY“∫Q*π'+⁄´‹e=FÊyÎÖe›7©Ω——“È∞étzú‰¡°ó;⁄´‹–ˆÁ;⁄ﬁ¬Öˆí·™—enÜ;£ò‡<â‡<â‹yÖÛ$ÇÛ$ÇÛ$ÇÛ$ÇÛ$rÁIŒìŒìŒìË∂ØCåCåª11111Ïb,8ƒX0ƒX0ƒXÌÜÜv1b,b,b,b,b,ÿ≈Xpà±`à±`à±‡€111Ïb,8ƒX0ƒX0ƒX0ƒX0ƒX∞ã±‡c¡c¡c¡∑c,b,b,ÿ≈Xpà±`à±`à±`à±`à±`c¡!∆Ç!∆Ç!∆Ço˚„3ƒX0ƒX∞ã±‡c¡c¡c¡c¡c¡.∆ÇCåCåCåﬂé±`à±`à±`c¡!∆Ç!∆Ç!∆Ç!∆Ç!∆Ç]åáÜÜãoËb,b,ÿ≈Xpà±`à±`à±`à±`à±`c¡!∆Ç!∆Ç!∆Ço«X0ƒX0ƒX∞ã±‡c¡c¡c¡c¡c¡.∆ÇCåCåCåﬂé±`à±`à±`c¡!∆Ç!∆Ç!∆Ç!∆Ç!∆Ç]åáÜÜæc¡c¡c¡.∆ÇCåCåCåCåCåª111|;∆Ç!∆Ç!∆Ç]åáÜÜÜÜv1b,b,b,¯våCåCåª11111Ïb,8ƒX0ƒX0ƒX‹è-fà±`à±`c¡!∆Ç!∆Ç!∆Ç!∆Ç!∆Ç]åáÜÜæc¡c¡c¡.∆ÇCåCåCåCåCåª111=zØ»r∞ç3ÿ∆ŸŸ∆9ÿ∆l„∂q€8ÉmúùmúÉmú¡6Œ`ÁÌ.“¥÷›¯U¶E,“tÏ°“^H«Ô…xæï◊∫SÂmµH”zºêÉ+§„˜.oﬁ ÀﬂNŒNŒ‘ùúi89S89S89S89S89Swr¶·‰L·‰L·‰Loü˚
+¯;¯;àÛwê‡Ô ‡Ô ‡Ô ‡Ô ‡Ô ŒﬂAÇøÉÄøÉÄøÉ‹ˆwwwÁÔ ¡ﬂA¿ﬂA¿ﬂA¿ﬂA¿ﬂAúøÉπÌÔ ‡Ô ‡Ô ŒﬂAÇøÉÄøÉÄøÉÄøÉÄøÉ8	˛˛˛r€ﬂA¿ﬂA¿ﬂAúøÉq˛¸¸¸‰∂m\¿ﬂA¿ﬂAúøÉq˛¸¸¸‰∂øÉÄøÉÄøÉ8	˛˛˛˛˛‚¸$¯;¯;¯;‹◊©ÇøÉÇøÉ:˛
+˛
+˛
+˛
+˛Í¸4¯;(¯;(¯;Ëmu˛¸¸¸¸¸‘˘;hwPwPw–€˛
+˛
+˛Í¸4¯;(¯;(¯;(¯;(¯;®Ûw–‡Ô†‡Ô†‡Ô†∑˝¸¸‘˘;hwPwPwPwPwPÁÔ†¡ﬂA¡ﬂA¡ﬂAo˚;(¯;(¯;®Ûw–‡Ô†‡Ô†‡Ô†‡Ô†‡Ô†ŒﬂAÉøÉÇøÉÇøÉﬁˆwPwPwPÁÔ†¡ﬂA¡ﬂA¡ﬂA¡ﬂA¡ﬂAùøÉá˚Î^u˛¸¸¸¸¸‘˘;hwPwPw–€˛
+˛
+˛Í¸4¯;(¯;(¯;(¯;(¯;®Ûw–‡Ô†‡Ô†‡ÔpÎFùD≈«õ⁄ÕÆgi[jÜÅU˜≥ïcU∞U)Ú÷<“∑ésﬂÃÔ≤k≠ﬂûÔÂì˚OS÷T•ÆOK“RªsØÂü¶˝^£J◊üíˇ˘L¥“zIqŒDΩú”Vg¢}=mÛ«*ÔºS‰BY e.*Ìè¡<_Kc+iA:ûTí:5ﬁµ¸”¥ﬁktÈ:+˝_ÃCVìŸi2É&s–dvöÃ†…öÃ†…Ï4ôÉ&3h2;MÊõöTáPBÑ™C®ÄP°Bu5 T@®°ﬁDò`¨&´	∆j
+c5¡XMn¨&7Vì´	∆j
+c5¡XM0V”Ì±∫;MÓNì;hrö‹ù&w–‰ö‹Aìª”‰4πÉ&wß…˝{öLã◊dZº&”‚5ŸÀCì£∆©≠Ò|-YM¶≈kÚ(;MˆÚO”∫◊‰‡`•ˇkMûóFMû°∆VìGŸi≤óª&«ÔUS„˘^ˆöL´’dZΩ&{˘ßiﬂjr<=$ˇÎYÁB®°B’!T@®ÄP°:Ñ* TáPÔ"Ñ±™0V∆™Ü±™0V’çUucU›XU´∆™¬XU´z{¨
+‡¿)ÄSNú‚pä√)ß N	8p
+‡î€8≥±Ÿçÿ#6áõ›àÕ0b3åÿ#6ªõ√àÕ0b≥±˘Êà%áêBÑíCHÄê !Br) $@H!›Ecï`¨åU
+cï`¨í´‰∆*π±J0V)åUÇ±J0VÈÓXΩ¸¡H`	$g	§`	$∞X	,Åñ@rñ@
+ñ@K Å%Ø#µŒ®∂\ÓoÓyÂzπÁÖ;∆»€QÓy„Ú—∑rïKéwfÛ{Ω«y<ﬂÀ=Ø\/˜ºpıÈû5ÆsyÂz˚ΩFóØ?oÂˇãÔi§êÊÄ4;§êf@öivHs@öi§˘6“ﬁ'
+:U–©ÇNt™†Sù*ËTùNt™Aß
+:U–©ﬁ÷©ÇNt™†Sù*ËTAß
+:UßSùj–©ÇNt˙◊HU´CøÊ*∑˚z4U/à~sëñ˚∆ÕF∫U/äÎ˜ΩzY\œ˜rªü‡*∑˚zÆÁ€}>çˇuﬂœ’~ˇΩÀ◊ü∑Úˇ)“H MÄ4“H MÄ4“H MÄ4“ti§êf@öi§êf@öi§êf@öiæçt§ › ÈH7@∫“ênÄt§ › ÈH∑€Hw@∫“êÓÄt§; ›ÈHw@∫“êÓÄtøãÙåb≥HGπewY<R^<“3ÍŒ"Â≈#ÂñfÒH«Û-˚À‚ëéˆ˚Ô©óˇœcó È
 HW@∫“êÆÄt§+ ]È
-HW@∫“ı6R§H	ê %@JÄî )R§H	ê •Ô"ï’#ï’#ï’"ïëéøW$„˘^ˆHeıHeµHeE§„Ô›>èT÷ª£˜B∫“êÆÄt§+ ]È
-HW@∫“êÆÄtΩçt§ ] ÈH@∫ “ê.Ät§ ] ÈHóªH˚,›ëé≤ˇïÈHÍØ¿@⁄%∆ﬂ=“Qˆø2›“Òº˝ïHG˚˛Wf<ÈH7@∫“ênÄt§ › ÈH7@∫“ên∑ëf@öi§êf@öi§êf@öi§êÊ€H MÄ4“H MÄ4“H MÄ4“H”m§
+HW@∫“ı6R§H	ê %@JÄî )R§H	ê •Ô"ï’#ï’#ï’"ïëéﬂ+íÒ|/{§≤z§≤Z§≤"“Ò{óœ#ïıÓËΩêÆÄt§+ ]È
+HW@∫“êÆÄt§+ ]o#] ÈH@∫ “ê.Ät§ ] ÈH@∫ “Â.“>Kw§£Ïø2I˝
+§˝+1~˜HGŸe∫§„y˚ïHG˚˛+3ûøçt§ › ÈH7@∫“ênÄt§ › ÈH∑€H3 ÕÄ4“H3 ÕÄ4“H3 ÕÄ4“HÛm§	ê&@ö i§	ê&@ö i§	ê&@ö i§È6R§
 Hê* U@™ÄT©R§
-Hê* U@™wë*%ZŒ≥µû∑ﬂÀ≤îÆøtûﬁ…1kNø3v†ó~e›œz„Ô[>ˇˇzæó{ﬁ˛Uf>ı^œìËR8ã˛V˙9⁄ÔøÏmœ;˚ˇ˙lp©gkCA/˜≥ΩµûÕ]|û›Ü©g{◊ﬂµû˝]œ˜r?ÏÂ~∂◊üÔgUˇ8ÏÌ˜øw˚˙Û÷˛[˘;œ;œ.vûCÏ<CÏ<CÏ<CÏ<CÏ<ªÿy±Û±Û±Ûœ$rûˇÿ—{ï€Ë£¥™Ω«∞ÿ—{Ã(bG/ÂïÏËΩ ‹œëzπéæÎ˘6:õ˛kÙ^Ì˜ø_ˆ∂Áù˝∑¯5‡d[‡d[‹…∂ÑìmÅìmÅìmÅìmÅìmq'€N∂N∂N∂Âvéìì;&L"L"L"L"L"ÏòD80â00â00â‹»ÓLë¿¡@¿¡@éÉÅ9
-tõÉÅÄÉÅÄÉÅr888Ë69
-‰8(p0p0p0–mr88888»q0P‡` ‡` ‡`†€˘˙‰8(p0p0p0p0p0ê„`†¿¡@¿¡@¿¡@∑988»q0P‡` ‡` ‡` ‡` ‡` «¡@ÅÉÅÄÉÅÄÉ·}
-‰8(p0p0p0p0p0ê„`†¿¡@¿¡@¿¡@∑988»q0P‡` ‡` ‡` ‡` ‡` «¡@ÅÉÅÄÉÅÄÉÅns0p0p0ê„`†¿¡@¿¡@¿¡@¿¡@¿¡@éÉÅ›Ê` ‡` ‡` «¡@ÅÉÅÄÉÅÄÉÅÄÉÅÄÉÅ∫Õ¡@¿¡@¿¡@éÉÅ9
-tõÉÅÄÉÅÄÉÅr888Ósèp0p0ê„`†¿¡@¿¡@¿¡@¿¡@¿¡@éÉÅ›Ê` ‡` ‡` «¡@ÅÉÅÄÉÅÄÉÅÄÉÅÄÉÅÜ£∑ÛR@;C;ª,vYÏYÏYÏYÏYÏÏ≤ÿ9d±3d±3d±ÛÌ,vÜ,vÜ,vvYÏ≤ÿ≤ÿ≤ÿ≤ÿ≤ÿŸe±s»bg»bg»bÁ€YÏYÏYÏÏ≤ÿ9d±3d±3d±3d±3d±≥ÀbÁê≈Œê≈Œê≈Œ∑≥ÿ≤ÿ≤ÿŸe±s»bg»bg»bg»bg»bgó≈Œ!ãù!ãù!ãùÔ3ºC;C;ª,vYÏYÏYÏYÏYÏÏ≤ÿ9d±3d±3d±ÛÌ,vÜ,vÜ,vvYÏ≤ÿ≤ÿ≤ÿ≤ÿ≤ÿŸe±s»bg»bg»bøﬂßYÏYÏ‚≤ÿ%d±d±d±d±d±ãÀbóê≈.ê≈.ê≈.∑≥ÿ≤ÿ≤ÿ≈e±K»b»b»b»b»bó≈.!ã] ã] ã]ng±d±d±ãÀbóê≈.ê≈.ê≈.ê≈.ê≈..ã]Bª@ª@ª‹Œb»b»bó≈.!ã] ã] ã] ã] ã]\ªÑ,vÅ,vÅ,vπù≈.ê≈.ê≈..ã]Bª@ª@ª@ª@ª∏,v	YÏYÏYÏr;ã] ã] ã]\ªÑ,vÅ,vÅ,vÅ,vÅ,vqYÏ≤ÿ≤ÿ≤ÿÂ>{d±d±ãÀbóê≈.ê≈.ê≈.ê≈.ê≈..ã]Bª@ª@ª‹Œb»b»bó≈.!ã] ã] ã] ã] ã]\ªÑ,vÅ,vÅ,vπÕ⁄Ø¿Æ¿Æé\∏∏∏∏∏:p,‡
-,‡
-,‡zˇV9µ)¯⁄‘˘⁄4¯⁄|m
-æ6_õÇØMùØMÉØM¡◊¶‡kSæÎ)¶∆úwïâ≤ı”πıΩ<≈Ω4<≈◊ﬂõ'¯zæó≥›(Îf=≈ÁÁ8<≈Ω4<≈◊ﬂ/{€ÛŒ˛;ÈUnñˆàäé§F\§="c¸ΩFl\œ˜rÁº ’“Î˘Ü§Èøê^Ì˜ø_ˆ∂Áù˝ÄÙ«˘ﬂ˛ﬂ‘¸ªˇa&˘#ß%oÚ#˛„¨ˆÁ}¯ÏÒ≤’µÙ«ÁZ˛Ô•7œ3◊˛ès˝Î˙õnÁÀ g¿èÏl?~~˝¯∑ˇ¯Òﬂ¸èˇÈÁøˇèˇ˝ˇı˛?Á›0ˇ¯«ˇˆ„¯üˇ¸c=û˘«ˇ˚„øZW˘cóˇ˙«?˛èˇ›?˛Â˙vs¨ÎrÊﬁlÓÎk4ıË›O˙Éœx™˝Ã7¸2í5Àè˝óˇŸHhKáçgùe;Ô…ËíZÀÀŒZ+o«+<$rÍÆµº¨‘Í⁄◊ı“Âe•VÕXúXï3ÉÂj⁄Î≤îV∞ΩJºÌ£V∑3€´Ã⁄ÆÊ=xôµ›⁄u|•ßÆ‡ô?e¨oífW‚Úæ¨Áó÷b©∫vcóóôZ«/˜˘\{’z‚KóË˘Ø˙˚ﬂ[Ù2kW}ŒΩ’â.⁄œVºÆ*˚
-6¸©]—¢w]]b[t2kWö`Lc≥!©ÇUß§º—:B(ïµN{ÔNVj-Us6}Ëee<h¨Âe•Vô≠}ã^VjµlËî˘z^f∆º{^fkiZC≠*≥-÷û-éﬁÈñÍÇ∂ü˚dK·-TŸYãt-=jkyY©µ’ﬁ≠YâÌkµóïZ‘∆èy^fkŸ∑Èe∂E€3^f-∑ΩÏeˆ-ÿ”f^éY%€/¢I¸≤˜q‹fÜÌ@C~˛h2Sã◊Î}v›™“Êòﬁ~ï∏û±µ∏å÷q∑…À¨Æ¥û˘Ë_ïπZ)_≥≠óŸÛbÏr≤R´¨˙…—˜}éÒ2˚Fˇ∫÷•]hÿÂd÷˙\Vuﬁ˙*≥µŒ8e|Uf[‹≤±À…,∆m7v9ô≈hk5Ÿ±Q‹˚8≠64âÎm[´⁄ Àæ°]Mfu≠cìπZá]åµäÃ∂x¸»ªúÃºâs ¿~l2Û&˛¶÷•˝qå-ôµ˛¯á]NÊj•0ÓõÃ∂»ì∑ „≠6Kè—∞À…,∆QÎ…˙Òÿd¶MœÕQ⁄Â<DH*ÁÊËhh?6òΩ¸¥ôÆ˝XmV{-?÷^RXÜÂgÈˇoö€€ñ}KÌg‰MÌÁa¬˙≤ˆ—óU˚…∏¬ø@{)Ôhˇ6≤q˘o‚fìè,øÊÎvûÌùÂ¶,ª›«ﬁjM=Êì˝€≠ΩµèÂ-Òπ]∑Û~∆sMQ˝ößEªÙ’ J≠¨Â-Ì)µı J-=˜rÎæ,}É2Wãh¥Ëd¶≈}—æ@ô±~?∂9e_ıæÏ£óùµÚíB-/+µ$∂Ëe•V:œ+ºı^Vjmkx^Êjô∑Íe¶E◊C^f¨wΩÌeÊM¥Q‚ﬁÑ9~,π∑:_ãÈG'≥„k€◊0æ™Ãåúm”0æöÃ÷ yµ™Ã∂ò%∂Xe÷˙l«™ìŸ7ëMyô}´∂ñóŸ≤-zôÌmkΩóôë„ﬁÑóŸZˆ≠zôm—ˆêóπÒez€À˛d|Ì+ü{>˚•Ì%g…è^VjıgZÙ2£ÀçU/+µ∂bÉ˚:ºÏ®µ/Ì›òZ ;k≠ÎVQ[åNˆ5P[ÎAVjı1ûØ12[ÀÙ6»lãf‰ÄÃZoF!»Ïõ0#dˆ≠⁄qÔe∂áÏ∏˜2€€÷z&≠µ.ÎYŒΩÅ∑ﬁÀæÏs∆z/+µñs' ∫úÏ+ÿßvMZ‘∆˝ûH˝®wíR£∞Ôπﬂ êïZ€πÔtøA ;kÂsÅbÅú§‘X∑ÚÊÏx˜2[ÀÃ" ªZs#‘Jå’ÓMzôyÆWºÏzìÓm[…◊x˚≥±µ‚ÿY©≈—r/+µV™⁄Õ;≤≥ñÏﬁ¶óŸZ∂gºÃ¥Ë˙ÿÀåın¥xôyn‰yŸW”µ÷ﬁøôÎ≠ÓΩWÕª˜≤ØëÂÿ°‘_µÀzîïZ≈ßoﬂ= J≠\ óU^RjÏ\—≤iÕ…L-ÛFQvµfﬁßóîöÍzˆzõ(3o¿ºMîï∑YÁ7ˇŒùÏkÙÇÎ?/;kmÂ¶t?º¨‘J[’n∆ïóôZÓw–ÀLãvu2cΩ˚Ù2Û&‹∑„ev\çZ(3=‰«Éìçq5l˜;Æ∆[8ˆÇâ‹/Âêå5ºëµwuH∂µÓªdå/;k•Ü≈ÍÚ≤R+K]ëÿZNv÷ +¡äe•7ñ1‚ΩÃ÷_˝¥ñÏ∞OAY©µÂæºÏ¨ulÒÎz ‘Ú≤Rk[Îj–¥Ëe•÷æ√˙e∂ñ¡∏.ÕÆ´∑/â±k»zoØÎí–.êïZ#»J≠}Øﬂù≠Âdg-‚\æ(€¢óïZ⁄lod∂ñ}ìZY‡weg-^©⁄`¨˜≤R+m·MxŸYK&oU¬[j6å^fkåØúS\…ÃÂÄªñ◊ÌÏ∞ıÖ≥‚Ï¥◊Ú[⁄ª≠Ìd¥È~„å˚ü•˘åk‰ÚÛì““:ˇWh≥7«[97(ø^˚;oFi£t|@«≤±}Ród£≤¥¸-§c‡SAó<CM_≥¯`à-ºåÅÚ˘≥ï~®ÚÒC{∫¡ËË‡3‹™K∑ ˙F≤ÔªæÜ†j˚
-àﬁ≤ıøc}1zÊ£∏Ô@ô_˝Lmu…[£¥[¸0ƒ^∆¿$˘®›t≠õìZﬁyŸ^CÃDµ∑ÚK∂7[øzkÔ⁄é⁄ﬂ≤˝¯D[®ˇ %–CÛπ≠)n˚Â\ÃÊKÚ¥≠´ YJ∂˘xúÇ≈CkÛµ"ÜóZK—>Ò…õÌ‘◊$ØM›±Ö}K˙‚‘}j˚
-àﬁ˚È˝ØXÏLË¸‰àè•W=üœÁ'WÀØióE€ŸÅiÌ˘gmm5∂ó÷^”é∂ø¢ùv—s~ÏEsçjÏ^∑miKo¥–ıù[É∆E˝VM_ƒ–%oµ1º’/T{9ÛRŒ¯÷\{πî_”ûTÀu≠=÷Ól5∂ó÷^”é∂ø¢˝Zº•ó§™Ô.IG}9◊$Ø-õ≈ø Cl·e}VcòC˘’˘üaÂWÁˇ`˚´Û∞˝ù˘_⁄HŸ∫◊„í=˚∆ÿô¥∞µ±≥ÔÀ£∂1ÎË|Cl·e∫‰°{¸¨Ïı^Jvc-øÆΩóœ,Óf∏fk—ˆ∫Ì®˝U€˚◊tfdÿo∑ñ_”æ˚o˜ÌﬁVc˚˛ÊºlE˚©≠qtÀÎ]∆ØÕˆÁa…∞õ^“ÏÌ4vø5”m_«˚G∂ÌÚÚ—ÉÑmªº|Ù0¡Ú—√√ÎGY•&KÒ∂µÉÅ&Y˜w∂/†Ô¸˘⁄ÀÈµ∫æà°I^k!bx©>Ô|(È¯y_j8FìàhŒ/[‘w¥êÑŒÄ‹◊Zh˙"Ü.y´Öà·≠˙ÊÖ¬ñå^ﬁíQÿí—À[2
-[2zyKFaKˆÜÓﬂUZ2/Øz-G›„◊$Ø˘õ≈ø Cl·mm¡+∞5êW∑[yuk ∞5êW∑[Éólo˝ò¸¬Œ´«ﬂù¶Ö6:ª‰≠/¨[¸0ƒ^∆¿˚ñOzü•%À∂≤úôdoh_)EÌ≠¸íÌÕ÷Øﬁ⁄ª∂£ˆól?ÙJö3£û⁄±Jìh⁄Ú7±Öƒ%å¥Kû;≈öæfÒ/¿[x√uòæ0}yñ–0KËÀ3ùÜôÓ5±Ö∑14ã%¨KÂÂu©Ñu©ºº.ï∞.ïó◊•÷•ØahøÚö˝z®ñ_◊ﬁÀ˚õÎ°™Ìu€Q˚´∂«#§co	«/]Ú÷e<~y´¥x`Ëmæ’BƒV◊R=)îÕüJ ˆﬁi™ÏˆLR∂7OSÉ›˚õß©`˘+∫Øç∆[≤Â’-Ÿ[2zuKF∞%[^›íl…Ëù)Ë\NÀÍÎºøπúFÌΩ¸éÌ›÷æX◊v‘˛ÆÌÈ–÷¬"KYw}),Ú¥µ˜Ú;∂w[˚õy◊v‘˛ñÌ◊°aò¶ó¶)L”À”¶ÈÂÄi
-”Øa∏f1òÔÈ’˘û`æóWÁ{Å˘û^ùÔÊ˚óloõì∞ıïó∑æ∂æÚÚ÷W¬÷W^ﬁ˙Jÿ˙ €[ﬂ‡
-êó]\Ú≤+@Ç+@^vHpºÖÅˆTòΩèΩ5-e”rIéF˜?‰Ωöæ”Å»Öm¸≠.}Cìº÷BƒRó)ÃK¸Úºƒa^‚óÁ%Ûø</qòóﬁ¬p≈BBøΩ≈≈ØFo€_çﬁ
-∂ø∫ˇ%pI“´.Ió$ΩÍí$pI“´.Ió‰;∂Oé‡Bø≈≈!ä_é‚ö`x9äkÇ·Ì(Æñ
-ºØûJ3úJÛ´ß“ß“¸Í©4√©ÙK∂7mi%±ÔΩñ_◊ﬁÀî÷˜ﬁ{’ˆ∫Ì®˝]€ªoé@ı’#PÖ#P}ıT·T_=U8}«ˆ+˝ñÙÍíá`Ÿ@Ø.yÇÌØ.yÇÌ˚Ø	†Väyœ/PÁò˜¸rÓ6≈ ó®s˘ß∑ù”'~|Óπﬂ;·⁄”õß”›÷Î‹˛]€Q{z˜t˙<˝Ü¿îÌ›S!”BÍÿﬂ=Íˇ±Öó1ÿ©Iéû’„'^À≠}Â≥Œ'˚{ó<üöjz|ƒ©}÷æÕ&gÒ¿–€|´Öà·≠`jbà.‰W„ˇÇˆWc¢_∂µød˚ÿv√≈´ª1Ç›Ω∫#ÿç—´ª1Ç›ÿ;∂ì∂ËJŸ©Etv…y}Êø§Ö‹‚-õ‰y∂T”◊,˛bocÿ•∞ûÁﬁ%Fï$ﬁÈÖ$Í+î%”Ëµ∫æàÅ˜∑h=ú≈_°Õ∑íﬂ”“Î˜w”ÎM[è9Ω~Èı˚ÀÈı;¶◊øÜAW>I`˘ÿz§JÓÃ|¸Ú»%yŒÊıçdMãæê◊1t}_’[boa–ı$åŒ?“uv+ãPπ¶öt9ØùN∫pI6/ú¢Ωt^ÖºókØØø{ôÛˇØÁ{π_á›À'•[π∆∫=OL%πΩÍo•ü£˝˛˜n_ﬁŸˇÛ«yz⁄¬RÆÍÁ![+ΩpíSuèdr”÷g-⁄˝›…≠ñw‹V©]Iﬁ÷mÎﬁÆgU⁄{˘ùPònk¥y◊v‘˛ÆÌ=–"»À
-‰ÂÉ	ÚÚAÅÑÉyÌ††ÏË ¿ïﬁA≈‡‹WCP	\ﬂµµøe˚X2á¯ÂÃ!ôC¸rÊáÃ!~9sàCÊ–[(i>˘ºmæaìºñZÿx[ç‰˘ZπÈ3˘Ü/cà-ºå°Öd√ë∫æzË¥øz`Øp§˛≤Ì®˝≠˚Óyü-øÍ≥eŸÚ´>[ü-øÍ≥eŸæc˚±ãªÎπ m◊Bö’Ózé/z±ª $v◊sÚQ€]œUnªí´‹v-◊ÛmW”Ù_ªû´˝˛˜n_ﬁŸˇt◊3X ò˛’≥YÅ≥YyılV‡lV^=õ8õïW#eí¯’$Ü$~5âÅ!âÅ_Mb`Hbx«v>>üì•Å/>¸R÷Ì-∆˙$Q{+ød{≥ı´∑ˆÆÌ®˝%€Ø4£∞Î§ówùvùÙÚÆì¬Æì^ﬁuRÿu“/pO˜¸Áòs˝rﬁ8≈úÎw#g&^Zù`x©ÖAeÈ_é—?/G0E¸rSƒ¿˘+ƒ”Î´ÒÙ
-ÒÙ˙j<ΩB<ΩæOØOØ˘Ω|rÖÃcy77≥¶_Õk»<~◊v‘˛öÌïç∆Ò{ﬂnHπdßîÚk⁄◊≠ﬂ`Z{~Åµ’ÿ^Z{M;⁄˛äˆäÛÃ´[ Ö-Äæ∫PÿË´[ Ö-¿;∂˜4≠;€ ¢îÌ¿±ˇﬁ∆@/çÄÎÔmÉ=ﬂÀEˇOS^7{ @ãÊq –K„ ‡˙˚eo{ﬁŸˇ¯ †9Q˚€∏ Mw¬v¥’I;ﬁFw‚^oNﬁÎ˘^n÷érEs=ﬂ–6˝◊€∏⁄ÔøÏmœ;˚À€¯q˛w/ˇ'o‡O^å_"Ssx˜K4´eGª6ˇBkΩ‘≤Îj◊°~®À€e5jWµ$b¸ˇ ÃD–O
+Hê* ’ªHï-ÁŸZè€ÔeY WèÔùßwrÃö%ßﬂÈ;–K?è≤ÓgΩÒ˚ñœˇ_œ˜rè€ø Ã'ﬂÎ˘c]JN¿¬øï~éˆ˚ÔóºÌy'ˇüü.ılÌ P–À˝lo≠gsW>œÓLÜ©g{◊ÔZœ˛ÆÁ{πüˆr?€Îœ˜≥ø úˆˆ˚Ô]æ˛ºïˇV<¯Œ3¯Œ≥ÛùÁ‡;œ‡;œ‡;œ‡;œ‡;œŒwûÉÔ<ÉÔ<ÉÔ¸_g9œÏËΩ mÙQZ’éﬁcXÏË=f±£óÚJvÙ^eÓÁHΩ\Gﬂı|ùçˇ5zØˆ˚ÔóºÌy'ˇ≠¸p≤-p≤-Ód[¬…∂¿…∂¿…∂¿…∂¿…∂∏ìm	'€'€'€r;∆Ö!ìC&vôD8da»$¬êIÑ!ìC&vôD8da»$¬êI‰Fpœ	9r0êÀ¡@!AÇ9r0êÀ¡@!AÇt;AÇ‰r0P»¡@êÉÅ AÇ‰r0P»¡@êÉÅ ›Œ¡@êÉÅ πr0‰` »¡@êÉÅ πr0‰` »¡@∑s0‰` »¡@.Ö9r0‰` »¡@.Ö9r0–Ìx}Ç9»Â`†êÉÅ AÇ9»Â`†êÉÅ A∫ùÉÅ Ar9(‰` »¡@êÉÅ Ar9(‰` »¡@êÉ·:Ö9»Â`†êÉÅ AÇ9»Â`†êÉÅ A∫ùÉÅ Ar9(‰` »¡@êÉÅ Ar9(‰` »¡@êÉÅnÁ` »¡@êÉÅ\
+9r0‰` »¡@êÉÅ\
+9r0‰`†€9r0‰` óÉÅBÇ9r0‰` óÉÅBÇ9ËvÇ9»Â`†êÉÅ AÇ9»Â`†êÉÅ A∫ùÉÅ Ar9(‰` »¡@êÉÅ Ar9(‰` »¡@êÉ·~Ó1Ç9»Â`†êÉÅ AÇ9»Â`†êÉÅ A∫ùÉÅ Ar9(‰` »¡@êÉÅ Ar9(‰` »¡@êÉ·∆ËÌy) äù!äù];á(vÜ(vÜ(vÜ(vÜ(vvQÏ¢ÿ¢ÿ¢ÿ˘v;C;C;ª(vQÏQÏQÏQÏQÏÏ¢ÿ9D±3D±3D±ÛÌ(vÜ(vÜ(vvQÏ¢ÿ¢ÿ¢ÿ¢ÿ¢ÿŸE±sàbgàbgàbÁ€QÏQÏQÏÏ¢ÿ9D±3D±3D±3D±3D±≥ãbÁ≈Œ≈Œ≈Œ˜3ºC;C;ª(vQÏQÏQÏQÏQÏÏ¢ÿ9D±3D±3D±ÛÌ(vÜ(vÜ(vvQÏ¢ÿ¢ÿ¢ÿ¢ÿ¢ÿŸE±sàbgàbgàbøØSÅ(vÅ(vqQÏ¢ÿ¢ÿ¢ÿ¢ÿ¢ÿ≈E±Kàbàbàbó€QÏQÏQÏ‚¢ÿ%D±D±D±D±D±ããbó≈.≈.≈.∑£ÿ¢ÿ¢ÿ≈E±Kàbàbàbàbàb≈.!ä] ä] ä]nG±D±D±ããbó≈.≈.≈.≈.≈..ä]Bª@ª@ª‹ébàbàb≈.!ä] ä] ä] ä] ä]\ªÑ(vÅ(vÅ(vπ≈.≈.≈..ä]Bª@ª@ª@ª@ª∏(v	QÏQÏQÏr?{D±D±ããbó≈.≈.≈.≈.≈..ä]Bª@ª@ª‹ébàbàb≈.!ä] ä] ä] ä] ä]\ªÑ(vÅ(vÅ(vπùµ_!∏BpuY¿5dW»Æê\!∏BpuY¿5dW»Æê\Ôﬂ*∂6[õ:[õ[õÇ≠M¡÷¶`kS∞µ©≥µi∞µ)ÿ⁄lm w-≈‘2Á]e¢l-≈tn}/Kq/KÒı{≥_œ˜rÀl7 ∫YKÒ˘:Kq/KÒı˚%o{ﬁ…«££#Ω M“ÓQ—ëTèãÅ¥{dåﬂ´«∆ı|/˜ÅWπJz=ﬂê4˛“´˝˛˚%o{ﬁ…Húˇ˛ıˇQˇ¯ÁˇaF˘#ß%oÚ#˛qV˚˚ø>|ˆË¨Eu-˙¯úÀˇı£hÛº0sÌ¸õÎØÎ7›ŒŒ ß√èÏl?~~˝¯∑˚Òﬂ¸èˇÈÁø˚ˇ˝˛?ˇÔÛÓÉ?ò¸Ì˚q¸Á_¨«3˚¸WÎ*ÏÚ_ˇ¯€ˇÒ„ø˚€?˝œﬂnéu]Œx¿õÕ}}ç¶ıÌÒÚ§?¯Ùß⁄œx√/CY≥¸¯ó˙_Ö∂t»x÷Y∂ÛûåN©µ<Ì¨µÚvt·Aëìw≠Âi•VÁæÆ/O+µjƒ‚D™ú$W”^ß•¥ÇÏï‚eµ∫úâ8»^iVv5˝‡iVv+◊ÒñûºÄg¸îëæQö\âÀ|Yœ7ˇ¨≈RyÌF.O3µé/˜˘\Îâ*=Ò≈KÙ¸´~ˇ{ãûfÂ™œπ^ù¢˝l≈Û™¥Ø √ﬂïÎOZT‚Œ´SlãéfÂJåi`l2$UêÍ§î≠#ÑRYÎ¥~w¥Rk©ú≥—°ßïÒ†±ñßïZe∂ˆ-zZ©’¢°SÊ´<Õåy◊ûfkiZC≠J≥-VM¯áv∫§∫†Ï'≈ˆÇl)ÙB•ùµH◊¢Q[À”J≠≠jk¥f)V3VjO+µ®ç”ûfkŸﬁÙ4€¢’åßY…≠ñ=ÕˆÇ1m·ÂòU≤}#≈œ {«mfÿ4‰ÁèF3µxΩ˙≥ÛVï6«Ùˆ+≈i∆÷‚2~Xƒ]&O≥º“z∆£{|ïÊj•|Õ∂ûf[ÃãëÀ—J≠≤Í;(áÓ˚„i∂Gˇº÷≈]h»ÂhV˙\Vu^˙J≥µN?eÏâJ≥-nŸ»Âh„∂πÕb¥µÌÿ(Ó}úV≈i€÷™2»≤o(W£Y^kƒÿhÆ÷!c≠B≥-ô!ó£ôû8ß‘c£ôû¯ãZ˜cƒ1∂XhV˙„er9ö´ï¬∏o4€"OzïGØ6Iè—êÀ—,∆QÎ…˙Òÿd¶MœÕQ⁄Â<DH*ÁÊËhh?6òΩ¸¥ôŒ˝Xmñ{-?Ê^BXÜ‰gÈˇoú[oÀæ•ˆyì˚yò∞æÃ}Ë≤r?3Æ/‡ﬁG ;‹áçl‹F˛õ∏Ÿ‰cK«◊|›ŒSæΩ≥‹Ùèe∑˚ÿ[≠…¢«|≤ªµ∑ˆ±º%>W†ÎvﬁœxÆ)™]ÛîhóæZ@Z©ïµÙ“ûR[!≠‘“s/∑ÓÀ“W1HsµàFãéfZ‹ÌÎ §È˜aõÛëˆ5PÔÀ>0z⁄Y+/)‘Ú¥RKbãûVj•Ûº¬KÔi•÷∂Üû4WÀÙ™ßôùÜ<ÕHÔ¥Ìi¶'⁄(q=aFéKÆWg„k1zt4;æ∂}„´“Ã»Ÿ6„´—l≠ú∑P´“lãYbãïf•œv¨:öÌâl4‰i∂Wm-O≥≤-zö’∂ïﬁ”Ã»q=·i∂ñÌUO≥-Zyö_F€ûˆw∆◊æÚπÁ≥o⁄^bñ¸˚Ëi•Vq¶EO3º‹Xı¥Rk+2∏∑√”éZ˚“˙∆‘⁄Yk]∑ä⁄bt¥ØÅ⁄J¥R´èÒ|ç	†ŸZF€@≥-öë4+ΩÖ@≥=aF4–lØ⁄qÔiVCv‹{ö’∂ïûIk≠Kzñso‡•˜¥/˚úëﬁ”J≠Â‹	 /G˚
+2¸]π&-Í„~O§~‘;J©Q≤Ôπo–J≠Ì‹w∫o–ŒZ˘\†ÿ/ê£îÎVzŒéwO≥µÃ,¥´57B-≈HÌz“”L8≠x⁄’ìÆ∑-ÂkÙ˛L#∂Võ@+µ8JÓi•÷JïªÈO;k…Œ°7=Õ÷≤öÒ4”¢”±ßÈ›hÒ4”n‰y⁄W”µ÷ﬁﬂô´W˜ÆU”˜ûˆıO≤;î˙Uª§GZ©Ul˙∂ÔëVjÂRæ§ÚîRcÁ˙EÀ¶5G3µLè"ÌjÕÙßßîöÍzˆÍM§ô0Ωâ¥“õu~Û}Óh_CNûv÷⁄ MÈ~,xZ©ï∂ ›å+O3µ‹w–”Lãvu4#Ω˚zöÈ	˜ÓxöW£“åÜ¸xp¥1ÆÜÏûb«’ËÖc/ò»})e¨·≠ı’AŸ÷∫Ôí1<Ì¨ïÀÀ”J≠,uEbk9⁄Y+Ø+§ïZ‹dX∆à˜4[kºı”Z≤√>i•÷ñCy⁄YÎÿ‚◊ıî©Âi•÷∂÷’†i—”J≠}áı-“l-Éq]ö\ó∂/äëk–∫∂◊uI(–J≠àh•÷æ◊˜Œ÷r¥≥q.oîm—”J-m2åû ö≠e{bR+|«êv÷‚ï™FzO+µ“z¬”ŒZ2ÈU	Ω*‘d0=Õ÷_9+¶Ê∏íôÀw-Ø€©∞ıÖ≥‚Ï∏◊Ú[‹ª¨Ìd¥Ò~„å˚≈˘Ùk‰Ú˘Iii ˇ‹ﬂ‘ÊËïsÉÚÎπø”3J•„:ñçÌï∫(ï•Â/h!ˇò
+:Ây5~M‚_Ä!∂2 Ág+˝PÂ„C{ö¡ËPÈn’)è[ ~£Ÿ˜]_CPπ}Do…è¸ﬂëæè=„Q‹{†ÃØæ¶Ö6Ü:Â≠Q⁄%˛b/c`í|:‘n∫÷ÕI-Ôºl/å!f"â‹[˘%Ÿõ¨_ΩµweGÓo…~º¢Õ’Â‚Ë°˘‹÷≥˝r.fÛEy⁄÷’Â,≈y€|<NAbÉ°µ˘Z√K-å•hü¯‰ÙøÕvÍkî◊¶Óÿ¬æ%}qÍ>π}DÔ}zÄˇ+“;:_9‚cÈUœÁÛ˘ ’Úk‹e—vv`Z{˛Z[YçÏ•µ◊∏£ÏØpß]Ù‹á{—\Ω;Ö◊m[ö«“-t~Á÷†Â¢~´Ö∆/bËî∑ZàﬁjÅ™ZŒºî3æ5W-óÚk‹ìj°Æµ«‹ù¨Fˆ“⁄k‹QˆW∏_ã∑¥·íTı›%Èh°/ÁÂµcì¯`à-ºå°œjs(ø:ˇ3Ã°¸Í¸du˛≤ø3ˇK)[∑z\îC≥oåùI[;€∞æ<jac±éŒ◊1ƒ^∆†K.∫«geØoR¢k˘uÓΩ|Fqø0√5Y∑◊eGÓØ ﬁﬂ¶3"√æªµ¸˜›øªÔp˜≤Ÿ˜7Áù ˚+‹OnÂà£K^Ô2~m∂?KÜ‹Ùg/ßë˚≠ôﬁp˚r8ﬁ?zê∞móóè$l€ÂÂ£á	Üóè&^?z»*5Xä∑≠4 ∫ø≥}~ÁÁk/§◊ZË¸"ÜFy≠Öà·•¯ºÛ°Ñ„Á}©Óç"¢9ø0lëﬂ—B:r_k°Òã:Â≠"Ü∑ZËõ
+[2zyKFaKF/o…(l…ËÂ-Ö-Ÿk∫}OT¡j…ººjµ-tã_£ºfSlˇ±Ö∑1¥Ø¿÷@^›l‰’≠Å¿÷@^›l^íΩÈ1-¯ÜùWèø9:Mmtv [oXó¯`à-ºåÅ˜-üÈ}ñ,€ rFíΩ¡}•π∑ÚK≤7YøzkÔ é‹_í˝‡[R“úı‘éUE”ñﬂ8∏â-$.n§ùÚ‹(÷¯5âÜÿ¬ÀÆ√‹ÜÈÀ≥ÑÜYB_ûÈ4ÃtØaà-ºç°I,a]*/ØK%¨KÂÂu©Ñu©ºº.ï∞.}C˚ kˆÎ°Z~ù{/ÔoÆá*∑◊eGÓØ èêéΩ%øt [GHîÒ¯Â≠P‚Å°∑˘V√[-\GHı§P6*)€{ß©≤€3IŸﬁ<MrÔoû¶Ç‰Øæ6l…ñW∑dl…Ë’-¡ñlyuKF∞%£w¶†s9-´_¨Û˛Êrπ˜Ú;≤wY˚b˝]Ÿë˚ª≤ßÉ[sã,e›ı%∑»SV‰ﬁÀÔ»ﬁeÌ=ÛÆÏ»˝-ŸØC√‡0M/;LSpò¶ó¶)8L”À”¶_√pÕb0ﬂ”´Û=¡|/ØŒ˜Û=Ω:ﬂÃ˜/…ﬁ6'aÎ+/o}%l}ÂÂ≠ØÑ≠Øººıï∞ıï∑∑æ¡ /õ$ò‰eSÄSÄºl
+ê`
+xÌ©dˆ>ˆ÷¥îMÀE9›ˇê˜Zh¸N"ól„oµpÒãÂµ"ÜóZ∏åHa^‚óÁ%Ûø</qòó¯Âyâ√ºÙÜÀ<†¯UÔ-(~’{+»˛™˜Vê˝’˝/ÅIí^5Iò$ÈUì$ÅIí^5Iò$ﬂë}r<†¯e/.P¸≤◊√À^\o{q∑Tp‡}ıTö·Tö_=ïf8ïÊWO•N•_íΩqK+âÌ˜Z~ù{/SZﬂÎ˜ ÌuŸë˚ª≤w€ÅÍ´G†
+G†˙Í®¬®æz™p˙éÏW¯,Ë’%¡≤Å^]ÚŸ_]ÚŸ˜_„@≠„û_v†Œ1Ó˘ÂÿmäN‡/;PÁË˛Úß∑ù”'~|Óπﬂ;·‹”õß”]÷Î‹˛]Ÿë{z˜t˙<˝«îÌ›S!”BwÍÿﬂ=Íˇ±Öó1ÿ©IÕÍÒâ◊rk_y≠Ûô˝ΩSûOMµ=^‚‘^kﬂÊáìx`Ëmæ’BƒV051xÚ´˛Å˚´æãﬁÖ/Àé‹_í}lª·Ä‚’›¡nå^›çÏ∆Ë’›¡nÏŸIõw•Ï‘<:;Âº>Ûè_“Bn˛ñçÚ<Z™Òkˇ±Ö∑1ÏR≤ûÁﬁWJåJIº”+H‰WRbîH£◊ZË¸"ﬁﬂJÎ·$˛
+mæ¸û÷^øø^oZÿ∫áˇÀ·ı{Øﬂ_Øﬂ1º˛5∫Úôñè≠G™…ùôè/è\îÁô√<ø—Ç¨i—‚‚:ÜŒÔ+†zCl·-∫û	£Ûèt]á› "TÆ©&]Œkßì.\ÇÕKN—^:ØBﬁÀµ◊◊Ô«^Ê¸ˇı|/˜Î∞{˘LÈVÆ±nœS	nØ¸[ÈÁhøˇﬁÂÎœ;˘˛¯/OO[X U}„<dk•Nr*ÔLn⁄z„¨eCπ_Kw≤E©Â≥UjWí∑u€∫∑+∆ﬂY˜^~«¶À⁄mﬁïπø+{w¥ÚÚAÅÑÉy˘†@¬AÅº|P ·†@^;((;:pp•w]P—9˜UT◊weGÓo…~9VÑ»!~9ràC‰ø9ƒ!rà_é‚9ÙJöœ|ﬁ6ﬁ∞Q^ã-lº≠ÜÚ|≠‹¯ôx√ó1ƒ^∆–\≤·H]_=Ù‹_=∞W8RYv‰˛÷Å}∑ºÉÕñ_µŸ2ÿl˘Uõ-ÉÕñ_µŸ2ÿlﬂë˝ÿEâ›ı\Â∂k!Õjw=«Ωÿ]eªÎ9ÛQ€]œUnªí´‹v-◊ÛmW”¯_ªû´˝˛{óØ?Ô‰∫ÎY¿ô˛’≥YÅ≥YyılV‡lV^=õ8õïW=eÇ¯’ Ü ~5àÅ!àÅ_b`bxGv>^ü3K_˘KY∑∑2÷'â‹[˘%Ÿõ¨_ΩµweGÓ/…~ÖÖ]'ΩºÎ§∞Î§ówùvùÙÚÆì¬Æì~Åy∫«?«òÎó„∆)∆\øÎ93¡≤”Í√K-åTÜ1}‚ÀŒ√—˚Áe¶àÅ_ˆ`ä8ˇ"Áaz}’ü^¡ü^_ıßWß◊W˝È¸È5øOÆy,Ô∆c‘Ù´qÕë«Ô é‹_ì}°≤—8æ˜Ì∆ÄîKtJ)ø∆}›˙ç¶µÁ˜XYçÏ•µ◊∏£ÏØpÆ»0œº∫PÿË´[ Ö-Äæ∫Pÿº#{ﬂ@”∫≥=  JŸ ˚Ôm Ù“8 ∏~o¸Î˘^.¸öÚ∫Ÿ Z4èÄ^ ◊ÔóºÌy'ˇ„ÄfDÌΩqïönÑÌh´ëvÙF7‚^ø7#Ôı|/7iGπ¢πûohˇ´7Æˆ˚ÔóºÌy'ÈçÁøx˘w`úÙ¿ﬂÈøD¶fÓóhV…évˇﬁ¸ÆıRÀŒ´]á˙!//óÂ¸©\UíàÒˇ OD<
 endstream 
 endobj
 
@@ -3455,7 +3452,7 @@ endobj
 <<
 /S /JavaScript
 /Type /Action
-/JS (var aParams = [ { cName: 'Referenzbezeichner = R8', cReturn: null }, { cName: 'Wert = 1k', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
+/JS (var aParams = [ { cName: 'Referenzbezeichner = R8', cReturn: null }, { cName: 'Wert = 10k', cReturn: null }, { cName: 'Quelle = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
 >>
 /Subtype /Link
 /Type /Annot
@@ -3535,7 +3532,7 @@ endobj
 <<
 /S /JavaScript
 /Type /Action
-/JS (var aParams = [ { cName: 'Referenzbezeichner = R6', cReturn: null }, { cName: 'Wert = 1k', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
+/JS (var aParams = [ { cName: 'Referenzbezeichner = R6', cReturn: null }, { cName: 'Wert = 10k', cReturn: null }, { cName: 'Quelle = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
 >>
 /Subtype /Link
 /Type /Annot
@@ -3583,7 +3580,7 @@ endobj
 <<
 /S /JavaScript
 /Type /Action
-/JS (var aParams = [ { cName: 'Referenzbezeichner = R1', cReturn: null }, { cName: 'Wert = 1k', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
+/JS (var aParams = [ { cName: 'Referenzbezeichner = R1', cReturn: null }, { cName: 'Wert = 10k', cReturn: null }, { cName: 'Quelle = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
 >>
 /Subtype /Link
 /Type /Annot
@@ -3599,7 +3596,7 @@ endobj
 <<
 /S /JavaScript
 /Type /Action
-/JS (var aParams = [ { cName: 'Referenzbezeichner = R2', cReturn: null }, { cName: 'Wert = 1k', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
+/JS (var aParams = [ { cName: 'Referenzbezeichner = R2', cReturn: null }, { cName: 'Wert = 10k', cReturn: null }, { cName: 'Quelle = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
 >>
 /Subtype /Link
 /Type /Annot
@@ -3823,7 +3820,7 @@ endobj
 <<
 /S /JavaScript
 /Type /Action
-/JS (var aParams = [ { cName: 'Referenzbezeichner = R3', cReturn: null }, { cName: 'Wert = 1k', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
+/JS (var aParams = [ { cName: 'Referenzbezeichner = R3', cReturn: null }, { cName: 'Wert = 10k', cReturn: null }, { cName: 'Quelle = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
 >>
 /Subtype /Link
 /Type /Annot
@@ -3983,7 +3980,7 @@ endobj
 <<
 /S /JavaScript
 /Type /Action
-/JS (var aParams = [ { cName: 'Referenzbezeichner = R5', cReturn: null }, { cName: 'Wert = 1k', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
+/JS (var aParams = [ { cName: 'Referenzbezeichner = R5', cReturn: null }, { cName: 'Wert = 10k', cReturn: null }, { cName: 'Quelle = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
 >>
 /Subtype /Link
 /Type /Annot
@@ -4079,7 +4076,7 @@ endobj
 <<
 /S /JavaScript
 /Type /Action
-/JS (var aParams = [ { cName: 'Referenzbezeichner = R7', cReturn: null }, { cName: 'Wert = 1k', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
+/JS (var aParams = [ { cName: 'Referenzbezeichner = R7', cReturn: null }, { cName: 'Wert = 10k', cReturn: null }, { cName: 'Quelle = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
 >>
 /Subtype /Link
 /Type /Annot
@@ -4271,7 +4268,7 @@ endobj
 <<
 /S /JavaScript
 /Type /Action
-/JS (var aParams = [ { cName: 'Referenzbezeichner = R4', cReturn: null }, { cName: 'Wert = 1k', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
+/JS (var aParams = [ { cName: 'Referenzbezeichner = R4', cReturn: null }, { cName: 'Wert = 10k', cReturn: null }, { cName: 'Quelle = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal with elongated pad for handsoldering. \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = resistor handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
 >>
 /Subtype /Link
 /Type /Annot
@@ -4447,12 +4444,12 @@ endobj
 <<
 /S /JavaScript
 /Type /Action
-/JS (var aParams = [ { cName: 'Referenzbezeichner = D10', cReturn: null }, { cName: 'Wert = Relais', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Light emitting diode', cReturn: null }, { cName: 'ki_keywords = LED diode', cReturn: null }, { cName: 'Footprint = LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = LED SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = LED handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
+/JS (var aParams = [ { cName: 'Referenzbezeichner = D10', cReturn: null }, { cName: 'Wert = Power Relais', cReturn: null }, { cName: 'Sheetfile = Relaisplatine_I2C.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Light emitting diode', cReturn: null }, { cName: 'ki_keywords = LED diode', cReturn: null }, { cName: 'Footprint = LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder', cReturn: null }, { cName: 'Beschreibung = LED SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Schl\\u00FCsselw\\u00F6rter = LED handsolder', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)
 >>
 /Subtype /Link
 /Type /Annot
 /Border [16 16 0]
-/Rect [229.726 174.174 244.324 187.842]
+/Rect [229.726 166.818 244.324 195.198]
 >>
 endobj
 
@@ -15029,25 +15026,25 @@ endobj
 1207 0 obj
 
 <<
-/ModDate (D:20231213003750+01'00')
+/ModDate (D:20231215001213+01'00')
 /Creator (pdftk-java 3.3.3)
-/CreationDate (D:20231213003750+01'00')
+/CreationDate (D:20231215001213+01'00')
 /Producer (itext-paulo-155 \(itextpdf.sf.net - lowagie.com\))
 >>
 endobj
 xref
 0 1208
 0000000000 65535 f 
-0000591551 00000 n 
+0000594256 00000 n 
 0000000000 65535 f 
-0000172553 00000 n 
+0000173327 00000 n 
 0000000015 00000 n 
 0000077678 00000 n 
 0000077257 00000 n 
 0000077364 00000 n 
 0000077475 00000 n 
 0000077579 00000 n 
-0000171988 00000 n 
+0000172762 00000 n 
 0000077773 00000 n 
 0000078896 00000 n 
 0000079922 00000 n 
@@ -15055,284 +15052,257 @@ xref
 0000082466 00000 n 
 0000083613 00000 n 
 0000084647 00000 n 
-0000086089 00000 n 
-0000087301 00000 n 
-0000088744 00000 n 
-0000089867 00000 n 
-0000090866 00000 n 
-0000092308 00000 n 
-0000093427 00000 n 
-0000094593 00000 n 
-0000096035 00000 n 
-0000097475 00000 n 
-0000098622 00000 n 
-0000099746 00000 n 
-0000100854 00000 n 
-0000101977 00000 n 
-0000103099 00000 n 
-0000104265 00000 n 
-0000105389 00000 n 
-0000106798 00000 n 
-0000107940 00000 n 
-0000109063 00000 n 
-0000110186 00000 n 
-0000111352 00000 n 
-0000112499 00000 n 
-0000113939 00000 n 
-0000115105 00000 n 
-0000116514 00000 n 
-0000117923 00000 n 
-0000119045 00000 n 
-0000120211 00000 n 
-0000121334 00000 n 
-0000122456 00000 n 
-0000123701 00000 n 
-0000124824 00000 n 
-0000126266 00000 n 
-0000127432 00000 n 
-0000128579 00000 n 
-0000129745 00000 n 
-0000130911 00000 n 
-0000132077 00000 n 
-0000133519 00000 n 
-0000134666 00000 n 
-0000136075 00000 n 
-0000137197 00000 n 
-0000138344 00000 n 
-0000139753 00000 n 
-0000140919 00000 n 
-0000142062 00000 n 
-0000143279 00000 n 
-0000144397 00000 n 
-0000145490 00000 n 
-0000146534 00000 n 
-0000147974 00000 n 
-0000149140 00000 n 
-0000150262 00000 n 
-0000151671 00000 n 
-0000152794 00000 n 
-0000153936 00000 n 
-0000155345 00000 n 
-0000156511 00000 n 
-0000157555 00000 n 
-0000158721 00000 n 
-0000159887 00000 n 
-0000161301 00000 n 
-0000162423 00000 n 
-0000163570 00000 n 
-0000164717 00000 n 
-0000165883 00000 n 
-0000167292 00000 n 
-0000168734 00000 n 
-0000169900 00000 n 
-0000170944 00000 n 
+0000086185 00000 n 
+0000087397 00000 n 
+0000088840 00000 n 
+0000089963 00000 n 
+0000090962 00000 n 
+0000092500 00000 n 
+0000093619 00000 n 
+0000094785 00000 n 
+0000096323 00000 n 
+0000097859 00000 n 
+0000099006 00000 n 
+0000100130 00000 n 
+0000101238 00000 n 
+0000102361 00000 n 
+0000103483 00000 n 
+0000104649 00000 n 
+0000105773 00000 n 
+0000107182 00000 n 
+0000108324 00000 n 
+0000109447 00000 n 
+0000110570 00000 n 
+0000111736 00000 n 
+0000112883 00000 n 
+0000114419 00000 n 
+0000115585 00000 n 
+0000116994 00000 n 
+0000118403 00000 n 
+0000119525 00000 n 
+0000120691 00000 n 
+0000121814 00000 n 
+0000122936 00000 n 
+0000124181 00000 n 
+0000125304 00000 n 
+0000126842 00000 n 
+0000128008 00000 n 
+0000129155 00000 n 
+0000130321 00000 n 
+0000131487 00000 n 
+0000132653 00000 n 
+0000134191 00000 n 
+0000135338 00000 n 
+0000136747 00000 n 
+0000137869 00000 n 
+0000139016 00000 n 
+0000140425 00000 n 
+0000141591 00000 n 
+0000142734 00000 n 
+0000143951 00000 n 
+0000145069 00000 n 
+0000146162 00000 n 
+0000147206 00000 n 
+0000148742 00000 n 
+0000149908 00000 n 
+0000151030 00000 n 
+0000152439 00000 n 
+0000153562 00000 n 
+0000154704 00000 n 
+0000156113 00000 n 
+0000157279 00000 n 
+0000158323 00000 n 
+0000159489 00000 n 
+0000160655 00000 n 
+0000162075 00000 n 
+0000163197 00000 n 
+0000164344 00000 n 
+0000165491 00000 n 
+0000166657 00000 n 
+0000168066 00000 n 
+0000169508 00000 n 
+0000170674 00000 n 
+0000171718 00000 n 
 0000000000 65535 f 
-0000348116 00000 n 
-0000172733 00000 n 
-0000253084 00000 n 
-0000252659 00000 n 
-0000252767 00000 n 
-0000252879 00000 n 
-0000252984 00000 n 
-0000347475 00000 n 
-0000253184 00000 n 
-0000254307 00000 n 
-0000255333 00000 n 
-0000256456 00000 n 
-0000257879 00000 n 
-0000259027 00000 n 
-0000260062 00000 n 
-0000261505 00000 n 
-0000262718 00000 n 
-0000264162 00000 n 
-0000265286 00000 n 
-0000266286 00000 n 
-0000267729 00000 n 
-0000268849 00000 n 
-0000270016 00000 n 
-0000271459 00000 n 
-0000272900 00000 n 
-0000274048 00000 n 
-0000275173 00000 n 
-0000276282 00000 n 
-0000277406 00000 n 
-0000278529 00000 n 
-0000279696 00000 n 
-0000280821 00000 n 
-0000282231 00000 n 
-0000283374 00000 n 
-0000284498 00000 n 
-0000285622 00000 n 
-0000286789 00000 n 
-0000287937 00000 n 
-0000289378 00000 n 
-0000290545 00000 n 
-0000291955 00000 n 
-0000293365 00000 n 
-0000294488 00000 n 
-0000295655 00000 n 
-0000296779 00000 n 
-0000297902 00000 n 
-0000299148 00000 n 
-0000300272 00000 n 
-0000301715 00000 n 
-0000302882 00000 n 
-0000304030 00000 n 
-0000305197 00000 n 
-0000306364 00000 n 
-0000307531 00000 n 
-0000308974 00000 n 
-0000310122 00000 n 
-0000311532 00000 n 
-0000312655 00000 n 
-0000313803 00000 n 
-0000315213 00000 n 
-0000316380 00000 n 
-0000317524 00000 n 
-0000318742 00000 n 
-0000319861 00000 n 
-0000320955 00000 n 
-0000322000 00000 n 
-0000323441 00000 n 
-0000324608 00000 n 
-0000325731 00000 n 
-0000327141 00000 n 
-0000328265 00000 n 
-0000329408 00000 n 
-0000330818 00000 n 
-0000331985 00000 n 
-0000333030 00000 n 
-0000334197 00000 n 
-0000335364 00000 n 
-0000336779 00000 n 
-0000337902 00000 n 
-0000339050 00000 n 
-0000340198 00000 n 
-0000341365 00000 n 
-0000342775 00000 n 
-0000344218 00000 n 
-0000345385 00000 n 
-0000346430 00000 n 
+0000349664 00000 n 
+0000173507 00000 n 
+0000253858 00000 n 
+0000253433 00000 n 
+0000253541 00000 n 
+0000253653 00000 n 
+0000253758 00000 n 
+0000349023 00000 n 
+0000253958 00000 n 
+0000255081 00000 n 
+0000256107 00000 n 
+0000257230 00000 n 
+0000258653 00000 n 
+0000259801 00000 n 
+0000260836 00000 n 
+0000262375 00000 n 
+0000263588 00000 n 
+0000265032 00000 n 
+0000266156 00000 n 
+0000267156 00000 n 
+0000268695 00000 n 
+0000269815 00000 n 
+0000270982 00000 n 
+0000272521 00000 n 
+0000274058 00000 n 
+0000275206 00000 n 
+0000276331 00000 n 
+0000277440 00000 n 
+0000278564 00000 n 
+0000279687 00000 n 
+0000280854 00000 n 
+0000281979 00000 n 
+0000283389 00000 n 
+0000284532 00000 n 
+0000285656 00000 n 
+0000286780 00000 n 
+0000287947 00000 n 
+0000289095 00000 n 
+0000290632 00000 n 
+0000291799 00000 n 
+0000293209 00000 n 
+0000294619 00000 n 
+0000295742 00000 n 
+0000296909 00000 n 
+0000298033 00000 n 
+0000299156 00000 n 
+0000300402 00000 n 
+0000301526 00000 n 
+0000303065 00000 n 
+0000304232 00000 n 
+0000305380 00000 n 
+0000306547 00000 n 
+0000307714 00000 n 
+0000308881 00000 n 
+0000310420 00000 n 
+0000311568 00000 n 
+0000312978 00000 n 
+0000314101 00000 n 
+0000315249 00000 n 
+0000316659 00000 n 
+0000317826 00000 n 
+0000318970 00000 n 
+0000320188 00000 n 
+0000321307 00000 n 
+0000322401 00000 n 
+0000323446 00000 n 
+0000324983 00000 n 
+0000326150 00000 n 
+0000327273 00000 n 
+0000328683 00000 n 
+0000329807 00000 n 
+0000330950 00000 n 
+0000332360 00000 n 
+0000333527 00000 n 
+0000334572 00000 n 
+0000335739 00000 n 
+0000336906 00000 n 
+0000338327 00000 n 
+0000339450 00000 n 
+0000340598 00000 n 
+0000341746 00000 n 
+0000342913 00000 n 
+0000344323 00000 n 
+0000345766 00000 n 
+0000346933 00000 n 
+0000347978 00000 n 
 0000000000 65535 f 
-0000493489 00000 n 
-0000348299 00000 n 
-0000398447 00000 n 
-0000398018 00000 n 
-0000398127 00000 n 
-0000398240 00000 n 
-0000398346 00000 n 
-0000492845 00000 n 
-0000398552 00000 n 
-0000399676 00000 n 
-0000400703 00000 n 
-0000401826 00000 n 
-0000403249 00000 n 
-0000404397 00000 n 
-0000405432 00000 n 
-0000406875 00000 n 
-0000408088 00000 n 
-0000409532 00000 n 
-0000410656 00000 n 
-0000411656 00000 n 
-0000413099 00000 n 
-0000414219 00000 n 
-0000415386 00000 n 
-0000416829 00000 n 
-0000418270 00000 n 
-0000419418 00000 n 
-0000420543 00000 n 
-0000421652 00000 n 
-0000422776 00000 n 
-0000423899 00000 n 
-0000425066 00000 n 
-0000426191 00000 n 
-0000427601 00000 n 
-0000428744 00000 n 
-0000429868 00000 n 
-0000430992 00000 n 
-0000432159 00000 n 
+0000496194 00000 n 
+0000349847 00000 n 
+0000400378 00000 n 
+0000399949 00000 n 
+0000400058 00000 n 
+0000400171 00000 n 
+0000400277 00000 n 
+0000495550 00000 n 
+0000400483 00000 n 
+0000401607 00000 n 
+0000402634 00000 n 
+0000403757 00000 n 
+0000405180 00000 n 
+0000406328 00000 n 
+0000407363 00000 n 
+0000408902 00000 n 
+0000410115 00000 n 
+0000411559 00000 n 
+0000412683 00000 n 
+0000413683 00000 n 
+0000415222 00000 n 
+0000416342 00000 n 
+0000417509 00000 n 
+0000419048 00000 n 
+0000420585 00000 n 
+0000421733 00000 n 
+0000422858 00000 n 
+0000423967 00000 n 
+0000425091 00000 n 
+0000426214 00000 n 
+0000427381 00000 n 
+0000428506 00000 n 
+0000429916 00000 n 
+0000431059 00000 n 
+0000432183 00000 n 
 0000433307 00000 n 
-0000434748 00000 n 
-0000435915 00000 n 
-0000437325 00000 n 
-0000438735 00000 n 
-0000439858 00000 n 
-0000441025 00000 n 
-0000442149 00000 n 
-0000443272 00000 n 
-0000444518 00000 n 
-0000445642 00000 n 
-0000447085 00000 n 
-0000448252 00000 n 
-0000449400 00000 n 
-0000450567 00000 n 
-0000451734 00000 n 
-0000452901 00000 n 
-0000454344 00000 n 
-0000455492 00000 n 
-0000456902 00000 n 
-0000458025 00000 n 
-0000459173 00000 n 
-0000460583 00000 n 
-0000461750 00000 n 
-0000462894 00000 n 
-0000464112 00000 n 
-0000465231 00000 n 
-0000466325 00000 n 
-0000467370 00000 n 
-0000468811 00000 n 
-0000469978 00000 n 
-0000471101 00000 n 
-0000472511 00000 n 
-0000473635 00000 n 
-0000474778 00000 n 
-0000476188 00000 n 
-0000477355 00000 n 
-0000478400 00000 n 
-0000479567 00000 n 
-0000480734 00000 n 
-0000482149 00000 n 
-0000483272 00000 n 
-0000484420 00000 n 
-0000485568 00000 n 
-0000486735 00000 n 
-0000488145 00000 n 
-0000489588 00000 n 
-0000490755 00000 n 
-0000491800 00000 n 
-0000591470 00000 n 
-0000533683 00000 n 
-0000533448 00000 n 
-0000493676 00000 n 
-0000493762 00000 n 
-0000493862 00000 n 
-0000493962 00000 n 
-0000494062 00000 n 
-0000494162 00000 n 
-0000494262 00000 n 
-0000494362 00000 n 
-0000494462 00000 n 
-0000494562 00000 n 
-0000494662 00000 n 
-0000494762 00000 n 
-0000494862 00000 n 
-0000494962 00000 n 
-0000495062 00000 n 
-0000495162 00000 n 
-0000495262 00000 n 
-0000495362 00000 n 
-0000495462 00000 n 
-0000495562 00000 n 
-0000495662 00000 n 
-0000495762 00000 n 
-0000495862 00000 n 
-0000495962 00000 n 
-0000496062 00000 n 
-0000496162 00000 n 
-0000496263 00000 n 
-0000496364 00000 n 
-0000496465 00000 n 
-0000496566 00000 n 
+0000434474 00000 n 
+0000435622 00000 n 
+0000437159 00000 n 
+0000438326 00000 n 
+0000439736 00000 n 
+0000441146 00000 n 
+0000442269 00000 n 
+0000443436 00000 n 
+0000444560 00000 n 
+0000445683 00000 n 
+0000446929 00000 n 
+0000448053 00000 n 
+0000449592 00000 n 
+0000450759 00000 n 
+0000451907 00000 n 
+0000453074 00000 n 
+0000454241 00000 n 
+0000455408 00000 n 
+0000456947 00000 n 
+0000458095 00000 n 
+0000459505 00000 n 
+0000460628 00000 n 
+0000461776 00000 n 
+0000463186 00000 n 
+0000464353 00000 n 
+0000465497 00000 n 
+0000466715 00000 n 
+0000467834 00000 n 
+0000468928 00000 n 
+0000469973 00000 n 
+0000471510 00000 n 
+0000472677 00000 n 
+0000473800 00000 n 
+0000475210 00000 n 
+0000476334 00000 n 
+0000477477 00000 n 
+0000478887 00000 n 
+0000480054 00000 n 
+0000481099 00000 n 
+0000482266 00000 n 
+0000483433 00000 n 
+0000484854 00000 n 
+0000485977 00000 n 
+0000487125 00000 n 
+0000488273 00000 n 
+0000489440 00000 n 
+0000490850 00000 n 
+0000492293 00000 n 
+0000493460 00000 n 
+0000494505 00000 n 
+0000594175 00000 n 
+0000536388 00000 n 
+0000536153 00000 n 
+0000496381 00000 n 
+0000496467 00000 n 
+0000496567 00000 n 
 0000496667 00000 n 
 0000496767 00000 n 
 0000496867 00000 n 
@@ -15356,903 +15326,930 @@ xref
 0000498667 00000 n 
 0000498767 00000 n 
 0000498867 00000 n 
-0000498967 00000 n 
-0000499067 00000 n 
-0000499167 00000 n 
-0000499267 00000 n 
-0000499367 00000 n 
-0000499467 00000 n 
-0000499567 00000 n 
-0000499667 00000 n 
-0000499767 00000 n 
-0000499867 00000 n 
-0000499967 00000 n 
-0000500067 00000 n 
-0000500167 00000 n 
-0000500267 00000 n 
-0000500367 00000 n 
-0000500467 00000 n 
-0000500567 00000 n 
-0000500667 00000 n 
-0000500767 00000 n 
-0000500867 00000 n 
-0000500967 00000 n 
-0000501067 00000 n 
-0000501167 00000 n 
-0000501267 00000 n 
-0000501367 00000 n 
-0000501467 00000 n 
-0000501567 00000 n 
-0000501667 00000 n 
-0000501767 00000 n 
-0000501867 00000 n 
-0000501967 00000 n 
-0000502067 00000 n 
-0000502167 00000 n 
-0000502267 00000 n 
-0000502367 00000 n 
-0000502467 00000 n 
-0000502567 00000 n 
-0000502667 00000 n 
-0000502767 00000 n 
-0000502867 00000 n 
-0000502967 00000 n 
-0000503067 00000 n 
-0000503167 00000 n 
-0000503269 00000 n 
-0000503371 00000 n 
-0000503473 00000 n 
-0000503575 00000 n 
-0000503677 00000 n 
-0000503784 00000 n 
-0000503891 00000 n 
-0000503998 00000 n 
-0000504105 00000 n 
-0000504212 00000 n 
-0000504319 00000 n 
-0000504426 00000 n 
-0000504533 00000 n 
-0000504640 00000 n 
-0000504747 00000 n 
-0000504854 00000 n 
-0000504961 00000 n 
-0000505068 00000 n 
-0000505175 00000 n 
-0000505282 00000 n 
-0000505389 00000 n 
-0000505496 00000 n 
-0000505603 00000 n 
-0000505710 00000 n 
-0000505817 00000 n 
-0000505924 00000 n 
-0000506031 00000 n 
-0000506138 00000 n 
-0000506245 00000 n 
-0000506352 00000 n 
-0000506459 00000 n 
-0000506566 00000 n 
-0000506673 00000 n 
-0000506780 00000 n 
-0000506887 00000 n 
-0000506994 00000 n 
-0000507101 00000 n 
-0000507208 00000 n 
-0000507315 00000 n 
-0000507422 00000 n 
-0000507524 00000 n 
-0000507626 00000 n 
-0000507728 00000 n 
-0000507830 00000 n 
-0000507932 00000 n 
-0000508039 00000 n 
-0000508146 00000 n 
-0000508253 00000 n 
-0000508360 00000 n 
-0000508467 00000 n 
-0000508574 00000 n 
-0000508681 00000 n 
-0000508788 00000 n 
-0000508895 00000 n 
-0000509002 00000 n 
-0000509109 00000 n 
-0000509216 00000 n 
-0000509323 00000 n 
-0000509430 00000 n 
-0000509537 00000 n 
-0000509644 00000 n 
-0000509751 00000 n 
-0000509858 00000 n 
-0000509965 00000 n 
-0000510072 00000 n 
-0000510179 00000 n 
-0000510286 00000 n 
-0000510393 00000 n 
-0000510500 00000 n 
-0000510607 00000 n 
-0000510714 00000 n 
-0000510821 00000 n 
-0000510928 00000 n 
-0000511035 00000 n 
-0000511142 00000 n 
-0000511249 00000 n 
-0000511356 00000 n 
-0000511463 00000 n 
-0000511570 00000 n 
-0000511677 00000 n 
-0000511778 00000 n 
-0000511879 00000 n 
-0000511980 00000 n 
-0000512081 00000 n 
-0000512182 00000 n 
-0000512283 00000 n 
-0000512384 00000 n 
-0000512485 00000 n 
-0000512586 00000 n 
-0000512687 00000 n 
-0000512788 00000 n 
-0000512889 00000 n 
-0000512990 00000 n 
-0000513091 00000 n 
-0000513192 00000 n 
-0000513292 00000 n 
-0000513392 00000 n 
-0000513492 00000 n 
-0000513592 00000 n 
-0000513692 00000 n 
-0000513794 00000 n 
-0000513896 00000 n 
-0000513998 00000 n 
-0000514100 00000 n 
-0000514202 00000 n 
-0000514309 00000 n 
-0000514416 00000 n 
-0000514523 00000 n 
-0000514630 00000 n 
-0000514737 00000 n 
-0000514839 00000 n 
-0000514941 00000 n 
-0000515043 00000 n 
-0000515145 00000 n 
-0000515247 00000 n 
-0000515354 00000 n 
-0000515461 00000 n 
-0000515568 00000 n 
-0000515675 00000 n 
-0000515782 00000 n 
-0000515884 00000 n 
-0000515986 00000 n 
-0000516088 00000 n 
-0000516190 00000 n 
-0000516292 00000 n 
-0000516394 00000 n 
-0000516496 00000 n 
-0000516598 00000 n 
-0000516700 00000 n 
-0000516802 00000 n 
-0000516904 00000 n 
-0000517006 00000 n 
-0000517108 00000 n 
-0000517210 00000 n 
-0000517312 00000 n 
-0000517414 00000 n 
-0000517516 00000 n 
-0000517618 00000 n 
-0000517720 00000 n 
-0000517822 00000 n 
-0000517924 00000 n 
-0000518026 00000 n 
-0000518128 00000 n 
-0000518230 00000 n 
-0000518332 00000 n 
-0000518434 00000 n 
-0000518536 00000 n 
-0000518638 00000 n 
-0000518740 00000 n 
-0000518842 00000 n 
-0000518944 00000 n 
-0000519046 00000 n 
-0000519148 00000 n 
-0000519250 00000 n 
-0000519352 00000 n 
-0000519454 00000 n 
-0000519556 00000 n 
-0000519658 00000 n 
-0000519760 00000 n 
-0000519862 00000 n 
-0000519964 00000 n 
-0000520066 00000 n 
-0000520168 00000 n 
-0000520270 00000 n 
-0000520372 00000 n 
-0000520474 00000 n 
-0000520576 00000 n 
-0000520678 00000 n 
-0000520780 00000 n 
-0000520882 00000 n 
-0000520984 00000 n 
-0000521086 00000 n 
-0000521188 00000 n 
-0000521290 00000 n 
-0000521392 00000 n 
-0000521494 00000 n 
-0000521596 00000 n 
-0000521698 00000 n 
-0000521800 00000 n 
-0000521902 00000 n 
-0000522002 00000 n 
-0000522102 00000 n 
-0000522202 00000 n 
-0000522302 00000 n 
-0000522402 00000 n 
-0000522503 00000 n 
-0000522604 00000 n 
-0000522705 00000 n 
-0000522806 00000 n 
-0000522907 00000 n 
-0000523007 00000 n 
-0000523107 00000 n 
-0000523207 00000 n 
-0000523307 00000 n 
-0000523407 00000 n 
-0000523507 00000 n 
-0000523607 00000 n 
-0000523707 00000 n 
-0000523807 00000 n 
-0000523907 00000 n 
-0000524007 00000 n 
-0000524107 00000 n 
-0000524207 00000 n 
-0000524307 00000 n 
-0000524407 00000 n 
-0000524507 00000 n 
+0000498968 00000 n 
+0000499069 00000 n 
+0000499170 00000 n 
+0000499271 00000 n 
+0000499372 00000 n 
+0000499472 00000 n 
+0000499572 00000 n 
+0000499672 00000 n 
+0000499772 00000 n 
+0000499872 00000 n 
+0000499972 00000 n 
+0000500072 00000 n 
+0000500172 00000 n 
+0000500272 00000 n 
+0000500372 00000 n 
+0000500472 00000 n 
+0000500572 00000 n 
+0000500672 00000 n 
+0000500772 00000 n 
+0000500872 00000 n 
+0000500972 00000 n 
+0000501072 00000 n 
+0000501172 00000 n 
+0000501272 00000 n 
+0000501372 00000 n 
+0000501472 00000 n 
+0000501572 00000 n 
+0000501672 00000 n 
+0000501772 00000 n 
+0000501872 00000 n 
+0000501972 00000 n 
+0000502072 00000 n 
+0000502172 00000 n 
+0000502272 00000 n 
+0000502372 00000 n 
+0000502472 00000 n 
+0000502572 00000 n 
+0000502672 00000 n 
+0000502772 00000 n 
+0000502872 00000 n 
+0000502972 00000 n 
+0000503072 00000 n 
+0000503172 00000 n 
+0000503272 00000 n 
+0000503372 00000 n 
+0000503472 00000 n 
+0000503572 00000 n 
+0000503672 00000 n 
+0000503772 00000 n 
+0000503872 00000 n 
+0000503972 00000 n 
+0000504072 00000 n 
+0000504172 00000 n 
+0000504272 00000 n 
+0000504372 00000 n 
+0000504472 00000 n 
+0000504572 00000 n 
+0000504672 00000 n 
+0000504772 00000 n 
+0000504872 00000 n 
+0000504972 00000 n 
+0000505072 00000 n 
+0000505172 00000 n 
+0000505272 00000 n 
+0000505372 00000 n 
+0000505472 00000 n 
+0000505572 00000 n 
+0000505672 00000 n 
+0000505772 00000 n 
+0000505872 00000 n 
+0000505974 00000 n 
+0000506076 00000 n 
+0000506178 00000 n 
+0000506280 00000 n 
+0000506382 00000 n 
+0000506489 00000 n 
+0000506596 00000 n 
+0000506703 00000 n 
+0000506810 00000 n 
+0000506917 00000 n 
+0000507024 00000 n 
+0000507131 00000 n 
+0000507238 00000 n 
+0000507345 00000 n 
+0000507452 00000 n 
+0000507559 00000 n 
+0000507666 00000 n 
+0000507773 00000 n 
+0000507880 00000 n 
+0000507987 00000 n 
+0000508094 00000 n 
+0000508201 00000 n 
+0000508308 00000 n 
+0000508415 00000 n 
+0000508522 00000 n 
+0000508629 00000 n 
+0000508736 00000 n 
+0000508843 00000 n 
+0000508950 00000 n 
+0000509057 00000 n 
+0000509164 00000 n 
+0000509271 00000 n 
+0000509378 00000 n 
+0000509485 00000 n 
+0000509592 00000 n 
+0000509699 00000 n 
+0000509806 00000 n 
+0000509913 00000 n 
+0000510020 00000 n 
+0000510127 00000 n 
+0000510229 00000 n 
+0000510331 00000 n 
+0000510433 00000 n 
+0000510535 00000 n 
+0000510637 00000 n 
+0000510744 00000 n 
+0000510851 00000 n 
+0000510958 00000 n 
+0000511065 00000 n 
+0000511172 00000 n 
+0000511279 00000 n 
+0000511386 00000 n 
+0000511493 00000 n 
+0000511600 00000 n 
+0000511707 00000 n 
+0000511814 00000 n 
+0000511921 00000 n 
+0000512028 00000 n 
+0000512135 00000 n 
+0000512242 00000 n 
+0000512349 00000 n 
+0000512456 00000 n 
+0000512563 00000 n 
+0000512670 00000 n 
+0000512777 00000 n 
+0000512884 00000 n 
+0000512991 00000 n 
+0000513098 00000 n 
+0000513205 00000 n 
+0000513312 00000 n 
+0000513419 00000 n 
+0000513526 00000 n 
+0000513633 00000 n 
+0000513740 00000 n 
+0000513847 00000 n 
+0000513954 00000 n 
+0000514061 00000 n 
+0000514168 00000 n 
+0000514275 00000 n 
+0000514382 00000 n 
+0000514483 00000 n 
+0000514584 00000 n 
+0000514685 00000 n 
+0000514786 00000 n 
+0000514887 00000 n 
+0000514988 00000 n 
+0000515089 00000 n 
+0000515190 00000 n 
+0000515291 00000 n 
+0000515392 00000 n 
+0000515493 00000 n 
+0000515594 00000 n 
+0000515695 00000 n 
+0000515796 00000 n 
+0000515897 00000 n 
+0000515997 00000 n 
+0000516097 00000 n 
+0000516197 00000 n 
+0000516297 00000 n 
+0000516397 00000 n 
+0000516499 00000 n 
+0000516601 00000 n 
+0000516703 00000 n 
+0000516805 00000 n 
+0000516907 00000 n 
+0000517014 00000 n 
+0000517121 00000 n 
+0000517228 00000 n 
+0000517335 00000 n 
+0000517442 00000 n 
+0000517544 00000 n 
+0000517646 00000 n 
+0000517748 00000 n 
+0000517850 00000 n 
+0000517952 00000 n 
+0000518059 00000 n 
+0000518166 00000 n 
+0000518273 00000 n 
+0000518380 00000 n 
+0000518487 00000 n 
+0000518589 00000 n 
+0000518691 00000 n 
+0000518793 00000 n 
+0000518895 00000 n 
+0000518997 00000 n 
+0000519099 00000 n 
+0000519201 00000 n 
+0000519303 00000 n 
+0000519405 00000 n 
+0000519507 00000 n 
+0000519609 00000 n 
+0000519711 00000 n 
+0000519813 00000 n 
+0000519915 00000 n 
+0000520017 00000 n 
+0000520119 00000 n 
+0000520221 00000 n 
+0000520323 00000 n 
+0000520425 00000 n 
+0000520527 00000 n 
+0000520629 00000 n 
+0000520731 00000 n 
+0000520833 00000 n 
+0000520935 00000 n 
+0000521037 00000 n 
+0000521139 00000 n 
+0000521241 00000 n 
+0000521343 00000 n 
+0000521445 00000 n 
+0000521547 00000 n 
+0000521649 00000 n 
+0000521751 00000 n 
+0000521853 00000 n 
+0000521955 00000 n 
+0000522057 00000 n 
+0000522159 00000 n 
+0000522261 00000 n 
+0000522363 00000 n 
+0000522465 00000 n 
+0000522567 00000 n 
+0000522669 00000 n 
+0000522771 00000 n 
+0000522873 00000 n 
+0000522975 00000 n 
+0000523077 00000 n 
+0000523179 00000 n 
+0000523281 00000 n 
+0000523383 00000 n 
+0000523485 00000 n 
+0000523587 00000 n 
+0000523689 00000 n 
+0000523791 00000 n 
+0000523893 00000 n 
+0000523995 00000 n 
+0000524097 00000 n 
+0000524199 00000 n 
+0000524301 00000 n 
+0000524403 00000 n 
+0000524505 00000 n 
 0000524607 00000 n 
 0000524707 00000 n 
 0000524807 00000 n 
 0000524907 00000 n 
 0000525007 00000 n 
 0000525107 00000 n 
-0000525207 00000 n 
-0000525307 00000 n 
-0000525407 00000 n 
-0000525507 00000 n 
-0000525607 00000 n 
-0000525707 00000 n 
-0000525807 00000 n 
-0000525907 00000 n 
-0000526007 00000 n 
-0000526107 00000 n 
-0000526207 00000 n 
-0000526307 00000 n 
-0000526407 00000 n 
-0000526507 00000 n 
-0000526607 00000 n 
-0000526707 00000 n 
-0000526807 00000 n 
-0000526907 00000 n 
-0000527008 00000 n 
-0000527109 00000 n 
-0000527210 00000 n 
-0000527311 00000 n 
+0000525208 00000 n 
+0000525309 00000 n 
+0000525410 00000 n 
+0000525511 00000 n 
+0000525612 00000 n 
+0000525712 00000 n 
+0000525812 00000 n 
+0000525912 00000 n 
+0000526012 00000 n 
+0000526112 00000 n 
+0000526212 00000 n 
+0000526312 00000 n 
+0000526412 00000 n 
+0000526512 00000 n 
+0000526612 00000 n 
+0000526712 00000 n 
+0000526812 00000 n 
+0000526912 00000 n 
+0000527012 00000 n 
+0000527112 00000 n 
+0000527212 00000 n 
+0000527312 00000 n 
 0000527412 00000 n 
-0000527513 00000 n 
-0000527614 00000 n 
-0000527715 00000 n 
-0000527816 00000 n 
-0000527917 00000 n 
-0000528018 00000 n 
-0000528119 00000 n 
-0000528220 00000 n 
-0000528321 00000 n 
-0000528422 00000 n 
-0000528523 00000 n 
-0000528624 00000 n 
-0000528725 00000 n 
-0000528826 00000 n 
-0000528927 00000 n 
-0000529028 00000 n 
-0000529129 00000 n 
-0000529230 00000 n 
-0000529331 00000 n 
-0000529432 00000 n 
-0000529533 00000 n 
-0000529634 00000 n 
-0000529735 00000 n 
-0000529836 00000 n 
-0000529937 00000 n 
-0000530038 00000 n 
-0000530139 00000 n 
-0000530240 00000 n 
-0000530341 00000 n 
-0000530442 00000 n 
-0000530543 00000 n 
-0000530644 00000 n 
-0000530745 00000 n 
-0000530846 00000 n 
-0000530947 00000 n 
-0000531048 00000 n 
-0000531149 00000 n 
-0000531250 00000 n 
-0000531351 00000 n 
-0000531452 00000 n 
-0000531553 00000 n 
-0000531654 00000 n 
-0000531755 00000 n 
-0000531856 00000 n 
-0000531957 00000 n 
-0000532058 00000 n 
-0000532159 00000 n 
-0000532260 00000 n 
-0000532361 00000 n 
-0000532462 00000 n 
-0000532562 00000 n 
-0000532662 00000 n 
-0000532762 00000 n 
-0000532862 00000 n 
-0000532962 00000 n 
-0000533062 00000 n 
-0000533162 00000 n 
-0000533262 00000 n 
-0000533362 00000 n 
-0000558019 00000 n 
-0000557898 00000 n 
-0000533812 00000 n 
-0000533899 00000 n 
-0000534000 00000 n 
-0000534101 00000 n 
-0000534202 00000 n 
-0000534303 00000 n 
-0000534404 00000 n 
-0000534505 00000 n 
-0000534606 00000 n 
-0000534707 00000 n 
-0000534808 00000 n 
-0000534909 00000 n 
-0000535010 00000 n 
-0000535111 00000 n 
-0000535212 00000 n 
-0000535313 00000 n 
-0000535415 00000 n 
-0000535517 00000 n 
-0000535619 00000 n 
-0000535720 00000 n 
-0000535821 00000 n 
-0000535922 00000 n 
-0000536023 00000 n 
-0000536124 00000 n 
-0000536225 00000 n 
-0000536326 00000 n 
-0000536427 00000 n 
-0000536528 00000 n 
-0000536629 00000 n 
-0000536730 00000 n 
-0000536831 00000 n 
-0000536932 00000 n 
-0000537033 00000 n 
-0000537134 00000 n 
-0000537235 00000 n 
-0000537336 00000 n 
-0000537437 00000 n 
-0000537538 00000 n 
-0000537639 00000 n 
-0000537740 00000 n 
-0000537841 00000 n 
-0000537942 00000 n 
-0000538043 00000 n 
-0000538144 00000 n 
-0000538245 00000 n 
-0000538346 00000 n 
-0000538447 00000 n 
-0000538548 00000 n 
-0000538649 00000 n 
-0000538750 00000 n 
-0000538851 00000 n 
-0000538952 00000 n 
-0000539053 00000 n 
-0000539154 00000 n 
-0000539255 00000 n 
-0000539356 00000 n 
-0000539457 00000 n 
-0000539558 00000 n 
-0000539661 00000 n 
-0000539764 00000 n 
-0000539867 00000 n 
-0000539975 00000 n 
-0000540083 00000 n 
-0000540191 00000 n 
-0000540299 00000 n 
-0000540407 00000 n 
-0000540515 00000 n 
-0000540623 00000 n 
-0000540731 00000 n 
-0000540839 00000 n 
-0000540947 00000 n 
-0000541055 00000 n 
-0000541163 00000 n 
-0000541271 00000 n 
-0000541379 00000 n 
-0000541487 00000 n 
-0000541595 00000 n 
-0000541703 00000 n 
-0000541811 00000 n 
-0000541919 00000 n 
-0000542027 00000 n 
-0000542135 00000 n 
-0000542238 00000 n 
-0000542341 00000 n 
-0000542444 00000 n 
-0000542552 00000 n 
-0000542660 00000 n 
-0000542768 00000 n 
-0000542876 00000 n 
-0000542984 00000 n 
-0000543092 00000 n 
-0000543200 00000 n 
-0000543308 00000 n 
-0000543416 00000 n 
-0000543524 00000 n 
-0000543632 00000 n 
-0000543740 00000 n 
-0000543848 00000 n 
-0000543956 00000 n 
-0000544064 00000 n 
-0000544172 00000 n 
-0000544280 00000 n 
-0000544388 00000 n 
-0000544496 00000 n 
-0000544604 00000 n 
-0000544712 00000 n 
-0000544814 00000 n 
-0000544916 00000 n 
-0000545018 00000 n 
-0000545120 00000 n 
-0000545222 00000 n 
-0000545324 00000 n 
-0000545426 00000 n 
-0000545528 00000 n 
-0000545630 00000 n 
-0000545731 00000 n 
-0000545832 00000 n 
-0000545933 00000 n 
-0000546036 00000 n 
-0000546139 00000 n 
-0000546242 00000 n 
-0000546350 00000 n 
-0000546458 00000 n 
-0000546566 00000 n 
-0000546669 00000 n 
-0000546772 00000 n 
-0000546875 00000 n 
-0000546983 00000 n 
-0000547091 00000 n 
-0000547199 00000 n 
-0000547302 00000 n 
-0000547405 00000 n 
-0000547508 00000 n 
-0000547611 00000 n 
-0000547714 00000 n 
-0000547817 00000 n 
-0000547920 00000 n 
-0000548023 00000 n 
-0000548126 00000 n 
-0000548229 00000 n 
-0000548332 00000 n 
-0000548435 00000 n 
-0000548538 00000 n 
-0000548641 00000 n 
-0000548744 00000 n 
-0000548847 00000 n 
-0000548950 00000 n 
-0000549053 00000 n 
-0000549156 00000 n 
-0000549259 00000 n 
-0000549362 00000 n 
-0000549465 00000 n 
-0000549568 00000 n 
-0000549671 00000 n 
-0000549774 00000 n 
-0000549877 00000 n 
-0000549980 00000 n 
-0000550083 00000 n 
-0000550186 00000 n 
-0000550289 00000 n 
-0000550392 00000 n 
-0000550495 00000 n 
-0000550598 00000 n 
-0000550701 00000 n 
-0000550804 00000 n 
-0000550907 00000 n 
-0000551008 00000 n 
-0000551109 00000 n 
-0000551210 00000 n 
-0000551312 00000 n 
-0000551414 00000 n 
-0000551516 00000 n 
-0000551617 00000 n 
-0000551718 00000 n 
-0000551819 00000 n 
-0000551920 00000 n 
-0000552021 00000 n 
-0000552122 00000 n 
-0000552223 00000 n 
-0000552324 00000 n 
-0000552425 00000 n 
-0000552526 00000 n 
-0000552627 00000 n 
-0000552728 00000 n 
-0000552829 00000 n 
-0000552930 00000 n 
-0000553031 00000 n 
-0000553132 00000 n 
-0000553233 00000 n 
-0000553334 00000 n 
-0000553435 00000 n 
-0000553536 00000 n 
-0000553637 00000 n 
-0000553738 00000 n 
-0000553839 00000 n 
-0000553940 00000 n 
-0000554042 00000 n 
-0000554144 00000 n 
-0000554246 00000 n 
-0000554348 00000 n 
-0000554450 00000 n 
-0000554552 00000 n 
-0000554654 00000 n 
-0000554756 00000 n 
-0000554858 00000 n 
-0000554960 00000 n 
-0000555062 00000 n 
-0000555164 00000 n 
-0000555266 00000 n 
-0000555368 00000 n 
-0000555470 00000 n 
-0000555572 00000 n 
-0000555674 00000 n 
-0000555776 00000 n 
-0000555878 00000 n 
-0000555980 00000 n 
-0000556082 00000 n 
-0000556184 00000 n 
-0000556286 00000 n 
-0000556388 00000 n 
-0000556490 00000 n 
-0000556592 00000 n 
-0000556694 00000 n 
-0000556796 00000 n 
-0000556898 00000 n 
-0000557000 00000 n 
-0000557102 00000 n 
-0000557204 00000 n 
-0000557306 00000 n 
-0000557407 00000 n 
-0000557508 00000 n 
-0000557609 00000 n 
-0000557710 00000 n 
-0000557811 00000 n 
-0000591339 00000 n 
-0000591216 00000 n 
-0000558163 00000 n 
-0000558251 00000 n 
-0000558353 00000 n 
-0000558455 00000 n 
-0000558557 00000 n 
-0000558659 00000 n 
-0000558761 00000 n 
-0000558863 00000 n 
-0000558965 00000 n 
-0000559067 00000 n 
-0000559169 00000 n 
-0000559271 00000 n 
-0000559373 00000 n 
-0000559475 00000 n 
-0000559577 00000 n 
-0000559679 00000 n 
-0000559781 00000 n 
-0000559883 00000 n 
-0000559985 00000 n 
-0000560087 00000 n 
-0000560189 00000 n 
-0000560292 00000 n 
-0000560395 00000 n 
-0000560498 00000 n 
-0000560601 00000 n 
-0000560703 00000 n 
-0000560805 00000 n 
-0000560907 00000 n 
-0000561009 00000 n 
-0000561111 00000 n 
-0000561213 00000 n 
-0000561315 00000 n 
-0000561417 00000 n 
-0000561519 00000 n 
-0000561621 00000 n 
-0000561723 00000 n 
-0000561825 00000 n 
-0000561927 00000 n 
-0000562029 00000 n 
-0000562131 00000 n 
-0000562233 00000 n 
-0000562335 00000 n 
-0000562437 00000 n 
-0000562539 00000 n 
-0000562641 00000 n 
-0000562743 00000 n 
-0000562845 00000 n 
-0000562947 00000 n 
-0000563049 00000 n 
-0000563151 00000 n 
-0000563253 00000 n 
-0000563355 00000 n 
-0000563457 00000 n 
-0000563559 00000 n 
-0000563661 00000 n 
-0000563763 00000 n 
-0000563865 00000 n 
-0000563967 00000 n 
-0000564069 00000 n 
-0000564171 00000 n 
-0000564273 00000 n 
-0000564375 00000 n 
-0000564477 00000 n 
-0000564579 00000 n 
-0000564681 00000 n 
-0000564783 00000 n 
-0000564885 00000 n 
-0000564987 00000 n 
-0000565089 00000 n 
-0000565191 00000 n 
-0000565293 00000 n 
-0000565395 00000 n 
-0000565497 00000 n 
-0000565599 00000 n 
-0000565701 00000 n 
-0000565803 00000 n 
-0000565905 00000 n 
-0000566009 00000 n 
-0000566113 00000 n 
-0000566217 00000 n 
-0000566321 00000 n 
-0000566430 00000 n 
-0000566539 00000 n 
-0000566648 00000 n 
-0000566757 00000 n 
-0000566866 00000 n 
-0000566975 00000 n 
-0000567084 00000 n 
-0000567193 00000 n 
-0000567302 00000 n 
-0000567411 00000 n 
-0000567520 00000 n 
-0000567629 00000 n 
-0000567738 00000 n 
-0000567847 00000 n 
-0000567956 00000 n 
-0000568065 00000 n 
-0000568174 00000 n 
-0000568283 00000 n 
-0000568392 00000 n 
-0000568501 00000 n 
+0000527512 00000 n 
+0000527612 00000 n 
+0000527712 00000 n 
+0000527812 00000 n 
+0000527912 00000 n 
+0000528012 00000 n 
+0000528112 00000 n 
+0000528212 00000 n 
+0000528312 00000 n 
+0000528412 00000 n 
+0000528512 00000 n 
+0000528612 00000 n 
+0000528712 00000 n 
+0000528812 00000 n 
+0000528912 00000 n 
+0000529012 00000 n 
+0000529112 00000 n 
+0000529212 00000 n 
+0000529312 00000 n 
+0000529412 00000 n 
+0000529512 00000 n 
+0000529612 00000 n 
+0000529713 00000 n 
+0000529814 00000 n 
+0000529915 00000 n 
+0000530016 00000 n 
+0000530117 00000 n 
+0000530218 00000 n 
+0000530319 00000 n 
+0000530420 00000 n 
+0000530521 00000 n 
+0000530622 00000 n 
+0000530723 00000 n 
+0000530824 00000 n 
+0000530925 00000 n 
+0000531026 00000 n 
+0000531127 00000 n 
+0000531228 00000 n 
+0000531329 00000 n 
+0000531430 00000 n 
+0000531531 00000 n 
+0000531632 00000 n 
+0000531733 00000 n 
+0000531834 00000 n 
+0000531935 00000 n 
+0000532036 00000 n 
+0000532137 00000 n 
+0000532238 00000 n 
+0000532339 00000 n 
+0000532440 00000 n 
+0000532541 00000 n 
+0000532642 00000 n 
+0000532743 00000 n 
+0000532844 00000 n 
+0000532945 00000 n 
+0000533046 00000 n 
+0000533147 00000 n 
+0000533248 00000 n 
+0000533349 00000 n 
+0000533450 00000 n 
+0000533551 00000 n 
+0000533652 00000 n 
+0000533753 00000 n 
+0000533854 00000 n 
+0000533955 00000 n 
+0000534056 00000 n 
+0000534157 00000 n 
+0000534258 00000 n 
+0000534359 00000 n 
+0000534460 00000 n 
+0000534561 00000 n 
+0000534662 00000 n 
+0000534763 00000 n 
+0000534864 00000 n 
+0000534965 00000 n 
+0000535066 00000 n 
+0000535167 00000 n 
+0000535267 00000 n 
+0000535367 00000 n 
+0000535467 00000 n 
+0000535567 00000 n 
+0000535667 00000 n 
+0000535767 00000 n 
+0000535867 00000 n 
+0000535967 00000 n 
+0000536067 00000 n 
+0000560724 00000 n 
+0000560603 00000 n 
+0000536517 00000 n 
+0000536604 00000 n 
+0000536705 00000 n 
+0000536806 00000 n 
+0000536907 00000 n 
+0000537008 00000 n 
+0000537109 00000 n 
+0000537210 00000 n 
+0000537311 00000 n 
+0000537412 00000 n 
+0000537513 00000 n 
+0000537614 00000 n 
+0000537715 00000 n 
+0000537816 00000 n 
+0000537917 00000 n 
+0000538018 00000 n 
+0000538120 00000 n 
+0000538222 00000 n 
+0000538324 00000 n 
+0000538425 00000 n 
+0000538526 00000 n 
+0000538627 00000 n 
+0000538728 00000 n 
+0000538829 00000 n 
+0000538930 00000 n 
+0000539031 00000 n 
+0000539132 00000 n 
+0000539233 00000 n 
+0000539334 00000 n 
+0000539435 00000 n 
+0000539536 00000 n 
+0000539637 00000 n 
+0000539738 00000 n 
+0000539839 00000 n 
+0000539940 00000 n 
+0000540041 00000 n 
+0000540142 00000 n 
+0000540243 00000 n 
+0000540344 00000 n 
+0000540445 00000 n 
+0000540546 00000 n 
+0000540647 00000 n 
+0000540748 00000 n 
+0000540849 00000 n 
+0000540950 00000 n 
+0000541051 00000 n 
+0000541152 00000 n 
+0000541253 00000 n 
+0000541354 00000 n 
+0000541455 00000 n 
+0000541556 00000 n 
+0000541657 00000 n 
+0000541758 00000 n 
+0000541859 00000 n 
+0000541960 00000 n 
+0000542061 00000 n 
+0000542162 00000 n 
+0000542263 00000 n 
+0000542366 00000 n 
+0000542469 00000 n 
+0000542572 00000 n 
+0000542680 00000 n 
+0000542788 00000 n 
+0000542896 00000 n 
+0000543004 00000 n 
+0000543112 00000 n 
+0000543220 00000 n 
+0000543328 00000 n 
+0000543436 00000 n 
+0000543544 00000 n 
+0000543652 00000 n 
+0000543760 00000 n 
+0000543868 00000 n 
+0000543976 00000 n 
+0000544084 00000 n 
+0000544192 00000 n 
+0000544300 00000 n 
+0000544408 00000 n 
+0000544516 00000 n 
+0000544624 00000 n 
+0000544732 00000 n 
+0000544840 00000 n 
+0000544943 00000 n 
+0000545046 00000 n 
+0000545149 00000 n 
+0000545257 00000 n 
+0000545365 00000 n 
+0000545473 00000 n 
+0000545581 00000 n 
+0000545689 00000 n 
+0000545797 00000 n 
+0000545905 00000 n 
+0000546013 00000 n 
+0000546121 00000 n 
+0000546229 00000 n 
+0000546337 00000 n 
+0000546445 00000 n 
+0000546553 00000 n 
+0000546661 00000 n 
+0000546769 00000 n 
+0000546877 00000 n 
+0000546985 00000 n 
+0000547093 00000 n 
+0000547201 00000 n 
+0000547309 00000 n 
+0000547417 00000 n 
+0000547519 00000 n 
+0000547621 00000 n 
+0000547723 00000 n 
+0000547825 00000 n 
+0000547927 00000 n 
+0000548029 00000 n 
+0000548131 00000 n 
+0000548233 00000 n 
+0000548335 00000 n 
+0000548436 00000 n 
+0000548537 00000 n 
+0000548638 00000 n 
+0000548741 00000 n 
+0000548844 00000 n 
+0000548947 00000 n 
+0000549055 00000 n 
+0000549163 00000 n 
+0000549271 00000 n 
+0000549374 00000 n 
+0000549477 00000 n 
+0000549580 00000 n 
+0000549688 00000 n 
+0000549796 00000 n 
+0000549904 00000 n 
+0000550007 00000 n 
+0000550110 00000 n 
+0000550213 00000 n 
+0000550316 00000 n 
+0000550419 00000 n 
+0000550522 00000 n 
+0000550625 00000 n 
+0000550728 00000 n 
+0000550831 00000 n 
+0000550934 00000 n 
+0000551037 00000 n 
+0000551140 00000 n 
+0000551243 00000 n 
+0000551346 00000 n 
+0000551449 00000 n 
+0000551552 00000 n 
+0000551655 00000 n 
+0000551758 00000 n 
+0000551861 00000 n 
+0000551964 00000 n 
+0000552067 00000 n 
+0000552170 00000 n 
+0000552273 00000 n 
+0000552376 00000 n 
+0000552479 00000 n 
+0000552582 00000 n 
+0000552685 00000 n 
+0000552788 00000 n 
+0000552891 00000 n 
+0000552994 00000 n 
+0000553097 00000 n 
+0000553200 00000 n 
+0000553303 00000 n 
+0000553406 00000 n 
+0000553509 00000 n 
+0000553612 00000 n 
+0000553713 00000 n 
+0000553814 00000 n 
+0000553915 00000 n 
+0000554017 00000 n 
+0000554119 00000 n 
+0000554221 00000 n 
+0000554322 00000 n 
+0000554423 00000 n 
+0000554524 00000 n 
+0000554625 00000 n 
+0000554726 00000 n 
+0000554827 00000 n 
+0000554928 00000 n 
+0000555029 00000 n 
+0000555130 00000 n 
+0000555231 00000 n 
+0000555332 00000 n 
+0000555433 00000 n 
+0000555534 00000 n 
+0000555635 00000 n 
+0000555736 00000 n 
+0000555837 00000 n 
+0000555938 00000 n 
+0000556039 00000 n 
+0000556140 00000 n 
+0000556241 00000 n 
+0000556342 00000 n 
+0000556443 00000 n 
+0000556544 00000 n 
+0000556645 00000 n 
+0000556747 00000 n 
+0000556849 00000 n 
+0000556951 00000 n 
+0000557053 00000 n 
+0000557155 00000 n 
+0000557257 00000 n 
+0000557359 00000 n 
+0000557461 00000 n 
+0000557563 00000 n 
+0000557665 00000 n 
+0000557767 00000 n 
+0000557869 00000 n 
+0000557971 00000 n 
+0000558073 00000 n 
+0000558175 00000 n 
+0000558277 00000 n 
+0000558379 00000 n 
+0000558481 00000 n 
+0000558583 00000 n 
+0000558685 00000 n 
+0000558787 00000 n 
+0000558889 00000 n 
+0000558991 00000 n 
+0000559093 00000 n 
+0000559195 00000 n 
+0000559297 00000 n 
+0000559399 00000 n 
+0000559501 00000 n 
+0000559603 00000 n 
+0000559705 00000 n 
+0000559807 00000 n 
+0000559909 00000 n 
+0000560011 00000 n 
+0000560112 00000 n 
+0000560213 00000 n 
+0000560314 00000 n 
+0000560415 00000 n 
+0000560516 00000 n 
+0000594044 00000 n 
+0000593921 00000 n 
+0000560868 00000 n 
+0000560956 00000 n 
+0000561058 00000 n 
+0000561160 00000 n 
+0000561262 00000 n 
+0000561364 00000 n 
+0000561466 00000 n 
+0000561568 00000 n 
+0000561670 00000 n 
+0000561772 00000 n 
+0000561874 00000 n 
+0000561976 00000 n 
+0000562078 00000 n 
+0000562180 00000 n 
+0000562282 00000 n 
+0000562384 00000 n 
+0000562486 00000 n 
+0000562588 00000 n 
+0000562690 00000 n 
+0000562792 00000 n 
+0000562894 00000 n 
+0000562997 00000 n 
+0000563100 00000 n 
+0000563203 00000 n 
+0000563306 00000 n 
+0000563408 00000 n 
+0000563510 00000 n 
+0000563612 00000 n 
+0000563714 00000 n 
+0000563816 00000 n 
+0000563918 00000 n 
+0000564020 00000 n 
+0000564122 00000 n 
+0000564224 00000 n 
+0000564326 00000 n 
+0000564428 00000 n 
+0000564530 00000 n 
+0000564632 00000 n 
+0000564734 00000 n 
+0000564836 00000 n 
+0000564938 00000 n 
+0000565040 00000 n 
+0000565142 00000 n 
+0000565244 00000 n 
+0000565346 00000 n 
+0000565448 00000 n 
+0000565550 00000 n 
+0000565652 00000 n 
+0000565754 00000 n 
+0000565856 00000 n 
+0000565958 00000 n 
+0000566060 00000 n 
+0000566162 00000 n 
+0000566264 00000 n 
+0000566366 00000 n 
+0000566468 00000 n 
+0000566570 00000 n 
+0000566672 00000 n 
+0000566774 00000 n 
+0000566876 00000 n 
+0000566978 00000 n 
+0000567080 00000 n 
+0000567182 00000 n 
+0000567284 00000 n 
+0000567386 00000 n 
+0000567488 00000 n 
+0000567590 00000 n 
+0000567692 00000 n 
+0000567794 00000 n 
+0000567896 00000 n 
+0000567998 00000 n 
+0000568100 00000 n 
+0000568202 00000 n 
+0000568304 00000 n 
+0000568406 00000 n 
+0000568508 00000 n 
 0000568610 00000 n 
-0000568719 00000 n 
-0000568828 00000 n 
-0000568937 00000 n 
-0000569046 00000 n 
-0000569156 00000 n 
-0000569267 00000 n 
-0000569379 00000 n 
-0000569486 00000 n 
-0000569593 00000 n 
-0000569700 00000 n 
-0000569807 00000 n 
-0000569919 00000 n 
-0000570031 00000 n 
-0000570143 00000 n 
-0000570255 00000 n 
-0000570367 00000 n 
-0000570479 00000 n 
-0000570591 00000 n 
-0000570703 00000 n 
-0000570815 00000 n 
-0000570927 00000 n 
-0000571039 00000 n 
-0000571151 00000 n 
-0000571263 00000 n 
-0000571375 00000 n 
-0000571487 00000 n 
-0000571599 00000 n 
-0000571711 00000 n 
-0000571823 00000 n 
-0000571935 00000 n 
-0000572047 00000 n 
-0000572159 00000 n 
-0000572271 00000 n 
-0000572383 00000 n 
-0000572495 00000 n 
-0000572607 00000 n 
-0000572719 00000 n 
-0000572831 00000 n 
-0000572943 00000 n 
-0000573049 00000 n 
-0000573155 00000 n 
-0000573261 00000 n 
-0000573367 00000 n 
-0000573473 00000 n 
-0000573579 00000 n 
-0000573685 00000 n 
-0000573791 00000 n 
-0000573897 00000 n 
-0000574003 00000 n 
-0000574109 00000 n 
-0000574215 00000 n 
-0000574320 00000 n 
-0000574425 00000 n 
-0000574530 00000 n 
-0000574635 00000 n 
-0000574742 00000 n 
-0000574849 00000 n 
-0000574956 00000 n 
-0000575063 00000 n 
-0000575175 00000 n 
-0000575287 00000 n 
-0000575399 00000 n 
-0000575511 00000 n 
-0000575618 00000 n 
-0000575725 00000 n 
-0000575832 00000 n 
-0000575939 00000 n 
-0000576051 00000 n 
-0000576163 00000 n 
-0000576275 00000 n 
-0000576387 00000 n 
-0000576494 00000 n 
-0000576601 00000 n 
+0000568714 00000 n 
+0000568818 00000 n 
+0000568922 00000 n 
+0000569026 00000 n 
+0000569135 00000 n 
+0000569244 00000 n 
+0000569353 00000 n 
+0000569462 00000 n 
+0000569571 00000 n 
+0000569680 00000 n 
+0000569789 00000 n 
+0000569898 00000 n 
+0000570007 00000 n 
+0000570116 00000 n 
+0000570225 00000 n 
+0000570334 00000 n 
+0000570443 00000 n 
+0000570552 00000 n 
+0000570661 00000 n 
+0000570770 00000 n 
+0000570879 00000 n 
+0000570988 00000 n 
+0000571097 00000 n 
+0000571206 00000 n 
+0000571315 00000 n 
+0000571424 00000 n 
+0000571533 00000 n 
+0000571642 00000 n 
+0000571751 00000 n 
+0000571861 00000 n 
+0000571972 00000 n 
+0000572084 00000 n 
+0000572191 00000 n 
+0000572298 00000 n 
+0000572405 00000 n 
+0000572512 00000 n 
+0000572624 00000 n 
+0000572736 00000 n 
+0000572848 00000 n 
+0000572960 00000 n 
+0000573072 00000 n 
+0000573184 00000 n 
+0000573296 00000 n 
+0000573408 00000 n 
+0000573520 00000 n 
+0000573632 00000 n 
+0000573744 00000 n 
+0000573856 00000 n 
+0000573968 00000 n 
+0000574080 00000 n 
+0000574192 00000 n 
+0000574304 00000 n 
+0000574416 00000 n 
+0000574528 00000 n 
+0000574640 00000 n 
+0000574752 00000 n 
+0000574864 00000 n 
+0000574976 00000 n 
+0000575088 00000 n 
+0000575200 00000 n 
+0000575312 00000 n 
+0000575424 00000 n 
+0000575536 00000 n 
+0000575648 00000 n 
+0000575754 00000 n 
+0000575860 00000 n 
+0000575966 00000 n 
+0000576072 00000 n 
+0000576178 00000 n 
+0000576284 00000 n 
+0000576390 00000 n 
+0000576496 00000 n 
+0000576602 00000 n 
 0000576708 00000 n 
-0000576815 00000 n 
-0000576922 00000 n 
-0000577029 00000 n 
-0000577136 00000 n 
-0000577243 00000 n 
-0000577350 00000 n 
-0000577457 00000 n 
-0000577564 00000 n 
-0000577671 00000 n 
-0000577778 00000 n 
-0000577885 00000 n 
+0000576814 00000 n 
+0000576920 00000 n 
+0000577025 00000 n 
+0000577130 00000 n 
+0000577235 00000 n 
+0000577340 00000 n 
+0000577447 00000 n 
+0000577554 00000 n 
+0000577661 00000 n 
+0000577768 00000 n 
+0000577880 00000 n 
 0000577992 00000 n 
-0000578099 00000 n 
-0000578206 00000 n 
-0000578313 00000 n 
-0000578420 00000 n 
-0000578527 00000 n 
-0000578634 00000 n 
-0000578741 00000 n 
-0000578848 00000 n 
-0000578955 00000 n 
-0000579062 00000 n 
-0000579169 00000 n 
-0000579276 00000 n 
-0000579383 00000 n 
-0000579490 00000 n 
-0000579597 00000 n 
-0000579704 00000 n 
-0000579811 00000 n 
-0000579918 00000 n 
-0000580025 00000 n 
-0000580132 00000 n 
-0000580239 00000 n 
-0000580346 00000 n 
-0000580453 00000 n 
-0000580560 00000 n 
-0000580667 00000 n 
-0000580774 00000 n 
-0000580881 00000 n 
-0000580988 00000 n 
-0000581095 00000 n 
-0000581202 00000 n 
-0000581309 00000 n 
-0000581416 00000 n 
-0000581523 00000 n 
-0000581628 00000 n 
-0000581733 00000 n 
-0000581838 00000 n 
-0000581943 00000 n 
-0000582049 00000 n 
-0000582155 00000 n 
-0000582261 00000 n 
-0000582367 00000 n 
-0000582472 00000 n 
-0000582577 00000 n 
-0000582682 00000 n 
-0000582787 00000 n 
-0000582892 00000 n 
-0000582997 00000 n 
-0000583102 00000 n 
-0000583207 00000 n 
-0000583312 00000 n 
-0000583417 00000 n 
-0000583522 00000 n 
-0000583627 00000 n 
-0000583732 00000 n 
-0000583837 00000 n 
-0000583942 00000 n 
-0000584047 00000 n 
-0000584152 00000 n 
-0000584257 00000 n 
-0000584362 00000 n 
-0000584467 00000 n 
-0000584572 00000 n 
-0000584677 00000 n 
-0000584782 00000 n 
-0000584887 00000 n 
-0000584992 00000 n 
-0000585097 00000 n 
-0000585202 00000 n 
-0000585307 00000 n 
-0000585412 00000 n 
-0000585517 00000 n 
-0000585622 00000 n 
-0000585727 00000 n 
-0000585833 00000 n 
-0000585939 00000 n 
-0000586045 00000 n 
-0000586151 00000 n 
-0000586257 00000 n 
-0000586363 00000 n 
-0000586469 00000 n 
-0000586575 00000 n 
-0000586681 00000 n 
-0000586787 00000 n 
-0000586893 00000 n 
-0000586999 00000 n 
-0000587105 00000 n 
-0000587211 00000 n 
-0000587317 00000 n 
-0000587423 00000 n 
-0000587529 00000 n 
-0000587635 00000 n 
-0000587741 00000 n 
-0000587847 00000 n 
-0000587953 00000 n 
-0000588059 00000 n 
-0000588165 00000 n 
-0000588271 00000 n 
-0000588377 00000 n 
-0000588483 00000 n 
-0000588589 00000 n 
-0000588695 00000 n 
-0000588801 00000 n 
-0000588907 00000 n 
-0000589013 00000 n 
-0000589119 00000 n 
-0000589225 00000 n 
-0000589331 00000 n 
-0000589437 00000 n 
-0000589543 00000 n 
-0000589649 00000 n 
-0000589755 00000 n 
-0000589861 00000 n 
-0000589967 00000 n 
-0000590073 00000 n 
-0000590179 00000 n 
-0000590285 00000 n 
-0000590391 00000 n 
-0000590496 00000 n 
-0000590601 00000 n 
-0000590706 00000 n 
-0000590811 00000 n 
-0000590916 00000 n 
-0000591021 00000 n 
-0000591126 00000 n 
-0000591625 00000 n 
-0000591697 00000 n 
+0000578104 00000 n 
+0000578216 00000 n 
+0000578323 00000 n 
+0000578430 00000 n 
+0000578537 00000 n 
+0000578644 00000 n 
+0000578756 00000 n 
+0000578868 00000 n 
+0000578980 00000 n 
+0000579092 00000 n 
+0000579199 00000 n 
+0000579306 00000 n 
+0000579413 00000 n 
+0000579520 00000 n 
+0000579627 00000 n 
+0000579734 00000 n 
+0000579841 00000 n 
+0000579948 00000 n 
+0000580055 00000 n 
+0000580162 00000 n 
+0000580269 00000 n 
+0000580376 00000 n 
+0000580483 00000 n 
+0000580590 00000 n 
+0000580697 00000 n 
+0000580804 00000 n 
+0000580911 00000 n 
+0000581018 00000 n 
+0000581125 00000 n 
+0000581232 00000 n 
+0000581339 00000 n 
+0000581446 00000 n 
+0000581553 00000 n 
+0000581660 00000 n 
+0000581767 00000 n 
+0000581874 00000 n 
+0000581981 00000 n 
+0000582088 00000 n 
+0000582195 00000 n 
+0000582302 00000 n 
+0000582409 00000 n 
+0000582516 00000 n 
+0000582623 00000 n 
+0000582730 00000 n 
+0000582837 00000 n 
+0000582944 00000 n 
+0000583051 00000 n 
+0000583158 00000 n 
+0000583265 00000 n 
+0000583372 00000 n 
+0000583479 00000 n 
+0000583586 00000 n 
+0000583693 00000 n 
+0000583800 00000 n 
+0000583907 00000 n 
+0000584014 00000 n 
+0000584121 00000 n 
+0000584228 00000 n 
+0000584333 00000 n 
+0000584438 00000 n 
+0000584543 00000 n 
+0000584648 00000 n 
+0000584754 00000 n 
+0000584860 00000 n 
+0000584966 00000 n 
+0000585072 00000 n 
+0000585177 00000 n 
+0000585282 00000 n 
+0000585387 00000 n 
+0000585492 00000 n 
+0000585597 00000 n 
+0000585702 00000 n 
+0000585807 00000 n 
+0000585912 00000 n 
+0000586017 00000 n 
+0000586122 00000 n 
+0000586227 00000 n 
+0000586332 00000 n 
+0000586437 00000 n 
+0000586542 00000 n 
+0000586647 00000 n 
+0000586752 00000 n 
+0000586857 00000 n 
+0000586962 00000 n 
+0000587067 00000 n 
+0000587172 00000 n 
+0000587277 00000 n 
+0000587382 00000 n 
+0000587487 00000 n 
+0000587592 00000 n 
+0000587697 00000 n 
+0000587802 00000 n 
+0000587907 00000 n 
+0000588012 00000 n 
+0000588117 00000 n 
+0000588222 00000 n 
+0000588327 00000 n 
+0000588432 00000 n 
+0000588538 00000 n 
+0000588644 00000 n 
+0000588750 00000 n 
+0000588856 00000 n 
+0000588962 00000 n 
+0000589068 00000 n 
+0000589174 00000 n 
+0000589280 00000 n 
+0000589386 00000 n 
+0000589492 00000 n 
+0000589598 00000 n 
+0000589704 00000 n 
+0000589810 00000 n 
+0000589916 00000 n 
+0000590022 00000 n 
+0000590128 00000 n 
+0000590234 00000 n 
+0000590340 00000 n 
+0000590446 00000 n 
+0000590552 00000 n 
+0000590658 00000 n 
+0000590764 00000 n 
+0000590870 00000 n 
+0000590976 00000 n 
+0000591082 00000 n 
+0000591188 00000 n 
+0000591294 00000 n 
+0000591400 00000 n 
+0000591506 00000 n 
+0000591612 00000 n 
+0000591718 00000 n 
+0000591824 00000 n 
+0000591930 00000 n 
+0000592036 00000 n 
+0000592142 00000 n 
+0000592248 00000 n 
+0000592354 00000 n 
+0000592460 00000 n 
+0000592566 00000 n 
+0000592672 00000 n 
+0000592778 00000 n 
+0000592884 00000 n 
+0000592990 00000 n 
+0000593096 00000 n 
+0000593201 00000 n 
+0000593306 00000 n 
+0000593411 00000 n 
+0000593516 00000 n 
+0000593621 00000 n 
+0000593726 00000 n 
+0000593831 00000 n 
+0000594330 00000 n 
+0000594402 00000 n 
 trailer
 
 <<
 /Info 1207 0 R
-/ID [<28e54dcfcc9a68ae03ff9b4901a4a0af><acff23871db3a27e3fbcf7e2cae7875c>]
+/ID [<bf7d028713e771d75f76bb650f3bd202><b27a6f474cba8a06a1c8f603fd57b704>]
 /Root 1206 0 R
 /Size 1208
 >>
 startxref
-591887
+594592
 %%EOF
