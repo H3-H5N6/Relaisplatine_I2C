@@ -65,7 +65,13 @@
       40
     ],
     "visible_layers": "ffcbf20_ffffffff",
-    "zone_display_mode": 0
+    "zone_display_mode": 1
+  },
+  "git": {
+    "repo_password": "",
+    "repo_type": "",
+    "repo_username": "",
+    "ssh_key": ""
   },
   "meta": {
     "filename": "Relaisplatine_I2C.kicad_prl",
